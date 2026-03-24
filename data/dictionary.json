@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -3179,6 +3179,206 @@
       "kkTranscription": "Teledidar",
       "category": "house",
       "id": 397
+    },
+    {
+      "ru": "Животное",
+      "kk": "Жануар",
+      "ruTranscription": "жануар",
+      "kkTranscription": "Januar",
+      "category": "animals",
+      "id": 398
+    },
+    {
+      "ru": "Домашнее животное",
+      "kk": "Үй жануары",
+      "ruTranscription": "үй жануары",
+      "kkTranscription": "Üi january",
+      "category": "animals",
+      "id": 399
+    },
+    {
+      "ru": "Собака",
+      "kk": "Ит",
+      "ruTranscription": "ит",
+      "kkTranscription": "It",
+      "category": "animals",
+      "id": 400
+    },
+    {
+      "ru": "Кошка",
+      "kk": "Мысық",
+      "ruTranscription": "мысық",
+      "kkTranscription": "Mysyq",
+      "category": "animals",
+      "id": 401
+    },
+    {
+      "ru": "Корова",
+      "kk": "Сиыр",
+      "ruTranscription": "сиыр",
+      "kkTranscription": "Siyr",
+      "category": "animals",
+      "id": 402
+    },
+    {
+      "ru": "Лошадь",
+      "kk": "Жылқы",
+      "ruTranscription": "жылқы",
+      "kkTranscription": "Jylqy",
+      "category": "animals",
+      "id": 403
+    },
+    {
+      "ru": "Овца",
+      "kk": "Қой",
+      "ruTranscription": "қой",
+      "kkTranscription": "Qoi",
+      "category": "animals",
+      "id": 404
+    },
+    {
+      "ru": "Коза",
+      "kk": "Ешкі",
+      "ruTranscription": "ешкі",
+      "kkTranscription": "Eşkı",
+      "category": "animals",
+      "id": 405
+    },
+    {
+      "ru": "Свинья",
+      "kk": "Шошқа",
+      "ruTranscription": "шошқа",
+      "kkTranscription": "Şoşqa",
+      "category": "animals",
+      "id": 406
+    },
+    {
+      "ru": "Курица",
+      "kk": "Тауық",
+      "ruTranscription": "тауық",
+      "kkTranscription": "Tauyq",
+      "category": "animals",
+      "id": 407
+    },
+    {
+      "ru": "Птица",
+      "kk": "Құс",
+      "ruTranscription": "құс",
+      "kkTranscription": "Qūs",
+      "category": "animals",
+      "id": 408
+    },
+    {
+      "ru": "Рыба",
+      "kk": "Балық",
+      "ruTranscription": "балық",
+      "kkTranscription": "Balyq",
+      "category": "animals",
+      "id": 409
+    },
+    {
+      "ru": "Волк",
+      "kk": "Қасқыр",
+      "ruTranscription": "қасқыр",
+      "kkTranscription": "Qasqyr",
+      "category": "animals",
+      "id": 410
+    },
+    {
+      "ru": "Лиса",
+      "kk": "Түлкі",
+      "ruTranscription": "түлкі",
+      "kkTranscription": "Tülkı",
+      "category": "animals",
+      "id": 411
+    },
+    {
+      "ru": "Медведь",
+      "kk": "Аю",
+      "ruTranscription": "аю",
+      "kkTranscription": "Aiu",
+      "category": "animals",
+      "id": 412
+    },
+    {
+      "ru": "Заяц",
+      "kk": "Қоян",
+      "ruTranscription": "қоян",
+      "kkTranscription": "Qoian",
+      "category": "animals",
+      "id": 413
+    },
+    {
+      "ru": "Мышь",
+      "kk": "Тышқан",
+      "ruTranscription": "тышқан",
+      "kkTranscription": "Tyşqan",
+      "category": "animals",
+      "id": 414
+    },
+    {
+      "ru": "Птица",
+      "kk": "Құс",
+      "ruTranscription": "құс",
+      "kkTranscription": "Qūs",
+      "category": "animals",
+      "id": 415
+    },
+    {
+      "ru": "Орел",
+      "kk": "Бүркіт",
+      "ruTranscription": "бүркіт",
+      "kkTranscription": "Bürkıt",
+      "category": "animals",
+      "id": 416
+    },
+    {
+      "ru": "Верблюд",
+      "kk": "Түйе",
+      "ruTranscription": "түйе",
+      "kkTranscription": "Tüie",
+      "category": "animals",
+      "id": 417
+    },
+    {
+      "ru": "Слон",
+      "kk": "Піл",
+      "ruTranscription": "піл",
+      "kkTranscription": "Pıl",
+      "category": "animals",
+      "id": 418
+    },
+    {
+      "ru": "Лев",
+      "kk": "Арыстан",
+      "ruTranscription": "арыстан",
+      "kkTranscription": "Arystan",
+      "category": "animals",
+      "id": 419
+    },
+    {
+      "ru": "Тигр",
+      "kk": "Жолбарыс",
+      "ruTranscription": "жолбарыс",
+      "kkTranscription": "Jolbarys",
+      "category": "animals",
+      "id": 420
+    },
+    {
+      "ru": "Обезьяна",
+      "kk": "Маймыл",
+      "ruTranscription": "маймыл",
+      "kkTranscription": "Maimyl",
+      "category": "animals",
+      "id": 421
+    },
+    {
+      "ru": "Змея",
+      "kk": "Жылан",
+      "ruTranscription": "жылан",
+      "kkTranscription": "Jylan",
+      "category": "animals",
+      "id": 422
     }
   ],
   "categories": {
