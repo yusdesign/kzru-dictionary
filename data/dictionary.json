@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -4555,6 +4555,182 @@
       "kkTranscription": "Jalğyzdyq",
       "category": "emotions",
       "id": 569
+    },
+    {
+      "ru": "Прогноз погоды",
+      "kk": "Ауа райы болжамы",
+      "ruTranscription": "ауа райы болжамы",
+      "kkTranscription": "Aua raiy boljamy",
+      "category": "weather",
+      "id": 570
+    },
+    {
+      "ru": "Градус",
+      "kk": "Градус",
+      "ruTranscription": "градус",
+      "kkTranscription": "Gradus",
+      "category": "weather",
+      "id": 571
+    },
+    {
+      "ru": "Температура",
+      "kk": "Температура",
+      "ruTranscription": "температура",
+      "kkTranscription": "Temperatura",
+      "category": "weather",
+      "id": 572
+    },
+    {
+      "ru": "Жара",
+      "kk": "Аптап",
+      "ruTranscription": "аптап",
+      "kkTranscription": "Aptap",
+      "category": "weather",
+      "id": 573
+    },
+    {
+      "ru": "Мороз",
+      "kk": "Аяз",
+      "ruTranscription": "аяз",
+      "kkTranscription": "Aiaz",
+      "category": "weather",
+      "id": 574
+    },
+    {
+      "ru": "Облачно",
+      "kk": "Бұлтты",
+      "ruTranscription": "бұлтты",
+      "kkTranscription": "Būltty",
+      "category": "weather",
+      "id": 575
+    },
+    {
+      "ru": "Ясно",
+      "kk": "Ашық",
+      "ruTranscription": "ашық",
+      "kkTranscription": "Aşyq",
+      "category": "weather",
+      "id": 576
+    },
+    {
+      "ru": "Пасмурно",
+      "kk": "Тұманды",
+      "ruTranscription": "тұманды",
+      "kkTranscription": "Tūmandy",
+      "category": "weather",
+      "id": 577
+    },
+    {
+      "ru": "Гроза",
+      "kk": "Найзағай",
+      "ruTranscription": "найзағай",
+      "kkTranscription": "Naizağai",
+      "category": "weather",
+      "id": 578
+    },
+    {
+      "ru": "Молния",
+      "kk": "Найзағай",
+      "ruTranscription": "найзағай",
+      "kkTranscription": "Naizağai",
+      "category": "weather",
+      "id": 579
+    },
+    {
+      "ru": "Град",
+      "kk": "Бұршақ",
+      "ruTranscription": "бұршақ",
+      "kkTranscription": "Būrşaq",
+      "category": "weather",
+      "id": 580
+    },
+    {
+      "ru": "Ливень",
+      "kk": "Нөсер",
+      "ruTranscription": "нөсер",
+      "kkTranscription": "Nöser",
+      "category": "weather",
+      "id": 581
+    },
+    {
+      "ru": "Метель",
+      "kk": "Боран",
+      "ruTranscription": "боран",
+      "kkTranscription": "Boran",
+      "category": "weather",
+      "id": 582
+    },
+    {
+      "ru": "Гололед",
+      "kk": "Мұздақ",
+      "ruTranscription": "мұздақ",
+      "kkTranscription": "Mūzdaq",
+      "category": "weather",
+      "id": 583
+    },
+    {
+      "ru": "Влажность",
+      "kk": "Ылғалдылық",
+      "ruTranscription": "ылғалдылық",
+      "kkTranscription": "Ylğaldylyq",
+      "category": "weather",
+      "id": 584
+    },
+    {
+      "ru": "Давление",
+      "kk": "Қысым",
+      "ruTranscription": "қысым",
+      "kkTranscription": "Qysym",
+      "category": "weather",
+      "id": 585
+    },
+    {
+      "ru": "Восход",
+      "kk": "Күн шығу",
+      "ruTranscription": "күн шығу",
+      "kkTranscription": "Kün şyğu",
+      "category": "weather",
+      "id": 586
+    },
+    {
+      "ru": "Закат",
+      "kk": "Күн бату",
+      "ruTranscription": "күн бату",
+      "kkTranscription": "Kün batu",
+      "category": "weather",
+      "id": 587
+    },
+    {
+      "ru": "Радуга",
+      "kk": "Кемпірқосақ",
+      "ruTranscription": "кемпірқосақ",
+      "kkTranscription": "Kempırqosaq",
+      "category": "weather",
+      "id": 588
+    },
+    {
+      "ru": "Туман",
+      "kk": "Тұман",
+      "ruTranscription": "тұман",
+      "kkTranscription": "Tūman",
+      "category": "weather",
+      "id": 589
+    },
+    {
+      "ru": "Иней",
+      "kk": "Қырау",
+      "ruTranscription": "қырау",
+      "kkTranscription": "Qyrau",
+      "category": "weather",
+      "id": 590
+    },
+    {
+      "ru": "Роса",
+      "kk": "Шық",
+      "ruTranscription": "шық",
+      "kkTranscription": "Şyq",
+      "category": "weather",
+      "id": 591
     }
   ],
   "categories": {
@@ -4578,6 +4754,7 @@
     "house": "Дом и быт",
     "animals": "Животные",
     "sports": "Спорт",
-    "technology": "Технологии"
+    "technology": "Технологии",
+    "weather": "Погода"
   }
 }
