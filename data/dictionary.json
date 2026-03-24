@@ -1,5 +1,5 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -4635,6 +4635,166 @@
       "kkTranscription": "Mai",
       "category": "food",
       "id": 579
+    },
+    {
+      "ru": "Дед",
+      "kk": "Ата",
+      "ruTranscription": "ата",
+      "kkTranscription": "Ata",
+      "category": "family",
+      "id": 580
+    },
+    {
+      "ru": "Бабушка",
+      "kk": "Әже",
+      "ruTranscription": "әже",
+      "kkTranscription": "Äje",
+      "category": "family",
+      "id": 581
+    },
+    {
+      "ru": "Внук",
+      "kk": "Немере",
+      "ruTranscription": "немере",
+      "kkTranscription": "Nemere",
+      "category": "family",
+      "id": 582
+    },
+    {
+      "ru": "Внучка",
+      "kk": "Немере",
+      "ruTranscription": "немере",
+      "kkTranscription": "Nemere",
+      "category": "family",
+      "id": 583
+    },
+    {
+      "ru": "Правнук",
+      "kk": "Шөбере",
+      "ruTranscription": "шөбере",
+      "kkTranscription": "Şöbere",
+      "category": "family",
+      "id": 584
+    },
+    {
+      "ru": "Правнучка",
+      "kk": "Шөбере",
+      "ruTranscription": "шөбере",
+      "kkTranscription": "Şöbere",
+      "category": "family",
+      "id": 585
+    },
+    {
+      "ru": "Дядя",
+      "kk": "Аға",
+      "ruTranscription": "аға",
+      "kkTranscription": "Ağa",
+      "category": "family",
+      "id": 586
+    },
+    {
+      "ru": "Тетя",
+      "kk": "Апа",
+      "ruTranscription": "апа",
+      "kkTranscription": "Apa",
+      "category": "family",
+      "id": 587
+    },
+    {
+      "ru": "Племянник",
+      "kk": "Жиен",
+      "ruTranscription": "жиен",
+      "kkTranscription": "Jien",
+      "category": "family",
+      "id": 588
+    },
+    {
+      "ru": "Племянница",
+      "kk": "Жиен",
+      "ruTranscription": "жиен",
+      "kkTranscription": "Jien",
+      "category": "family",
+      "id": 589
+    },
+    {
+      "ru": "Свекор",
+      "kk": "Қайын ата",
+      "ruTranscription": "қайын ата",
+      "kkTranscription": "Qaiyn ata",
+      "category": "family",
+      "id": 590
+    },
+    {
+      "ru": "Свекровь",
+      "kk": "Қайын ене",
+      "ruTranscription": "қайын ене",
+      "kkTranscription": "Qaiyn ene",
+      "category": "family",
+      "id": 591
+    },
+    {
+      "ru": "Тесть",
+      "kk": "Қайын ата",
+      "ruTranscription": "қайын ата",
+      "kkTranscription": "Qaiyn ata",
+      "category": "family",
+      "id": 592
+    },
+    {
+      "ru": "Теща",
+      "kk": "Қайын ене",
+      "ruTranscription": "қайын ене",
+      "kkTranscription": "Qaiyn ene",
+      "category": "family",
+      "id": 593
+    },
+    {
+      "ru": "Зять",
+      "kk": "Күйеу бала",
+      "ruTranscription": "күйеу бала",
+      "kkTranscription": "Küieu bala",
+      "category": "family",
+      "id": 594
+    },
+    {
+      "ru": "Невестка",
+      "kk": "Келін",
+      "ruTranscription": "келін",
+      "kkTranscription": "Kelın",
+      "category": "family",
+      "id": 595
+    },
+    {
+      "ru": "Сват",
+      "kk": "Құда",
+      "ruTranscription": "құда",
+      "kkTranscription": "Qūda",
+      "category": "family",
+      "id": 596
+    },
+    {
+      "ru": "Сватья",
+      "kk": "Құдағи",
+      "ruTranscription": "құдағи",
+      "kkTranscription": "Qūdaği",
+      "category": "family",
+      "id": 597
+    },
+    {
+      "ru": "Крестный отец",
+      "kk": "Құда ата",
+      "ruTranscription": "құда ата",
+      "kkTranscription": "Qūda ata",
+      "category": "family",
+      "id": 598
+    },
+    {
+      "ru": "Крестная мать",
+      "kk": "Құда апа",
+      "ruTranscription": "құда апа",
+      "kkTranscription": "Qūda apa",
+      "category": "family",
+      "id": 599
     }
   ],
   "categories": {
