@@ -1,5 +1,5 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -5513,6 +5513,198 @@
       "category": "culture",
       "note": "Обряд осыпания шашу",
       "id": 686
+    },
+    {
+      "ru": "Литература",
+      "kk": "Әдебиет",
+      "ruTranscription": "әдебиет",
+      "kkTranscription": "Ädebiet",
+      "category": "literature",
+      "id": 687
+    },
+    {
+      "ru": "Роман",
+      "kk": "Роман",
+      "ruTranscription": "роман",
+      "kkTranscription": "Roman",
+      "category": "literature",
+      "id": 688
+    },
+    {
+      "ru": "Повесть",
+      "kk": "Әңгіме",
+      "ruTranscription": "әңгіме",
+      "kkTranscription": "Äñgıme",
+      "category": "literature",
+      "id": 689
+    },
+    {
+      "ru": "Рассказ",
+      "kk": "Әңгіме",
+      "ruTranscription": "әңгіме",
+      "kkTranscription": "Äñgıme",
+      "category": "literature",
+      "id": 690
+    },
+    {
+      "ru": "Стихотворение",
+      "kk": "Өлең",
+      "ruTranscription": "өлең",
+      "kkTranscription": "Öleñ",
+      "category": "literature",
+      "id": 691
+    },
+    {
+      "ru": "Поэма",
+      "kk": "Поэма",
+      "ruTranscription": "поэма",
+      "kkTranscription": "Poema",
+      "category": "literature",
+      "id": 692
+    },
+    {
+      "ru": "Драма",
+      "kk": "Драма",
+      "ruTranscription": "драма",
+      "kkTranscription": "Drama",
+      "category": "literature",
+      "id": 693
+    },
+    {
+      "ru": "Комедия",
+      "kk": "Комедия",
+      "ruTranscription": "комедия",
+      "kkTranscription": "Komedia",
+      "category": "literature",
+      "id": 694
+    },
+    {
+      "ru": "Трагедия",
+      "kk": "Трагедия",
+      "ruTranscription": "трагедия",
+      "kkTranscription": "Tragedia",
+      "category": "literature",
+      "id": 695
+    },
+    {
+      "ru": "Автор",
+      "kk": "Автор",
+      "ruTranscription": "автор",
+      "kkTranscription": "Avtor",
+      "category": "literature",
+      "id": 696
+    },
+    {
+      "ru": "Писатель",
+      "kk": "Жазушы",
+      "ruTranscription": "жазушы",
+      "kkTranscription": "Jazuyşy",
+      "category": "literature",
+      "id": 697
+    },
+    {
+      "ru": "Поэт",
+      "kk": "Ақын",
+      "ruTranscription": "ақын",
+      "kkTranscription": "Aqyn",
+      "category": "literature",
+      "id": 698
+    },
+    {
+      "ru": "Драматург",
+      "kk": "Драматург",
+      "ruTranscription": "драматург",
+      "kkTranscription": "Dramaturg",
+      "category": "literature",
+      "id": 699
+    },
+    {
+      "ru": "Сказка",
+      "kk": "Ертегі",
+      "ruTranscription": "ертегі",
+      "kkTranscription": "Ertegı",
+      "category": "literature",
+      "id": 700
+    },
+    {
+      "ru": "Легенда",
+      "kk": "Аңыз",
+      "ruTranscription": "аңыз",
+      "kkTranscription": "Añyz",
+      "category": "literature",
+      "id": 701
+    },
+    {
+      "ru": "Эпос",
+      "kk": "Эпос",
+      "ruTranscription": "эпос",
+      "kkTranscription": "Epos",
+      "category": "literature",
+      "id": 702
+    },
+    {
+      "ru": "Жанр",
+      "kk": "Жанр",
+      "ruTranscription": "жанр",
+      "kkTranscription": "Janr",
+      "category": "literature",
+      "id": 703
+    },
+    {
+      "ru": "Сюжет",
+      "kk": "Сюжет",
+      "ruTranscription": "сюжет",
+      "kkTranscription": "SyuJet",
+      "category": "literature",
+      "id": 704
+    },
+    {
+      "ru": "Персонаж",
+      "kk": "Кейіпкер",
+      "ruTranscription": "кейіпкер",
+      "kkTranscription": "Keiıpker",
+      "category": "literature",
+      "id": 705
+    },
+    {
+      "ru": "Герой",
+      "kk": "Батыр",
+      "ruTranscription": "батыр",
+      "kkTranscription": "Batyr",
+      "category": "literature",
+      "id": 706
+    },
+    {
+      "ru": "Страница",
+      "kk": "Бет",
+      "ruTranscription": "бет",
+      "kkTranscription": "Bet",
+      "category": "literature",
+      "id": 707
+    },
+    {
+      "ru": "Глава",
+      "kk": "Тарау",
+      "ruTranscription": "тарау",
+      "kkTranscription": "Tarau",
+      "category": "literature",
+      "id": 708
+    },
+    {
+      "ru": "Издательство",
+      "kk": "Баспа",
+      "ruTranscription": "баспа",
+      "kkTranscription": "Baspа",
+      "category": "literature",
+      "id": 709
+    },
+    {
+      "ru": "Тираж",
+      "kk": "Таралым",
+      "ruTranscription": "таралым",
+      "kkTranscription": "Taralym",
+      "category": "literature",
+      "id": 710
     }
   ],
   "categories": {
@@ -5539,6 +5731,7 @@
     "technology": "Технологии",
     "weather": "Погода",
     "body": "Части тела",
-    "culture": "Казахская культура"
+    "culture": "Казахская культура",
+    "literature": "Литература"
   }
 }
