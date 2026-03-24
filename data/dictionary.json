@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -5705,6 +5705,191 @@
       "kkTranscription": "Taralym",
       "category": "literature",
       "id": 710
+    },
+    {
+      "ru": "Журналистика",
+      "kk": "Журналистика",
+      "ruTranscription": "журналистика",
+      "kkTranscription": "Jurnalistika",
+      "category": "journalism",
+      "id": 711
+    },
+    {
+      "ru": "Репортер",
+      "kk": "Репортер",
+      "ruTranscription": "репортер",
+      "kkTranscription": "Reporter",
+      "category": "journalism",
+      "id": 712
+    },
+    {
+      "ru": "Корреспондент",
+      "kk": "Тілші",
+      "ruTranscription": "тілші",
+      "kkTranscription": "Tılşı",
+      "category": "journalism",
+      "id": 713
+    },
+    {
+      "ru": "Редактор",
+      "kk": "Редактор",
+      "ruTranscription": "редактор",
+      "kkTranscription": "Redaktor",
+      "category": "journalism",
+      "id": 714
+    },
+    {
+      "ru": "Газета",
+      "kk": "Газет",
+      "ruTranscription": "газет",
+      "kkTranscription": "Gazet",
+      "category": "journalism",
+      "id": 715
+    },
+    {
+      "ru": "Журнал",
+      "kk": "Журнал",
+      "ruTranscription": "журнал",
+      "kkTranscription": "Jurnal",
+      "category": "journalism",
+      "id": 716
+    },
+    {
+      "ru": "Статья",
+      "kk": "Мақала",
+      "ruTranscription": "мақала",
+      "kkTranscription": "Maqala",
+      "category": "journalism",
+      "id": 717
+    },
+    {
+      "ru": "Заметка",
+      "kk": "Жазба",
+      "ruTranscription": "жазба",
+      "kkTranscription": "Jazba",
+      "category": "journalism",
+      "id": 718
+    },
+    {
+      "ru": "Интервью",
+      "kk": "Сұхбат",
+      "ruTranscription": "сұхбат",
+      "kkTranscription": "Sūhbat",
+      "category": "journalism",
+      "id": 719
+    },
+    {
+      "ru": "Репортаж",
+      "kk": "Репортаж",
+      "ruTranscription": "репортаж",
+      "kkTranscription": "Reportaj",
+      "category": "journalism",
+      "id": 720
+    },
+    {
+      "ru": "Новости",
+      "kk": "Жаңалықтар",
+      "ruTranscription": "жаңалықтар",
+      "kkTranscription": "Jañalyqtar",
+      "category": "journalism",
+      "id": 721
+    },
+    {
+      "ru": "СМИ",
+      "kk": "БАҚ",
+      "ruTranscription": "бақ",
+      "kkTranscription": "BAQ",
+      "category": "journalism",
+      "note": "Средства массовой информации",
+      "id": 722
+    },
+    {
+      "ru": "Телевидение",
+      "kk": "Теледидар",
+      "ruTranscription": "теледидар",
+      "kkTranscription": "Teledidar",
+      "category": "journalism",
+      "id": 723
+    },
+    {
+      "ru": "Радио",
+      "kk": "Радио",
+      "ruTranscription": "радио",
+      "kkTranscription": "Radio",
+      "category": "journalism",
+      "id": 724
+    },
+    {
+      "ru": "Интернет-издание",
+      "kk": "Интернет-басылым",
+      "ruTranscription": "интернет-басылым",
+      "kkTranscription": "Internet-basylym",
+      "category": "journalism",
+      "id": 725
+    },
+    {
+      "ru": "Блог",
+      "kk": "Блог",
+      "ruTranscription": "блог",
+      "kkTranscription": "Blog",
+      "category": "journalism",
+      "id": 726
+    },
+    {
+      "ru": "Блогер",
+      "kk": "Блогер",
+      "ruTranscription": "блогер",
+      "kkTranscription": "Bloger",
+      "category": "journalism",
+      "id": 727
+    },
+    {
+      "ru": "Подписчик",
+      "kk": "Жазылушы",
+      "ruTranscription": "жазылушы",
+      "kkTranscription": "Jazyluşy",
+      "category": "journalism",
+      "id": 728
+    },
+    {
+      "ru": "Пресс-конференция",
+      "kk": "Баспасөз мәслихаты",
+      "ruTranscription": "баспасөз мәслихаты",
+      "kkTranscription": "Baspasöz mäslixaty",
+      "category": "journalism",
+      "id": 729
+    },
+    {
+      "ru": "Эфир",
+      "kk": "Эфир",
+      "ruTranscription": "эфир",
+      "kkTranscription": "Efir",
+      "category": "journalism",
+      "id": 730
+    },
+    {
+      "ru": "Прямой эфир",
+      "kk": "Тікелей эфир",
+      "ruTranscription": "тікелей эфир",
+      "kkTranscription": "Tikelei efir",
+      "category": "journalism",
+      "id": 731
+    },
+    {
+      "ru": "Заголовок",
+      "kk": "Тақырып",
+      "ruTranscription": "тақырып",
+      "kkTranscription": "Taqyryp",
+      "category": "journalism",
+      "id": 732
+    },
+    {
+      "ru": "Фотожурналист",
+      "kk": "Фотожурналист",
+      "ruTranscription": "фотожурналист",
+      "kkTranscription": "Fotojurnalist",
+      "category": "journalism",
+      "id": 733
     }
   ],
   "categories": {
@@ -5732,6 +5917,7 @@
     "weather": "Погода",
     "body": "Части тела",
     "culture": "Казахская культура",
-    "literature": "Литература"
+    "literature": "Литература",
+    "journalism": "Журналистика"
   }
 }
