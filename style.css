@@ -215,6 +215,78 @@ header h1 {
     font-size: 1.1em;
 }
 
+/* Направления перевода */
+.result-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.word-pair {
+    flex: 1;
+}
+
+.word-pair.direction-ru-kk,
+.word-pair.direction-kk-ru {
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.word-pair.direction-both {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.pair-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-size: 1.1em;
+}
+
+.arrow {
+    color: #6c757d;
+    font-size: 1.1em;
+    font-weight: normal;
+}
+
+.meta-info {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.direction-badge {
+    font-size: 0.75em;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.ru-kk-badge {
+    background: #e3f2fd;
+    color: #1976d2;
+}
+
+.kk-ru-badge {
+    background: #e8f5e9;
+    color: #2e7d32;
+}
+
+.both-badge {
+    background: #f3e5f5;
+    color: #7b1fa2;
+}
+
 footer {
     background: #f8f9fa;
     padding: 20px;
@@ -269,5 +341,23 @@ footer {
     .transcriptions {
         flex-direction: column;
         gap: 8px;
+    }
+    
+    .word-pair.direction-ru-kk,
+    .word-pair.direction-kk-ru {
+        font-size: 1.1em;
+        gap: 8px;
+    }
+    
+    .pair-item {
+        font-size: 1em;
+    }
+    
+    .result-header {
+        flex-direction: column;
+    }
+    
+    .meta-info {
+        justify-content: flex-start;
     }
 }

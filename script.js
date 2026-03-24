@@ -84,9 +84,11 @@ function search() {
 }
 
 // Отображение результатов
+// Отображение результатов с учетом направления
 function displayResults(results) {
     const resultsContainer = document.getElementById('results');
     const resultCount = document.getElementById('resultCount');
+    const direction = document.getElementById('directionSelect').value;
     
     resultCount.textContent = `Найдено: ${results.length} слов`;
     
@@ -95,26 +97,71 @@ function displayResults(results) {
         return;
     }
     
-    resultsContainer.innerHTML = results.map(entry => `
-        <div class="result-card">
-            <div class="result-header">
-                <div class="word-pair">
+    resultsContainer.innerHTML = results.map(entry => {
+        // Определяем порядок слов в зависимости от направления
+        let wordPairHtml = '';
+        let directionLabel = '';
+        
+        if (direction === 'ru-kk') {
+            // Русско-казахский: сначала русское
+            wordPairHtml = `
+                <div class="word-pair direction-ru-kk">
                     <span class="ru-word">🇷🇺 ${entry.ru}</span>
+                    <span class="arrow">→</span>
                     <span class="kk-word">🇰🇿 ${entry.kk}</span>
                 </div>
-                <span class="category-badge">${dictionaryData.categories[entry.category] || entry.category}</span>
-            </div>
-            <div class="transcriptions">
-                <div class="transcription-item">
-                    <strong>📢 Произношение (рус.):</strong> ${entry.ruTranscription}
+            `;
+            directionLabel = '<span class="direction-badge ru-kk-badge">🇷🇺 Русский → Қазақша</span>';
+        } else if (direction === 'kk-ru') {
+            // Казахско-русский: сначала казахское
+            wordPairHtml = `
+                <div class="word-pair direction-kk-ru">
+                    <span class="kk-word">🇰🇿 ${entry.kk}</span>
+                    <span class="arrow">→</span>
+                    <span class="ru-word">🇷🇺 ${entry.ru}</span>
                 </div>
-                <div class="transcription-item">
-                    <strong>🎤 Айтылуы (қаз.):</strong> ${entry.kkTranscription}
+            `;
+            directionLabel = '<span class="direction-badge kk-ru-badge">🇰🇿 Қазақша → Русский</span>';
+        } else {
+            // Оба направления: показываем оба варианта
+            wordPairHtml = `
+                <div class="word-pair direction-both">
+                    <div class="pair-item">
+                        <span class="ru-word">🇷🇺 ${entry.ru}</span>
+                        <span class="arrow">→</span>
+                        <span class="kk-word">🇰🇿 ${entry.kk}</span>
+                    </div>
+                    <div class="pair-item">
+                        <span class="kk-word">🇰🇿 ${entry.kk}</span>
+                        <span class="arrow">→</span>
+                        <span class="ru-word">🇷🇺 ${entry.ru}</span>
+                    </div>
                 </div>
+            `;
+            directionLabel = '<span class="direction-badge both-badge">🔁 Оба направления</span>';
+        }
+        
+        return `
+            <div class="result-card">
+                <div class="result-header">
+                    ${wordPairHtml}
+                    <div class="meta-info">
+                        ${directionLabel}
+                        <span class="category-badge">${dictionaryData.categories[entry.category] || entry.category}</span>
+                    </div>
+                </div>
+                <div class="transcriptions">
+                    <div class="transcription-item">
+                        <strong>📢 Произношение (рус.):</strong> ${entry.ruTranscription}
+                    </div>
+                    <div class="transcription-item">
+                        <strong>🎤 Айтылуы (қаз.):</strong> ${entry.kkTranscription}
+                    </div>
+                </div>
+                ${entry.note ? `<div class="note">💡 Примечание: ${entry.note}</div>` : ''}
             </div>
-            ${entry.note ? `<div class="note">💡 Примечание: ${entry.note}</div>` : ''}
-        </div>
-    `).join('');
+        `;
+    }).join('');
 }
 
 // Экспорт данных для администрирования
