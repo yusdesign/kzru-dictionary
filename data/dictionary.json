@@ -1,5 +1,5 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -4731,6 +4731,382 @@
       "kkTranscription": "Şyq",
       "category": "weather",
       "id": 591
+    },
+    {
+      "ru": "Лицо",
+      "kk": "Бет",
+      "ruTranscription": "бет",
+      "kkTranscription": "Bet",
+      "category": "body",
+      "id": 592
+    },
+    {
+      "ru": "Волосы",
+      "kk": "Шаш",
+      "ruTranscription": "шаш",
+      "kkTranscription": "Şaş",
+      "category": "body",
+      "id": 593
+    },
+    {
+      "ru": "Лоб",
+      "kk": "Маңдай",
+      "ruTranscription": "маңдай",
+      "kkTranscription": "Mañdai",
+      "category": "body",
+      "id": 594
+    },
+    {
+      "ru": "Бровь",
+      "kk": "Қас",
+      "ruTranscription": "қас",
+      "kkTranscription": "Qas",
+      "category": "body",
+      "id": 595
+    },
+    {
+      "ru": "Ресницы",
+      "kk": "Кірпік",
+      "ruTranscription": "кірпік",
+      "kkTranscription": "Kırpık",
+      "category": "body",
+      "id": 596
+    },
+    {
+      "ru": "Щека",
+      "kk": "Бет",
+      "ruTranscription": "бет",
+      "kkTranscription": "Bet",
+      "category": "body",
+      "id": 597
+    },
+    {
+      "ru": "Подбородок",
+      "kk": "Иек",
+      "ruTranscription": "иек",
+      "kkTranscription": "Iek",
+      "category": "body",
+      "id": 598
+    },
+    {
+      "ru": "Шея",
+      "kk": "Мойын",
+      "ruTranscription": "мойын",
+      "kkTranscription": "Moiyn",
+      "category": "body",
+      "id": 599
+    },
+    {
+      "ru": "Плечо",
+      "kk": "Иық",
+      "ruTranscription": "иық",
+      "kkTranscription": "Iyq",
+      "category": "body",
+      "id": 600
+    },
+    {
+      "ru": "Локоть",
+      "kk": "Шынтақ",
+      "ruTranscription": "шынтақ",
+      "kkTranscription": "Şyntaq",
+      "category": "body",
+      "id": 601
+    },
+    {
+      "ru": "Запястье",
+      "kk": "Білек",
+      "ruTranscription": "білек",
+      "kkTranscription": "Bılek",
+      "category": "body",
+      "id": 602
+    },
+    {
+      "ru": "Кисть",
+      "kk": "Алақан",
+      "ruTranscription": "алақан",
+      "kkTranscription": "Alaqan",
+      "category": "body",
+      "id": 603
+    },
+    {
+      "ru": "Палец",
+      "kk": "Саусақ",
+      "ruTranscription": "саусақ",
+      "kkTranscription": "Sausaq",
+      "category": "body",
+      "id": 604
+    },
+    {
+      "ru": "Ноготь",
+      "kk": "Тырнақ",
+      "ruTranscription": "тырнақ",
+      "kkTranscription": "Tyrnaq",
+      "category": "body",
+      "id": 605
+    },
+    {
+      "ru": "Грудь",
+      "kk": "Кеуде",
+      "ruTranscription": "кеуде",
+      "kkTranscription": "Keude",
+      "category": "body",
+      "id": 606
+    },
+    {
+      "ru": "Спина",
+      "kk": "Арқа",
+      "ruTranscription": "арқа",
+      "kkTranscription": "Arqa",
+      "category": "body",
+      "id": 607
+    },
+    {
+      "ru": "Живот",
+      "kk": "Іш",
+      "ruTranscription": "іш",
+      "kkTranscription": "Iş",
+      "category": "body",
+      "id": 608
+    },
+    {
+      "ru": "Талия",
+      "kk": "Бел",
+      "ruTranscription": "бел",
+      "kkTranscription": "Bel",
+      "category": "body",
+      "id": 609
+    },
+    {
+      "ru": "Бедро",
+      "kk": "Сан",
+      "ruTranscription": "сан",
+      "kkTranscription": "San",
+      "category": "body",
+      "id": 610
+    },
+    {
+      "ru": "Колено",
+      "kk": "Тізе",
+      "ruTranscription": "тізе",
+      "kkTranscription": "Tıze",
+      "category": "body",
+      "id": 611
+    },
+    {
+      "ru": "Голень",
+      "kk": "Балтыр",
+      "ruTranscription": "балтыр",
+      "kkTranscription": "Baltyr",
+      "category": "body",
+      "id": 612
+    },
+    {
+      "ru": "Стопа",
+      "kk": "Табан",
+      "ruTranscription": "табан",
+      "kkTranscription": "Taban",
+      "category": "body",
+      "id": 613
+    },
+    {
+      "ru": "Пятка",
+      "kk": "Өкше",
+      "ruTranscription": "өкше",
+      "kkTranscription": "Ökşe",
+      "category": "body",
+      "id": 614
+    },
+    {
+      "ru": "Тело",
+      "kk": "Дене",
+      "ruTranscription": "дене",
+      "kkTranscription": "Dene",
+      "category": "body",
+      "id": 615
+    },
+    {
+      "ru": "Лицо",
+      "kk": "Бет",
+      "ruTranscription": "бет",
+      "kkTranscription": "Bet",
+      "category": "body",
+      "id": 592
+    },
+    {
+      "ru": "Волосы",
+      "kk": "Шаш",
+      "ruTranscription": "шаш",
+      "kkTranscription": "Şaş",
+      "category": "body",
+      "id": 593
+    },
+    {
+      "ru": "Лоб",
+      "kk": "Маңдай",
+      "ruTranscription": "маңдай",
+      "kkTranscription": "Mañdai",
+      "category": "body",
+      "id": 594
+    },
+    {
+      "ru": "Бровь",
+      "kk": "Қас",
+      "ruTranscription": "қас",
+      "kkTranscription": "Qas",
+      "category": "body",
+      "id": 595
+    },
+    {
+      "ru": "Ресницы",
+      "kk": "Кірпік",
+      "ruTranscription": "кірпік",
+      "kkTranscription": "Kırpık",
+      "category": "body",
+      "id": 596
+    },
+    {
+      "ru": "Щека",
+      "kk": "Бет",
+      "ruTranscription": "бет",
+      "kkTranscription": "Bet",
+      "category": "body",
+      "id": 597
+    },
+    {
+      "ru": "Подбородок",
+      "kk": "Иек",
+      "ruTranscription": "иек",
+      "kkTranscription": "Iek",
+      "category": "body",
+      "id": 598
+    },
+    {
+      "ru": "Шея",
+      "kk": "Мойын",
+      "ruTranscription": "мойын",
+      "kkTranscription": "Moiyn",
+      "category": "body",
+      "id": 599
+    },
+    {
+      "ru": "Плечо",
+      "kk": "Иық",
+      "ruTranscription": "иық",
+      "kkTranscription": "Iyq",
+      "category": "body",
+      "id": 600
+    },
+    {
+      "ru": "Локоть",
+      "kk": "Шынтақ",
+      "ruTranscription": "шынтақ",
+      "kkTranscription": "Şyntaq",
+      "category": "body",
+      "id": 601
+    },
+    {
+      "ru": "Запястье",
+      "kk": "Білек",
+      "ruTranscription": "білек",
+      "kkTranscription": "Bılek",
+      "category": "body",
+      "id": 602
+    },
+    {
+      "ru": "Кисть",
+      "kk": "Алақан",
+      "ruTranscription": "алақан",
+      "kkTranscription": "Alaqan",
+      "category": "body",
+      "id": 603
+    },
+    {
+      "ru": "Палец",
+      "kk": "Саусақ",
+      "ruTranscription": "саусақ",
+      "kkTranscription": "Sausaq",
+      "category": "body",
+      "id": 604
+    },
+    {
+      "ru": "Ноготь",
+      "kk": "Тырнақ",
+      "ruTranscription": "тырнақ",
+      "kkTranscription": "Tyrnaq",
+      "category": "body",
+      "id": 605
+    },
+    {
+      "ru": "Грудь",
+      "kk": "Кеуде",
+      "ruTranscription": "кеуде",
+      "kkTranscription": "Keude",
+      "category": "body",
+      "id": 606
+    },
+    {
+      "ru": "Спина",
+      "kk": "Арқа",
+      "ruTranscription": "арқа",
+      "kkTranscription": "Arqa",
+      "category": "body",
+      "id": 607
+    },
+    {
+      "ru": "Живот",
+      "kk": "Іш",
+      "ruTranscription": "іш",
+      "kkTranscription": "Iş",
+      "category": "body",
+      "id": 608
+    },
+    {
+      "ru": "Талия",
+      "kk": "Бел",
+      "ruTranscription": "бел",
+      "kkTranscription": "Bel",
+      "category": "body",
+      "id": 609
+    },
+    {
+      "ru": "Бедро",
+      "kk": "Сан",
+      "ruTranscription": "сан",
+      "kkTranscription": "San",
+      "category": "body",
+      "id": 610
+    },
+    {
+      "ru": "Колено",
+      "kk": "Тізе",
+      "ruTranscription": "тізе",
+      "kkTranscription": "Tıze",
+      "category": "body",
+      "id": 611
+    },
+    {
+      "ru": "Голень",
+      "kk": "Балтыр",
+      "ruTranscription": "балтыр",
+      "kkTranscription": "Baltyr",
+      "category": "body",
+      "id": 612
+    },
+    {
+      "ru": "Стопа",
+      "kk": "Табан",
+      "ruTranscription": "табан",
+      "kkTranscription": "Taban",
+      "category": "body",
+      "id": 613
+    },
+    {
+      "ru": "Пятка",
+      "kk": "Өкше",
+      "ruTranscription": "өкше",
+      "kkTranscription": "Ökşe",
+      "category": "body",
+      "id": 614
     }
   ],
   "categories": {
@@ -4755,6 +5131,7 @@
     "animals": "Животные",
     "sports": "Спорт",
     "technology": "Технологии",
-    "weather": "Погода"
+    "weather": "Погода",
+    "body": "Части тела"
   }
 }
