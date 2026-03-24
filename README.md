@@ -2,7 +2,7 @@
 Kazakh-Russian Dictionary
 
 ```text
-kazakh-russian-dictionary/
+kkru-dictionary/
 ├── index.html          # Основной интерфейс
 ├── style.css           # Стили
 ├── script.js           # Логика поиска и переключения
