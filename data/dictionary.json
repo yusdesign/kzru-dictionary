@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -3915,6 +3915,246 @@
       "kkTranscription": "Qate",
       "category": "technology",
       "id": 489
+    },
+    {
+      "ru": "Образование",
+      "kk": "Білім",
+      "ruTranscription": "білім",
+      "kkTranscription": "Bılım",
+      "category": "education",
+      "id": 490
+    },
+    {
+      "ru": "Школа",
+      "kk": "Мектеп",
+      "ruTranscription": "мектеп",
+      "kkTranscription": "Mektep",
+      "category": "education",
+      "id": 491
+    },
+    {
+      "ru": "Университет",
+      "kk": "Университет",
+      "ruTranscription": "университет",
+      "kkTranscription": "Universitet",
+      "category": "education",
+      "id": 492
+    },
+    {
+      "ru": "Колледж",
+      "kk": "Колледж",
+      "ruTranscription": "колледж",
+      "kkTranscription": "Kolledj",
+      "category": "education",
+      "id": 493
+    },
+    {
+      "ru": "Учитель",
+      "kk": "Мұғалім",
+      "ruTranscription": "мұғалім",
+      "kkTranscription": "Mūğalım",
+      "category": "education",
+      "id": 494
+    },
+    {
+      "ru": "Преподаватель",
+      "kk": "Оқытушы",
+      "ruTranscription": "оқытушы",
+      "kkTranscription": "Oqytuşy",
+      "category": "education",
+      "id": 495
+    },
+    {
+      "ru": "Студент",
+      "kk": "Студент",
+      "ruTranscription": "студент",
+      "kkTranscription": "Student",
+      "category": "education",
+      "id": 496
+    },
+    {
+      "ru": "Ученик",
+      "kk": "Оқушы",
+      "ruTranscription": "оқушы",
+      "kkTranscription": "Oquşy",
+      "category": "education",
+      "id": 497
+    },
+    {
+      "ru": "Урок",
+      "kk": "Сабақ",
+      "ruTranscription": "сабақ",
+      "kkTranscription": "Sabaq",
+      "category": "education",
+      "id": 498
+    },
+    {
+      "ru": "Предмет",
+      "kk": "Пән",
+      "ruTranscription": "пән",
+      "kkTranscription": "Pän",
+      "category": "education",
+      "id": 499
+    },
+    {
+      "ru": "Математика",
+      "kk": "Математика",
+      "ruTranscription": "математика",
+      "kkTranscription": "Matematika",
+      "category": "education",
+      "id": 500
+    },
+    {
+      "ru": "Физика",
+      "kk": "Физика",
+      "ruTranscription": "физика",
+      "kkTranscription": "Fizika",
+      "category": "education",
+      "id": 501
+    },
+    {
+      "ru": "Химия",
+      "kk": "Химия",
+      "ruTranscription": "химия",
+      "kkTranscription": "Khimia",
+      "category": "education",
+      "id": 502
+    },
+    {
+      "ru": "Биология",
+      "kk": "Биология",
+      "ruTranscription": "биология",
+      "kkTranscription": "Biologiia",
+      "category": "education",
+      "id": 503
+    },
+    {
+      "ru": "История",
+      "kk": "Тарих",
+      "ruTranscription": "тарих",
+      "kkTranscription": "Tarih",
+      "category": "education",
+      "id": 504
+    },
+    {
+      "ru": "География",
+      "kk": "География",
+      "ruTranscription": "география",
+      "kkTranscription": "Geografiia",
+      "category": "education",
+      "id": 505
+    },
+    {
+      "ru": "Язык",
+      "kk": "Тіл",
+      "ruTranscription": "тіл",
+      "kkTranscription": "Tıl",
+      "category": "education",
+      "id": 506
+    },
+    {
+      "ru": "Английский язык",
+      "kk": "Ағылшын тілі",
+      "ruTranscription": "ағылшын тілі",
+      "kkTranscription": "Ağylşyn tılı",
+      "category": "education",
+      "id": 507
+    },
+    {
+      "ru": "Казахский язык",
+      "kk": "Қазақ тілі",
+      "ruTranscription": "қазақ тілі",
+      "kkTranscription": "Qazaq tılı",
+      "category": "education",
+      "id": 508
+    },
+    {
+      "ru": "Русский язык",
+      "kk": "Орыс тілі",
+      "ruTranscription": "орыс тілі",
+      "kkTranscription": "Orys tılı",
+      "category": "education",
+      "id": 509
+    },
+    {
+      "ru": "Экзамен",
+      "kk": "Емтихан",
+      "ruTranscription": "емтихан",
+      "kkTranscription": "Emtihan",
+      "category": "education",
+      "id": 510
+    },
+    {
+      "ru": "Тест",
+      "kk": "Тест",
+      "ruTranscription": "тест",
+      "kkTranscription": "Test",
+      "category": "education",
+      "id": 511
+    },
+    {
+      "ru": "Домашнее задание",
+      "kk": "Үй тапсырмасы",
+      "ruTranscription": "үй тапсырмасы",
+      "kkTranscription": "Üi tapsyrmasy",
+      "category": "education",
+      "id": 512
+    },
+    {
+      "ru": "Диплом",
+      "kk": "Диплом",
+      "ruTranscription": "диплом",
+      "kkTranscription": "Diplom",
+      "category": "education",
+      "id": 513
+    },
+    {
+      "ru": "Стипендия",
+      "kk": "Стипендия",
+      "ruTranscription": "стипендия",
+      "kkTranscription": "Stipendiia",
+      "category": "education",
+      "id": 514
+    },
+    {
+      "ru": "Библиотека",
+      "kk": "Кітапхана",
+      "ruTranscription": "кітапхана",
+      "kkTranscription": "Kıtaphana",
+      "category": "education",
+      "id": 515
+    },
+    {
+      "ru": "Книга",
+      "kk": "Кітап",
+      "ruTranscription": "кітап",
+      "kkTranscription": "Kıtap",
+      "category": "education",
+      "id": 516
+    },
+    {
+      "ru": "Тетрадь",
+      "kk": "Дәптер",
+      "ruTranscription": "дәптер",
+      "kkTranscription": "Däpter",
+      "category": "education",
+      "id": 517
+    },
+    {
+      "ru": "Ручка",
+      "kk": "Қалам",
+      "ruTranscription": "қалам",
+      "kkTranscription": "Qalam",
+      "category": "education",
+      "id": 518
+    },
+    {
+      "ru": "Карандаш",
+      "kk": "Қарындаш",
+      "ruTranscription": "қарындаш",
+      "kkTranscription": "Qaryndaş",
+      "category": "education",
+      "id": 519
     }
   ],
   "categories": {
