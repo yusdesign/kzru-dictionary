@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Русско-Казахский словарь</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📖 Русско-Казахский словарь</h1>
+            <p class="subtitle">Қазақша-орысша сөздік</p>
+            <div class="version-info">
+                <span id="version">Версия: загрузка...</span>
+                <span id="lastUpdated">Обновлено: загрузка...</span>
+            </div>
+        </header>
+
+        <div class="search-section">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Поиск слова на русском или казахском...">
+                <button id="searchBtn">🔍 Найти</button>
+            </div>
+            
+            <div class="filters">
+                <select id="directionSelect">
+                    <option value="both">🔁 Все направления</option>
+                    <option value="ru-kk">🇷🇺 Русский → Қазақша</option>
+                    <option value="kk-ru">🇰🇿 Қазақша → Русский</option>
+                </select>
+                
+                <select id="categorySelect">
+                    <option value="all">📚 Все категории</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="stats">
+            <span id="resultCount"></span>
+        </div>
+
+        <div id="results" class="results-container">
+            <div class="loading">Загрузка словаря...</div>
+        </div>
+
+        <footer>
+            <p>Данные обновляются через Git | Версия 1.0</p>
+            <p>📝 Транскрипция: русская для казахских слов, латинская для казахского произношения</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
