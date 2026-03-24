@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -2547,6 +2547,246 @@
       "kkTranscription": "Kezdeskenşe!",
       "category": "phrases",
       "id": 318
+    },
+    {
+      "ru": "Бизнес",
+      "kk": "Бизнес",
+      "ruTranscription": "бизнес",
+      "kkTranscription": "Biznes",
+      "category": "business",
+      "id": 319
+    },
+    {
+      "ru": "Компания",
+      "kk": "Компания",
+      "ruTranscription": "компания",
+      "kkTranscription": "Kompania",
+      "category": "business",
+      "id": 320
+    },
+    {
+      "ru": "Фирма",
+      "kk": "Фирма",
+      "ruTranscription": "фирма",
+      "kkTranscription": "Firma",
+      "category": "business",
+      "id": 321
+    },
+    {
+      "ru": "Офис",
+      "kk": "Кеңсе",
+      "ruTranscription": "кеңсе",
+      "kkTranscription": "Keñse",
+      "category": "business",
+      "id": 322
+    },
+    {
+      "ru": "Директор",
+      "kk": "Директор",
+      "ruTranscription": "директор",
+      "kkTranscription": "Direktor",
+      "category": "business",
+      "id": 323
+    },
+    {
+      "ru": "Менеджер",
+      "kk": "Менеджер",
+      "ruTranscription": "менеджер",
+      "kkTranscription": "Menedžer",
+      "category": "business",
+      "id": 324
+    },
+    {
+      "ru": "Сотрудник",
+      "kk": "Қызметкер",
+      "ruTranscription": "қызметкер",
+      "kkTranscription": "Qyzmetker",
+      "category": "business",
+      "id": 325
+    },
+    {
+      "ru": "Клиент",
+      "kk": "Клиент",
+      "ruTranscription": "клиент",
+      "kkTranscription": "Klient",
+      "category": "business",
+      "id": 326
+    },
+    {
+      "ru": "Партнер",
+      "kk": "Серіктес",
+      "ruTranscription": "серіктес",
+      "kkTranscription": "Serıktes",
+      "category": "business",
+      "id": 327
+    },
+    {
+      "ru": "Контракт",
+      "kk": "Келісімшарт",
+      "ruTranscription": "келісімшарт",
+      "kkTranscription": "Kelısımşart",
+      "category": "business",
+      "id": 328
+    },
+    {
+      "ru": "Договор",
+      "kk": "Шарт",
+      "ruTranscription": "шарт",
+      "kkTranscription": "Şart",
+      "category": "business",
+      "id": 329
+    },
+    {
+      "ru": "Сделка",
+      "kk": "Мәміле",
+      "ruTranscription": "мәміле",
+      "kkTranscription": "Mämıle",
+      "category": "business",
+      "id": 330
+    },
+    {
+      "ru": "Переговоры",
+      "kk": "Келіссөз",
+      "ruTranscription": "келіссөз",
+      "kkTranscription": "Kelıssöz",
+      "category": "business",
+      "id": 331
+    },
+    {
+      "ru": "Встреча",
+      "kk": "Кездесу",
+      "ruTranscription": "кездесу",
+      "kkTranscription": "Kezdesu",
+      "category": "business",
+      "id": 332
+    },
+    {
+      "ru": "Презентация",
+      "kk": "Презентация",
+      "ruTranscription": "презентация",
+      "kkTranscription": "Prezentatsia",
+      "category": "business",
+      "id": 333
+    },
+    {
+      "ru": "Отчет",
+      "kk": "Есеп",
+      "ruTranscription": "есеп",
+      "kkTranscription": "Esep",
+      "category": "business",
+      "id": 334
+    },
+    {
+      "ru": "План",
+      "kk": "Жоспар",
+      "ruTranscription": "жоспар",
+      "kkTranscription": "Jospar",
+      "category": "business",
+      "id": 335
+    },
+    {
+      "ru": "Проект",
+      "kk": "Жоба",
+      "ruTranscription": "жоба",
+      "kkTranscription": "Joba",
+      "category": "business",
+      "id": 336
+    },
+    {
+      "ru": "Прибыль",
+      "kk": "Пайда",
+      "ruTranscription": "пайда",
+      "kkTranscription": "Paida",
+      "category": "business",
+      "id": 337
+    },
+    {
+      "ru": "Убыток",
+      "kk": "Шығын",
+      "ruTranscription": "шығын",
+      "kkTranscription": "Şyğyn",
+      "category": "business",
+      "id": 338
+    },
+    {
+      "ru": "Инвестиция",
+      "kk": "Инвестиция",
+      "ruTranscription": "инвестиция",
+      "kkTranscription": "Investitsia",
+      "category": "business",
+      "id": 339
+    },
+    {
+      "ru": "Рынок",
+      "kk": "Нарық",
+      "ruTranscription": "нарық",
+      "kkTranscription": "Naryq",
+      "category": "business",
+      "id": 340
+    },
+    {
+      "ru": "Конкуренция",
+      "kk": "Бәсекелестік",
+      "ruTranscription": "бәсекелестік",
+      "kkTranscription": "Bäsekielestık",
+      "category": "business",
+      "id": 341
+    },
+    {
+      "ru": "Цена",
+      "kk": "Баға",
+      "ruTranscription": "баға",
+      "kkTranscription": "Bağa",
+      "category": "business",
+      "id": 342
+    },
+    {
+      "ru": "Скидка",
+      "kk": "Жеңілдік",
+      "ruTranscription": "жеңілдік",
+      "kkTranscription": "Jeñıldık",
+      "category": "business",
+      "id": 343
+    },
+    {
+      "ru": "Зарплата",
+      "kk": "Жалақы",
+      "ruTranscription": "жалақы",
+      "kkTranscription": "Jalaqy",
+      "category": "business",
+      "id": 344
+    },
+    {
+      "ru": "Бонус",
+      "kk": "Бонус",
+      "ruTranscription": "бонус",
+      "kkTranscription": "Bonus",
+      "category": "business",
+      "id": 345
+    },
+    {
+      "ru": "Вакансия",
+      "kk": "Бос орын",
+      "ruTranscription": "бос орын",
+      "kkTranscription": "Bos oryn",
+      "category": "business",
+      "id": 346
+    },
+    {
+      "ru": "Резюме",
+      "kk": "Түйіндеме",
+      "ruTranscription": "түйіндеме",
+      "kkTranscription": "Tüiındeme",
+      "category": "business",
+      "id": 347
+    },
+    {
+      "ru": "Собеседование",
+      "kk": "Сұхбат",
+      "ruTranscription": "сұхбат",
+      "kkTranscription": "Sūhbat",
+      "category": "business",
+      "id": 348
     }
   ],
   "categories": {
