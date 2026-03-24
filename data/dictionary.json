@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -1627,6 +1627,206 @@
       "kkTranscription": "Galstuk",
       "category": "clothing",
       "id": 203
+    },
+    {
+      "ru": "Здоровье",
+      "kk": "Денсаулық",
+      "ruTranscription": "денсаулық",
+      "kkTranscription": "Densaulyq",
+      "category": "health",
+      "id": 204
+    },
+    {
+      "ru": "Тело",
+      "kk": "Дене",
+      "ruTranscription": "дене",
+      "kkTranscription": "Dene",
+      "category": "health",
+      "id": 205
+    },
+    {
+      "ru": "Голова",
+      "kk": "Бас",
+      "ruTranscription": "бас",
+      "kkTranscription": "Bas",
+      "category": "health",
+      "id": 206
+    },
+    {
+      "ru": "Рука",
+      "kk": "Қол",
+      "ruTranscription": "қол",
+      "kkTranscription": "Qol",
+      "category": "health",
+      "id": 207
+    },
+    {
+      "ru": "Нога",
+      "kk": "Аяқ",
+      "ruTranscription": "аяқ",
+      "kkTranscription": "Ayaq",
+      "category": "health",
+      "id": 208
+    },
+    {
+      "ru": "Глаз",
+      "kk": "Көз",
+      "ruTranscription": "көз",
+      "kkTranscription": "Köz",
+      "category": "health",
+      "id": 209
+    },
+    {
+      "ru": "Ухо",
+      "kk": "Құлақ",
+      "ruTranscription": "құлақ",
+      "kkTranscription": "Qūlaq",
+      "category": "health",
+      "id": 210
+    },
+    {
+      "ru": "Нос",
+      "kk": "Мұрын",
+      "ruTranscription": "мұрын",
+      "kkTranscription": "Mūryn",
+      "category": "health",
+      "id": 211
+    },
+    {
+      "ru": "Рот",
+      "kk": "Ауыз",
+      "ruTranscription": "ауыз",
+      "kkTranscription": "Auyz",
+      "category": "health",
+      "id": 212
+    },
+    {
+      "ru": "Сердце",
+      "kk": "Жүрек",
+      "ruTranscription": "жүрек",
+      "kkTranscription": "Jürek",
+      "category": "health",
+      "id": 213
+    },
+    {
+      "ru": "Боль",
+      "kk": "Ауру",
+      "ruTranscription": "ауру",
+      "kkTranscription": "Auru",
+      "category": "health",
+      "id": 214
+    },
+    {
+      "ru": "Голова болит",
+      "kk": "Басым ауырады",
+      "ruTranscription": "басым ауырады",
+      "kkTranscription": "Basym auyrady",
+      "category": "health",
+      "id": 215
+    },
+    {
+      "ru": "Температура",
+      "kk": "Қызу",
+      "ruTranscription": "қызу",
+      "kkTranscription": "Qyzu",
+      "category": "health",
+      "id": 216
+    },
+    {
+      "ru": "Кашель",
+      "kk": "Жөтел",
+      "ruTranscription": "жөтел",
+      "kkTranscription": "Jötel",
+      "category": "health",
+      "id": 217
+    },
+    {
+      "ru": "Насморк",
+      "kk": "Мұрынның ағуы",
+      "ruTranscription": "мұрынның ағуы",
+      "kkTranscription": "Mūrynnyñ ağuy",
+      "category": "health",
+      "id": 218
+    },
+    {
+      "ru": "Лекарство",
+      "kk": "Дәрі",
+      "ruTranscription": "дәрі",
+      "kkTranscription": "Därı",
+      "category": "health",
+      "id": 219
+    },
+    {
+      "ru": "Врач",
+      "kk": "Дәрігер",
+      "ruTranscription": "дәрігер",
+      "kkTranscription": "Därıger",
+      "category": "health",
+      "id": 220
+    },
+    {
+      "ru": "Больница",
+      "kk": "Аурухана",
+      "ruTranscription": "аурухана",
+      "kkTranscription": "Auruhana",
+      "category": "health",
+      "id": 221
+    },
+    {
+      "ru": "Аптека",
+      "kk": "Дәріхана",
+      "ruTranscription": "дәріхана",
+      "kkTranscription": "Därıhana",
+      "category": "health",
+      "id": 222
+    },
+    {
+      "ru": "Стоматолог",
+      "kk": "Тіс дәрігері",
+      "ruTranscription": "тіс дәрігері",
+      "kkTranscription": "Tis därıgerı",
+      "category": "health",
+      "id": 223
+    },
+    {
+      "ru": "Зуб",
+      "kk": "Тіс",
+      "ruTranscription": "тіс",
+      "kkTranscription": "Tis",
+      "category": "health",
+      "id": 224
+    },
+    {
+      "ru": "Выздоравливать",
+      "kk": "Жазылу",
+      "ruTranscription": "жазылу",
+      "kkTranscription": "Jazylu",
+      "category": "health",
+      "id": 225
+    },
+    {
+      "ru": "Болеть",
+      "kk": "Ауыру",
+      "ruTranscription": "ауыру",
+      "kkTranscription": "Auyru",
+      "category": "health",
+      "id": 226
+    },
+    {
+      "ru": "Укол",
+      "kk": "Инъекция",
+      "ruTranscription": "инъекция",
+      "kkTranscription": "In'ektsiia",
+      "category": "health",
+      "id": 227
+    },
+    {
+      "ru": "Скорая помощь",
+      "kk": "Жедел жәрдем",
+      "ruTranscription": "жедел жәрдем",
+      "kkTranscription": "Jedel järdem",
+      "category": "health",
+      "id": 228
     }
   ],
   "categories": {
