@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -4395,6 +4395,246 @@
       "kkTranscription": "Ökşe",
       "category": "body",
       "id": 549
+    },
+    {
+      "ru": "Завтрак",
+      "kk": "Таңғы ас",
+      "ruTranscription": "таңғы ас",
+      "kkTranscription": "Tañğy as",
+      "category": "food",
+      "id": 550
+    },
+    {
+      "ru": "Обед",
+      "kk": "Түскі ас",
+      "ruTranscription": "түскі ас",
+      "kkTranscription": "Tüskı as",
+      "category": "food",
+      "id": 551
+    },
+    {
+      "ru": "Ужин",
+      "kk": "Кешкі ас",
+      "ruTranscription": "кешкі ас",
+      "kkTranscription": "Keşkı as",
+      "category": "food",
+      "id": 552
+    },
+    {
+      "ru": "Яблоко",
+      "kk": "Алма",
+      "ruTranscription": "алма",
+      "kkTranscription": "Alma",
+      "category": "food",
+      "id": 553
+    },
+    {
+      "ru": "Банан",
+      "kk": "Банан",
+      "ruTranscription": "банан",
+      "kkTranscription": "Banan",
+      "category": "food",
+      "id": 554
+    },
+    {
+      "ru": "Апельсин",
+      "kk": "Апельсин",
+      "ruTranscription": "апельсин",
+      "kkTranscription": "Apelsin",
+      "category": "food",
+      "id": 555
+    },
+    {
+      "ru": "Груша",
+      "kk": "Алмұрт",
+      "ruTranscription": "алмұрт",
+      "kkTranscription": "Almūrt",
+      "category": "food",
+      "id": 556
+    },
+    {
+      "ru": "Виноград",
+      "kk": "Жүзім",
+      "ruTranscription": "жүзім",
+      "kkTranscription": "Jüzım",
+      "category": "food",
+      "id": 557
+    },
+    {
+      "ru": "Картофель",
+      "kk": "Картоп",
+      "ruTranscription": "картоп",
+      "kkTranscription": "Kartop",
+      "category": "food",
+      "id": 558
+    },
+    {
+      "ru": "Морковь",
+      "kk": "Сәбіз",
+      "ruTranscription": "сәбіз",
+      "kkTranscription": "Säbız",
+      "category": "food",
+      "id": 559
+    },
+    {
+      "ru": "Лук",
+      "kk": "Пияз",
+      "ruTranscription": "пияз",
+      "kkTranscription": "Piiaz",
+      "category": "food",
+      "id": 560
+    },
+    {
+      "ru": "Капуста",
+      "kk": "Қырыққабат",
+      "ruTranscription": "қырыққабат",
+      "kkTranscription": "Qyryqqabat",
+      "category": "food",
+      "id": 561
+    },
+    {
+      "ru": "Огурец",
+      "kk": "Қияр",
+      "ruTranscription": "қияр",
+      "kkTranscription": "Qiiar",
+      "category": "food",
+      "id": 562
+    },
+    {
+      "ru": "Помидор",
+      "kk": "Қызанақ",
+      "ruTranscription": "қызанақ",
+      "kkTranscription": "Qyzanaq",
+      "category": "food",
+      "id": 563
+    },
+    {
+      "ru": "Суп",
+      "kk": "Сорпа",
+      "ruTranscription": "сорпа",
+      "kkTranscription": "Sorpa",
+      "category": "food",
+      "id": 564
+    },
+    {
+      "ru": "Салат",
+      "kk": "Салат",
+      "ruTranscription": "салат",
+      "kkTranscription": "Salat",
+      "category": "food",
+      "id": 565
+    },
+    {
+      "ru": "Десерт",
+      "kk": "Десерт",
+      "ruTranscription": "десерт",
+      "kkTranscription": "Desert",
+      "category": "food",
+      "id": 566
+    },
+    {
+      "ru": "Торт",
+      "kk": "Торт",
+      "ruTranscription": "торт",
+      "kkTranscription": "Tort",
+      "category": "food",
+      "id": 567
+    },
+    {
+      "ru": "Мороженое",
+      "kk": "Балмұздақ",
+      "ruTranscription": "балмұздақ",
+      "kkTranscription": "Balmūzdaq",
+      "category": "food",
+      "id": 568
+    },
+    {
+      "ru": "Сок",
+      "kk": "Шырын",
+      "ruTranscription": "шырын",
+      "kkTranscription": "Şyryn",
+      "category": "food",
+      "id": 569
+    },
+    {
+      "ru": "Кофе",
+      "kk": "Кофе",
+      "ruTranscription": "кофе",
+      "kkTranscription": "Kofe",
+      "category": "food",
+      "id": 570
+    },
+    {
+      "ru": "Какао",
+      "kk": "Какао",
+      "ruTranscription": "какао",
+      "kkTranscription": "Kakao",
+      "category": "food",
+      "id": 571
+    },
+    {
+      "ru": "Лимонад",
+      "kk": "Лимонад",
+      "ruTranscription": "лимонад",
+      "kkTranscription": "Limonad",
+      "category": "food",
+      "id": 572
+    },
+    {
+      "ru": "Борщ",
+      "kk": "Борщ",
+      "ruTranscription": "борщ",
+      "kkTranscription": "Borsh",
+      "category": "food",
+      "id": 573
+    },
+    {
+      "ru": "Плов",
+      "kk": "Палау",
+      "ruTranscription": "палау",
+      "kkTranscription": "Palau",
+      "category": "food",
+      "id": 574
+    },
+    {
+      "ru": "Манты",
+      "kk": "Манты",
+      "ruTranscription": "манты",
+      "kkTranscription": "Manty",
+      "category": "food",
+      "id": 575
+    },
+    {
+      "ru": "Лапша",
+      "kk": "Кеспе",
+      "ruTranscription": "кеспе",
+      "kkTranscription": "Kespe",
+      "category": "food",
+      "id": 576
+    },
+    {
+      "ru": "Омлет",
+      "kk": "Омлет",
+      "ruTranscription": "омлет",
+      "kkTranscription": "Omlet",
+      "category": "food",
+      "id": 577
+    },
+    {
+      "ru": "Сыр",
+      "kk": "Ірімшік",
+      "ruTranscription": "ірімшік",
+      "kkTranscription": "Irımşık",
+      "category": "food",
+      "id": 578
+    },
+    {
+      "ru": "Масло",
+      "kk": "Май",
+      "ruTranscription": "май",
+      "kkTranscription": "Mai",
+      "category": "food",
+      "id": 579
     }
   ],
   "categories": {
