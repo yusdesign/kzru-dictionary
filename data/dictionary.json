@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -5291,6 +5291,228 @@
       "kkTranscription": "Analitik",
       "category": "work",
       "id": 661
+    },
+    {
+      "ru": "Фольклор",
+      "kk": "Фольклор",
+      "ruTranscription": "фольклор",
+      "kkTranscription": "Fol'klor",
+      "category": "culture",
+      "id": 662
+    },
+    {
+      "ru": "Акын",
+      "kk": "Ақын",
+      "ruTranscription": "ақын",
+      "kkTranscription": "Aqyn",
+      "category": "culture",
+      "note": "Поэт-импровизатор",
+      "id": 663
+    },
+    {
+      "ru": "Жырау",
+      "kk": "Жырау",
+      "ruTranscription": "жырау",
+      "kkTranscription": "Jyrau",
+      "category": "culture",
+      "note": "Поэт-сказитель",
+      "id": 664
+    },
+    {
+      "ru": "Айтыс",
+      "kk": "Айтыс",
+      "ruTranscription": "айтыс",
+      "kkTranscription": "Aitys",
+      "category": "culture",
+      "note": "Состязание акынов",
+      "id": 665
+    },
+    {
+      "ru": "Кюй",
+      "kk": "Күй",
+      "ruTranscription": "күй",
+      "kkTranscription": "Küi",
+      "category": "culture",
+      "note": "Инструментальное произведение",
+      "id": 666
+    },
+    {
+      "ru": "Кюйши",
+      "kk": "Күйші",
+      "ruTranscription": "күйші",
+      "kkTranscription": "Küişı",
+      "category": "culture",
+      "note": "Исполнитель кюев",
+      "id": 667
+    },
+    {
+      "ru": "Домбра",
+      "kk": "Домбыра",
+      "ruTranscription": "домбыра",
+      "kkTranscription": "Dombyra",
+      "category": "culture",
+      "id": 668
+    },
+    {
+      "ru": "Кобыз",
+      "kk": "Қобыз",
+      "ruTranscription": "қобыз",
+      "kkTranscription": "Qobyz",
+      "category": "culture",
+      "id": 669
+    },
+    {
+      "ru": "Сыбызгы",
+      "kk": "Сыбызғы",
+      "ruTranscription": "сыбызғы",
+      "kkTranscription": "Sybyzğy",
+      "category": "culture",
+      "note": "Духовой инструмент",
+      "id": 670
+    },
+    {
+      "ru": "Той",
+      "kk": "Той",
+      "ruTranscription": "той",
+      "kkTranscription": "Toi",
+      "category": "culture",
+      "note": "Праздник, торжество",
+      "id": 671
+    },
+    {
+      "ru": "Наурыз",
+      "kk": "Наурыз",
+      "ruTranscription": "наурыз",
+      "kkTranscription": "Nauryz",
+      "category": "culture",
+      "note": "Праздник весны",
+      "id": 672
+    },
+    {
+      "ru": "Куда",
+      "kk": "Құда",
+      "ruTranscription": "құда",
+      "kkTranscription": "Qūda",
+      "category": "culture",
+      "note": "Сват, сватовство",
+      "id": 673
+    },
+    {
+      "ru": "Беташар",
+      "kk": "Беташар",
+      "ruTranscription": "беташар",
+      "kkTranscription": "Betaşar",
+      "category": "culture",
+      "note": "Свадебный обряд открытия лица",
+      "id": 674
+    },
+    {
+      "ru": "Кыз узату",
+      "kk": "Қыз ұзату",
+      "ruTranscription": "қыз ұзату",
+      "kkTranscription": "Qyz ūzatu",
+      "category": "culture",
+      "note": "Свадебный обряд проводов невесты",
+      "id": 675
+    },
+    {
+      "ru": "Тусау кесер",
+      "kk": "Тұсау кесер",
+      "ruTranscription": "тұсау кесер",
+      "kkTranscription": "Tūsau keser",
+      "category": "culture",
+      "note": "Обряд разрезания пут",
+      "id": 676
+    },
+    {
+      "ru": "Асар",
+      "kk": "Асар",
+      "ruTranscription": "асар",
+      "kkTranscription": "Asar",
+      "category": "culture",
+      "note": "Коллективная помощь",
+      "id": 677
+    },
+    {
+      "ru": "Байга",
+      "kk": "Бәйге",
+      "ruTranscription": "бәйге",
+      "kkTranscription": "Bäige",
+      "category": "culture",
+      "note": "Конные скачки",
+      "id": 678
+    },
+    {
+      "ru": "Кокпар",
+      "kk": "Көкпар",
+      "ruTranscription": "көкпар",
+      "kkTranscription": "Kökpar",
+      "category": "culture",
+      "note": "Национальная игра",
+      "id": 679
+    },
+    {
+      "ru": "Аударыспак",
+      "kk": "Аударыспақ",
+      "ruTranscription": "аударыспақ",
+      "kkTranscription": "Audaryspaq",
+      "category": "culture",
+      "note": "Борьба на лошадях",
+      "id": 680
+    },
+    {
+      "ru": "Тогыз кумалак",
+      "kk": "Тоғыз құмалақ",
+      "ruTranscription": "тоғыз құмалақ",
+      "kkTranscription": "Toğyz qūmalaq",
+      "category": "culture",
+      "note": "Национальная настольная игра",
+      "id": 681
+    },
+    {
+      "ru": "Ас",
+      "kk": "Ас",
+      "ruTranscription": "ас",
+      "kkTranscription": "As",
+      "category": "culture",
+      "note": "Поминки, поминальный обед",
+      "id": 682
+    },
+    {
+      "ru": "Жоктау",
+      "kk": "Жоқтау",
+      "ruTranscription": "жоқтау",
+      "kkTranscription": "Joqtau",
+      "category": "culture",
+      "note": "Плач-причитание",
+      "id": 683
+    },
+    {
+      "ru": "Конил айту",
+      "kk": "Көңіл айту",
+      "ruTranscription": "көңіл айту",
+      "kkTranscription": "Köñıl aitu",
+      "category": "culture",
+      "note": "Соболезнование",
+      "id": 684
+    },
+    {
+      "ru": "Бата",
+      "kk": "Бата",
+      "ruTranscription": "бата",
+      "kkTranscription": "Bata",
+      "category": "culture",
+      "note": "Благословение",
+      "id": 685
+    },
+    {
+      "ru": "Шашу",
+      "kk": "Шашу",
+      "ruTranscription": "шашу",
+      "kkTranscription": "Şaşu",
+      "category": "culture",
+      "note": "Обряд осыпания шашу",
+      "id": 686
     }
   ],
   "categories": {
@@ -5316,6 +5538,7 @@
     "sports": "Спорт",
     "technology": "Технологии",
     "weather": "Погода",
-    "body": "Части тела"
+    "body": "Части тела",
+    "culture": "Казахская культура"
   }
 }
