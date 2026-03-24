@@ -1,5 +1,5 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -5155,6 +5155,142 @@
       "kkTranscription": "Jeltoqsan",
       "category": "time",
       "id": 644
+    },
+    {
+      "ru": "Хирург",
+      "kk": "Хирург",
+      "ruTranscription": "хирург",
+      "kkTranscription": "Hirurg",
+      "category": "work",
+      "id": 645
+    },
+    {
+      "ru": "Педиатр",
+      "kk": "Балалар дәрігері",
+      "ruTranscription": "балалар дәрігері",
+      "kkTranscription": "Balalar därıgerı",
+      "category": "work",
+      "id": 646
+    },
+    {
+      "ru": "Пилот",
+      "kk": "Ұшқыш",
+      "ruTranscription": "ұшқыш",
+      "kkTranscription": "Ūşqyş",
+      "category": "work",
+      "id": 647
+    },
+    {
+      "ru": "Космонавт",
+      "kk": "Ғарышкер",
+      "ruTranscription": "ғарышкер",
+      "kkTranscription": "Ğaryşker",
+      "category": "work",
+      "id": 648
+    },
+    {
+      "ru": "Моряк",
+      "kk": "Теңізші",
+      "ruTranscription": "теңізші",
+      "kkTranscription": "Teñızşı",
+      "category": "work",
+      "id": 649
+    },
+    {
+      "ru": "Шахтер",
+      "kk": "Шахтер",
+      "ruTranscription": "шахтер",
+      "kkTranscription": "Şaht'er",
+      "category": "work",
+      "id": 650
+    },
+    {
+      "ru": "Металлург",
+      "kk": "Металлург",
+      "ruTranscription": "металлург",
+      "kkTranscription": "Metallurg",
+      "category": "work",
+      "id": 651
+    },
+    {
+      "ru": "Агроном",
+      "kk": "Агроном",
+      "ruTranscription": "агроном",
+      "kkTranscription": "Agronom",
+      "category": "work",
+      "id": 652
+    },
+    {
+      "ru": "Ветеринар",
+      "kk": "Ветеринар",
+      "ruTranscription": "ветеринар",
+      "kkTranscription": "Veterinar",
+      "category": "work",
+      "id": 653
+    },
+    {
+      "ru": "Фармацевт",
+      "kk": "Фармацевт",
+      "ruTranscription": "фармацевт",
+      "kkTranscription": "Farmatsevt",
+      "category": "work",
+      "id": 654
+    },
+    {
+      "ru": "Дизайнер",
+      "kk": "Дизайнер",
+      "ruTranscription": "дизайнер",
+      "kkTranscription": "Dizainer",
+      "category": "work",
+      "id": 655
+    },
+    {
+      "ru": "Фотограф",
+      "kk": "Фотограф",
+      "ruTranscription": "фотограф",
+      "kkTranscription": "Fotograf",
+      "category": "work",
+      "id": 656
+    },
+    {
+      "ru": "Переводчик",
+      "kk": "Аудармашы",
+      "ruTranscription": "аудармашы",
+      "kkTranscription": "Audarmaşy",
+      "category": "work",
+      "id": 657
+    },
+    {
+      "ru": "Психолог",
+      "kk": "Психолог",
+      "ruTranscription": "психолог",
+      "kkTranscription": "Psiholog",
+      "category": "work",
+      "id": 658
+    },
+    {
+      "ru": "Маркетолог",
+      "kk": "Маркетолог",
+      "ruTranscription": "маркетолог",
+      "kkTranscription": "Marketolog",
+      "category": "work",
+      "id": 659
+    },
+    {
+      "ru": "Логист",
+      "kk": "Логист",
+      "ruTranscription": "логист",
+      "kkTranscription": "Logist",
+      "category": "work",
+      "id": 660
+    },
+    {
+      "ru": "Аналитик",
+      "kk": "Аналитик",
+      "ruTranscription": "аналитик",
+      "kkTranscription": "Analitik",
+      "category": "work",
+      "id": 661
     }
   ],
   "categories": {
