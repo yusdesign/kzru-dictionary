@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "lastUpdated": "2026-03-24",
   "entries": [
     {
@@ -4155,6 +4155,206 @@
       "kkTranscription": "Qaryndaş",
       "category": "education",
       "id": 519
+    },
+    {
+      "ru": "Эмоция",
+      "kk": "Эмоция",
+      "ruTranscription": "эмоция",
+      "kkTranscription": "Emotsiia",
+      "category": "emotions",
+      "id": 520
+    },
+    {
+      "ru": "Чувство",
+      "kk": "Сезім",
+      "ruTranscription": "сезім",
+      "kkTranscription": "Sezım",
+      "category": "emotions",
+      "id": 521
+    },
+    {
+      "ru": "Радость",
+      "kk": "Қуаныш",
+      "ruTranscription": "қуаныш",
+      "kkTranscription": "Quanyş",
+      "category": "emotions",
+      "id": 522
+    },
+    {
+      "ru": "Счастье",
+      "kk": "Бақыт",
+      "ruTranscription": "бақыт",
+      "kkTranscription": "Baqyt",
+      "category": "emotions",
+      "id": 523
+    },
+    {
+      "ru": "Грусть",
+      "kk": "Қайғы",
+      "ruTranscription": "қайғы",
+      "kkTranscription": "Qaiğy",
+      "category": "emotions",
+      "id": 524
+    },
+    {
+      "ru": "Печаль",
+      "kk": "Мұң",
+      "ruTranscription": "мұң",
+      "kkTranscription": "Mūñ",
+      "category": "emotions",
+      "id": 525
+    },
+    {
+      "ru": "Гнев",
+      "kk": "Ашу",
+      "ruTranscription": "ашу",
+      "kkTranscription": "Aşu",
+      "category": "emotions",
+      "id": 526
+    },
+    {
+      "ru": "Злость",
+      "kk": "Ыза",
+      "ruTranscription": "ыза",
+      "kkTranscription": "Yza",
+      "category": "emotions",
+      "id": 527
+    },
+    {
+      "ru": "Страх",
+      "kk": "Қорқыныш",
+      "ruTranscription": "қорқыныш",
+      "kkTranscription": "Qorqynyş",
+      "category": "emotions",
+      "id": 528
+    },
+    {
+      "ru": "Любовь",
+      "kk": "Махаббат",
+      "ruTranscription": "махаббат",
+      "kkTranscription": "Mahabbat",
+      "category": "emotions",
+      "id": 529
+    },
+    {
+      "ru": "Ненависть",
+      "kk": "Жек көру",
+      "ruTranscription": "жек көру",
+      "kkTranscription": "Jek köru",
+      "category": "emotions",
+      "id": 530
+    },
+    {
+      "ru": "Удивление",
+      "kk": "Таңдану",
+      "ruTranscription": "таңдану",
+      "kkTranscription": "Tañdanu",
+      "category": "emotions",
+      "id": 531
+    },
+    {
+      "ru": "Интерес",
+      "kk": "Қызығушылық",
+      "ruTranscription": "қызығушылық",
+      "kkTranscription": "Qyzyğuşylyq",
+      "category": "emotions",
+      "id": 532
+    },
+    {
+      "ru": "Скука",
+      "kk": "Зерігу",
+      "ruTranscription": "зерігу",
+      "kkTranscription": "Zerıgu",
+      "category": "emotions",
+      "id": 533
+    },
+    {
+      "ru": "Усталость",
+      "kk": "Шаршау",
+      "ruTranscription": "шаршау",
+      "kkTranscription": "Şarşau",
+      "category": "emotions",
+      "id": 534
+    },
+    {
+      "ru": "Спокойствие",
+      "kk": "Тыныштық",
+      "ruTranscription": "тыныштық",
+      "kkTranscription": "Tynyştyq",
+      "category": "emotions",
+      "id": 535
+    },
+    {
+      "ru": "Волнение",
+      "kk": "Толқу",
+      "ruTranscription": "толқу",
+      "kkTranscription": "Tolqu",
+      "category": "emotions",
+      "id": 536
+    },
+    {
+      "ru": "Уверенность",
+      "kk": "Сенімділік",
+      "ruTranscription": "сенімділік",
+      "kkTranscription": "Senımdılık",
+      "category": "emotions",
+      "id": 537
+    },
+    {
+      "ru": "Гордость",
+      "kk": "Мақтаныш",
+      "ruTranscription": "мақтаныш",
+      "kkTranscription": "Maqtanyş",
+      "category": "emotions",
+      "id": 538
+    },
+    {
+      "ru": "Стыд",
+      "kk": "Ұят",
+      "ruTranscription": "ұят",
+      "kkTranscription": "Ūiat",
+      "category": "emotions",
+      "id": 539
+    },
+    {
+      "ru": "Вина",
+      "kk": "Кінә",
+      "ruTranscription": "кінә",
+      "kkTranscription": "Kınä",
+      "category": "emotions",
+      "id": 540
+    },
+    {
+      "ru": "Ревность",
+      "kk": "Қызғаныш",
+      "ruTranscription": "қызғаныш",
+      "kkTranscription": "Qyzğanyş",
+      "category": "emotions",
+      "id": 541
+    },
+    {
+      "ru": "Надежда",
+      "kk": "Үміт",
+      "ruTranscription": "үміт",
+      "kkTranscription": "Ümıt",
+      "category": "emotions",
+      "id": 542
+    },
+    {
+      "ru": "Разочарование",
+      "kk": "Көңілсіздік",
+      "ruTranscription": "көңілсіздік",
+      "kkTranscription": "Köñılsızdık",
+      "category": "emotions",
+      "id": 543
+    },
+    {
+      "ru": "Одиночество",
+      "kk": "Жалғыздық",
+      "ruTranscription": "жалғыздық",
+      "kkTranscription": "Jalğyzdyq",
+      "category": "emotions",
+      "id": 544
     }
   ],
   "categories": {
