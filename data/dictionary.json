@@ -1,5 +1,5 @@
 {
-  "version": "1.0.69",
+  "version": "1.0.70",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -16974,6 +16974,414 @@
       "kkTranscription": "Jerleu",
       "category": "basic",
       "id": 2114
+    },
+    {
+      "ru": "Кодекс",
+      "kk": "Кодекс",
+      "ruTranscription": "кодекс",
+      "kkTranscription": "Kodeks",
+      "category": "basic",
+      "id": 2115
+    },
+    {
+      "ru": "Суд",
+      "kk": "Сот",
+      "ruTranscription": "сот",
+      "kkTranscription": "Sot",
+      "category": "basic",
+      "id": 2116
+    },
+    {
+      "ru": "Судья",
+      "kk": "Судья",
+      "ruTranscription": "судья",
+      "kkTranscription": "Sudia",
+      "category": "basic",
+      "id": 2117
+    },
+    {
+      "ru": "Адвокат",
+      "kk": "Адвокат",
+      "ruTranscription": "адвокат",
+      "kkTranscription": "Advokat",
+      "category": "work",
+      "id": 2118
+    },
+    {
+      "ru": "Прокурор",
+      "kk": "Прокурор",
+      "ruTranscription": "прокурор",
+      "kkTranscription": "Prokuror",
+      "category": "basic",
+      "id": 2119
+    },
+    {
+      "ru": "Нотариус",
+      "kk": "Нотариус",
+      "ruTranscription": "нотариус",
+      "kkTranscription": "Notarius",
+      "category": "basic",
+      "id": 2120
+    },
+    {
+      "ru": "Истец",
+      "kk": "Талапкер",
+      "ruTranscription": "талапкер",
+      "kkTranscription": "Talapker",
+      "category": "basic",
+      "id": 2121
+    },
+    {
+      "ru": "Ответчик",
+      "kk": "Жауапкер",
+      "ruTranscription": "жауапкер",
+      "kkTranscription": "Jauapker",
+      "category": "basic",
+      "id": 2122
+    },
+    {
+      "ru": "Обвиняемый",
+      "kk": "Айыпталушы",
+      "ruTranscription": "айыпталушы",
+      "kkTranscription": "Aiyp talushy",
+      "category": "basic",
+      "id": 2123
+    },
+    {
+      "ru": "Подсудимый",
+      "kk": "Сотталушы",
+      "ruTranscription": "сотталушы",
+      "kkTranscription": "Sottalushy",
+      "category": "basic",
+      "id": 2124
+    },
+    {
+      "ru": "Потерпевший",
+      "kk": "Жәбірленуші",
+      "ruTranscription": "жәбірленуші",
+      "kkTranscription": "Jäbırlenuşı",
+      "category": "basic",
+      "id": 2125
+    },
+    {
+      "ru": "Свидетель",
+      "kk": "Куә",
+      "ruTranscription": "куә",
+      "kkTranscription": "Kuä",
+      "category": "basic",
+      "id": 2126
+    },
+    {
+      "ru": "Преступление",
+      "kk": "Қылмыс",
+      "ruTranscription": "қылмыс",
+      "kkTranscription": "Qylmys",
+      "category": "basic",
+      "id": 2127
+    },
+    {
+      "ru": "Наказание",
+      "kk": "Жаза",
+      "ruTranscription": "жаза",
+      "kkTranscription": "Jaza",
+      "category": "basic",
+      "id": 2128
+    },
+    {
+      "ru": "Штраф",
+      "kk": "Айыппұл",
+      "ruTranscription": "айыппұл",
+      "kkTranscription": "Aiyp pūl",
+      "category": "basic",
+      "id": 2129
+    },
+    {
+      "ru": "Тюрьма",
+      "kk": "Түрме",
+      "ruTranscription": "түрме",
+      "kkTranscription": "Türme",
+      "category": "basic",
+      "id": 2130
+    },
+    {
+      "ru": "Арест",
+      "kk": "Қамау",
+      "ruTranscription": "қамау",
+      "kkTranscription": "Qamau",
+      "category": "basic",
+      "id": 2131
+    },
+    {
+      "ru": "Заключение",
+      "kk": "Қамау",
+      "ruTranscription": "қамау",
+      "kkTranscription": "Qamau",
+      "category": "basic",
+      "id": 2132
+    },
+    {
+      "ru": "Условный срок",
+      "kk": "Шартты мерзім",
+      "ruTranscription": "шартты мерзім",
+      "kkTranscription": "Şartty merzım",
+      "category": "basic",
+      "id": 2133
+    },
+    {
+      "ru": "Досье",
+      "kk": "Іс",
+      "ruTranscription": "іс",
+      "kkTranscription": "Is",
+      "category": "basic",
+      "id": 2134
+    },
+    {
+      "ru": "Дело",
+      "kk": "Іс",
+      "ruTranscription": "іс",
+      "kkTranscription": "Is",
+      "category": "basic",
+      "id": 2135
+    },
+    {
+      "ru": "Уголовное дело",
+      "kk": "Қылмыстық іс",
+      "ruTranscription": "қылмыстық іс",
+      "kkTranscription": "Qylmystyq is",
+      "category": "basic",
+      "id": 2136
+    },
+    {
+      "ru": "Гражданское дело",
+      "kk": "Азаматтық іс",
+      "ruTranscription": "азаматтық іс",
+      "kkTranscription": "Azamattyq is",
+      "category": "basic",
+      "id": 2137
+    },
+    {
+      "ru": "Административное дело",
+      "kk": "Әкімшілік іс",
+      "ruTranscription": "әкімшілік іс",
+      "kkTranscription": "Äkımşılık is",
+      "category": "basic",
+      "id": 2138
+    },
+    {
+      "ru": "Иск",
+      "kk": "Талап",
+      "ruTranscription": "талап",
+      "kkTranscription": "Talap",
+      "category": "basic",
+      "id": 2139
+    },
+    {
+      "ru": "Жалоба",
+      "kk": "Шағым",
+      "ruTranscription": "шағым",
+      "kkTranscription": "Şağym",
+      "category": "basic",
+      "id": 2140
+    },
+    {
+      "ru": "Апелляция",
+      "kk": "Апелляция",
+      "ruTranscription": "апелляция",
+      "kkTranscription": "Appeliatsiia",
+      "category": "basic",
+      "id": 2141
+    },
+    {
+      "ru": "Кассация",
+      "kk": "Кассация",
+      "ruTranscription": "кассация",
+      "kkTranscription": "Kassatsiia",
+      "category": "basic",
+      "id": 2142
+    },
+    {
+      "ru": "Приговор",
+      "kk": "Үкім",
+      "ruTranscription": "үкім",
+      "kkTranscription": "Ükım",
+      "category": "basic",
+      "id": 2143
+    },
+    {
+      "ru": "Постановление",
+      "kk": "Қаулы",
+      "ruTranscription": "қаулы",
+      "kkTranscription": "Qauly",
+      "category": "basic",
+      "id": 2144
+    },
+    {
+      "ru": "Определение",
+      "kk": "Анықтама",
+      "ruTranscription": "анықтама",
+      "kkTranscription": "Anyqtama",
+      "category": "basic",
+      "id": 2145
+    },
+    {
+      "ru": "Улика",
+      "kk": "Дәлел",
+      "ruTranscription": "дәлел",
+      "kkTranscription": "Dälel",
+      "category": "basic",
+      "id": 2146
+    },
+    {
+      "ru": "Экспертиза",
+      "kk": "Сараптама",
+      "ruTranscription": "сараптама",
+      "kkTranscription": "Saraptama",
+      "category": "basic",
+      "id": 2147
+    },
+    {
+      "ru": "Следствие",
+      "kk": "Тергеу",
+      "ruTranscription": "тергеу",
+      "kkTranscription": "Tergeu",
+      "category": "basic",
+      "id": 2148
+    },
+    {
+      "ru": "Следователь",
+      "kk": "Тергеуші",
+      "ruTranscription": "тергеуші",
+      "kkTranscription": "Tergeuşı",
+      "category": "basic",
+      "id": 2149
+    },
+    {
+      "ru": "Полиция",
+      "kk": "Полиция",
+      "ruTranscription": "полиция",
+      "kkTranscription": "Politsiia",
+      "category": "basic",
+      "id": 2150
+    },
+    {
+      "ru": "Дознание",
+      "kk": "Сұрақтау",
+      "ruTranscription": "сұрақтау",
+      "kkTranscription": "Sūraqtau",
+      "category": "basic",
+      "id": 2151
+    },
+    {
+      "ru": "Обыск",
+      "kk": "Тінту",
+      "ruTranscription": "тінту",
+      "kkTranscription": "Tıntu",
+      "category": "basic",
+      "id": 2152
+    },
+    {
+      "ru": "Задержание",
+      "kk": "Ұстау",
+      "ruTranscription": "ұстау",
+      "kkTranscription": "Ūstau",
+      "category": "basic",
+      "id": 2153
+    },
+    {
+      "ru": "Допрос",
+      "kk": "Сұрақтау",
+      "ruTranscription": "сұрақтау",
+      "kkTranscription": "Sūraqtau",
+      "category": "basic",
+      "id": 2154
+    },
+    {
+      "ru": "Конфискация",
+      "kk": "Тәркілеу",
+      "ruTranscription": "тәркілеу",
+      "kkTranscription": "Tärkıleu",
+      "category": "basic",
+      "id": 2155
+    },
+    {
+      "ru": "Амнистия",
+      "kk": "Амнистия",
+      "ruTranscription": "амнистия",
+      "kkTranscription": "Amnistiia",
+      "category": "basic",
+      "id": 2156
+    },
+    {
+      "ru": "Помилование",
+      "kk": "Кешірім",
+      "ruTranscription": "кешірім",
+      "kkTranscription": "Keşırım",
+      "category": "basic",
+      "id": 2157
+    },
+    {
+      "ru": "Права человека",
+      "kk": "Адам құқықтары",
+      "ruTranscription": "адам құқықтары",
+      "kkTranscription": "Adam qūqyqtary",
+      "category": "basic",
+      "id": 2158
+    },
+    {
+      "ru": "Свобода слова",
+      "kk": "Сөз бостандығы",
+      "ruTranscription": "сөз бостандығы",
+      "kkTranscription": "Söz bostandyğy",
+      "category": "basic",
+      "id": 2159
+    },
+    {
+      "ru": "Неприкосновенность",
+      "kk": "Қол сұғылмаушылық",
+      "ruTranscription": "қол сұғылмаушылық",
+      "kkTranscription": "Qol suğylmauşylyq",
+      "category": "basic",
+      "id": 2160
+    },
+    {
+      "ru": "Адвокатская тайна",
+      "kk": "Адвокаттық құпия",
+      "ruTranscription": "адвокаттық құпия",
+      "kkTranscription": "Advokattyq qūpiia",
+      "category": "basic",
+      "id": 2161
+    },
+    {
+      "ru": "Презумпция невиновности",
+      "kk": "Кінәсіздік презумциясы",
+      "ruTranscription": "кінәсіздік презумциясы",
+      "kkTranscription": "Kınäsızdık prezumtsiiasy",
+      "category": "basic",
+      "id": 2162
+    },
+    {
+      "ru": "Юридическое лицо",
+      "kk": "Заңды тұлға",
+      "ruTranscription": "заңды тұлға",
+      "kkTranscription": "Zañdy tūlğa",
+      "category": "basic",
+      "id": 2163
+    },
+    {
+      "ru": "Физическое лицо",
+      "kk": "Жеке тұлға",
+      "ruTranscription": "жеке тұлға",
+      "kkTranscription": "Jeke tūlğa",
+      "category": "basic",
+      "id": 2164
+    },
+    {
+      "ru": "Лицензия",
+      "kk": "Лицензия",
+      "ruTranscription": "лицензия",
+      "kkTranscription": "Litsenziia",
+      "category": "basic",
+      "id": 2165
     }
   ],
   "categories": {
