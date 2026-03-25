@@ -1,5 +1,5 @@
 {
-  "version": "1.0.49",
+  "version": "1.0.50",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -9475,6 +9475,262 @@
       "kkTranscription": "Şañ",
       "category": "nature",
       "id": 1177
+    },
+    {
+      "ru": "Человек",
+      "kk": "Адам",
+      "ruTranscription": "адам",
+      "kkTranscription": "Adam",
+      "category": "basic",
+      "id": 1178
+    },
+    {
+      "ru": "Мальчик",
+      "kk": "Ұл бала",
+      "ruTranscription": "ұл бала",
+      "kkTranscription": "Ūl bala",
+      "category": "basic",
+      "id": 1179
+    },
+    {
+      "ru": "Девочка",
+      "kk": "Қыз бала",
+      "ruTranscription": "қыз бала",
+      "kkTranscription": "Qyz bala",
+      "category": "basic",
+      "id": 1180
+    },
+    {
+      "ru": "Младенец",
+      "kk": "Сәби",
+      "ruTranscription": "сәби",
+      "kkTranscription": "Säbi",
+      "category": "basic",
+      "id": 1181
+    },
+    {
+      "ru": "Подросток",
+      "kk": "Жасөспірім",
+      "ruTranscription": "жасөспірім",
+      "kkTranscription": "Jasöspırım",
+      "category": "basic",
+      "id": 1182
+    },
+    {
+      "ru": "Юноша",
+      "kk": "Жігіт",
+      "ruTranscription": "жігіт",
+      "kkTranscription": "Jıgıt",
+      "category": "basic",
+      "id": 1183
+    },
+    {
+      "ru": "Девушка",
+      "kk": "Қыз",
+      "ruTranscription": "қыз",
+      "kkTranscription": "Qyz",
+      "category": "basic",
+      "id": 1184
+    },
+    {
+      "ru": "Старик",
+      "kk": "Қария",
+      "ruTranscription": "қария",
+      "kkTranscription": "Qariia",
+      "category": "basic",
+      "id": 1185
+    },
+    {
+      "ru": "Старуха",
+      "kk": "Кемпір",
+      "ruTranscription": "кемпір",
+      "kkTranscription": "Kempır",
+      "category": "basic",
+      "id": 1186
+    },
+    {
+      "ru": "Борода",
+      "kk": "Сақал",
+      "ruTranscription": "сақал",
+      "kkTranscription": "Saqal",
+      "category": "medicine",
+      "id": 1187
+    },
+    {
+      "ru": "Усы",
+      "kk": "Мұрт",
+      "ruTranscription": "мұрт",
+      "kkTranscription": "Mūrt",
+      "category": "medicine",
+      "id": 1188
+    },
+    {
+      "ru": "Кожа",
+      "kk": "Тері",
+      "ruTranscription": "тері",
+      "kkTranscription": "Terı",
+      "category": "medicine",
+      "id": 1189
+    },
+    {
+      "ru": "Кость",
+      "kk": "Сүйек",
+      "ruTranscription": "сүйек",
+      "kkTranscription": "Süiek",
+      "category": "medicine",
+      "id": 1190
+    },
+    {
+      "ru": "Мышца",
+      "kk": "Бұлшықет",
+      "ruTranscription": "бұлшықет",
+      "kkTranscription": "Būlşyqet",
+      "category": "medicine",
+      "id": 1191
+    },
+    {
+      "ru": "Кровь",
+      "kk": "Қан",
+      "ruTranscription": "қан",
+      "kkTranscription": "Qan",
+      "category": "medicine",
+      "id": 1192
+    },
+    {
+      "ru": "Характер",
+      "kk": "Мінез",
+      "ruTranscription": "мінез",
+      "kkTranscription": "Mınez",
+      "category": "adjectives",
+      "id": 1193
+    },
+    {
+      "ru": "Личность",
+      "kk": "Тұлға",
+      "ruTranscription": "тұлға",
+      "kkTranscription": "Tūlğa",
+      "category": "basic",
+      "id": 1194
+    },
+    {
+      "ru": "Возраст",
+      "kk": "Жас",
+      "ruTranscription": "жас",
+      "kkTranscription": "Jas",
+      "category": "basic",
+      "id": 1195
+    },
+    {
+      "ru": "Внешность",
+      "kk": "Сырт келбет",
+      "ruTranscription": "сырт келбет",
+      "kkTranscription": "Syrt kelbet",
+      "category": "adjectives",
+      "id": 1196
+    },
+    {
+      "ru": "Талант",
+      "kk": "Дарын",
+      "ruTranscription": "дарын",
+      "kkTranscription": "Daryn",
+      "category": "basic",
+      "id": 1197
+    },
+    {
+      "ru": "Способность",
+      "kk": "Қабілет",
+      "ruTranscription": "қабілет",
+      "kkTranscription": "Qabılet",
+      "category": "basic",
+      "id": 1198
+    },
+    {
+      "ru": "Ум",
+      "kk": "Ақыл",
+      "ruTranscription": "ақыл",
+      "kkTranscription": "Aqyl",
+      "category": "adjectives",
+      "id": 1199
+    },
+    {
+      "ru": "Глупость",
+      "kk": "Ақымақтық",
+      "ruTranscription": "ақымақтық",
+      "kkTranscription": "Aqymaqtyq",
+      "category": "adjectives",
+      "id": 1200
+    },
+    {
+      "ru": "Мудрость",
+      "kk": "Даналық",
+      "ruTranscription": "даналық",
+      "kkTranscription": "Danаlyq",
+      "category": "adjectives",
+      "id": 1201
+    },
+    {
+      "ru": "Сила",
+      "kk": "Күш",
+      "ruTranscription": "күш",
+      "kkTranscription": "Küş",
+      "category": "adjectives",
+      "id": 1202
+    },
+    {
+      "ru": "Слабость",
+      "kk": "Әлсіздік",
+      "ruTranscription": "әлсіздік",
+      "kkTranscription": "Älsızdık",
+      "category": "adjectives",
+      "id": 1203
+    },
+    {
+      "ru": "Красота",
+      "kk": "Сұлулық",
+      "ruTranscription": "сұлулық",
+      "kkTranscription": "Sūlulyq",
+      "category": "adjectives",
+      "id": 1204
+    },
+    {
+      "ru": "Болезнь",
+      "kk": "Ауру",
+      "ruTranscription": "ауру",
+      "kkTranscription": "Auru",
+      "category": "medicine",
+      "id": 1205
+    },
+    {
+      "ru": "Улыбка",
+      "kk": "Күлімсіреу",
+      "ruTranscription": "күлімсіреу",
+      "kkTranscription": "Külımsıreu",
+      "category": "emotions",
+      "id": 1206
+    },
+    {
+      "ru": "Взгляд",
+      "kk": "Көзқарас",
+      "ruTranscription": "көзқарас",
+      "kkTranscription": "Közqaras",
+      "category": "basic",
+      "id": 1207
+    },
+    {
+      "ru": "Голос",
+      "kk": "Дауыс",
+      "ruTranscription": "дауыс",
+      "kkTranscription": "Dauys",
+      "category": "basic",
+      "id": 1208
+    },
+    {
+      "ru": "Жест",
+      "kk": "Ишара",
+      "ruTranscription": "ишара",
+      "kkTranscription": "Işara",
+      "category": "basic",
+      "id": 1209
     }
   ],
   "categories": {
