@@ -1,5 +1,5 @@
 {
-  "version": "1.0.48",
+  "version": "1.0.49",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -9171,6 +9171,310 @@
       "kkTranscription": "Jūmsau",
       "category": "verbs",
       "id": 1139
+    },
+    {
+      "ru": "Дерево",
+      "kk": "Ағаш",
+      "ruTranscription": "ағаш",
+      "kkTranscription": "Ağaş",
+      "category": "nature",
+      "id": 1140
+    },
+    {
+      "ru": "Сосна",
+      "kk": "Қарағай",
+      "ruTranscription": "қарағай",
+      "kkTranscription": "Qarağai",
+      "category": "nature",
+      "id": 1141
+    },
+    {
+      "ru": "Берёза",
+      "kk": "Қайың",
+      "ruTranscription": "қайың",
+      "kkTranscription": "Qaiyñ",
+      "category": "nature",
+      "id": 1142
+    },
+    {
+      "ru": "Дуб",
+      "kk": "Емен",
+      "ruTranscription": "емен",
+      "kkTranscription": "Emen",
+      "category": "nature",
+      "id": 1143
+    },
+    {
+      "ru": "Тополь",
+      "kk": "Терек",
+      "ruTranscription": "терек",
+      "kkTranscription": "Terek",
+      "category": "nature",
+      "id": 1144
+    },
+    {
+      "ru": "Ива",
+      "kk": "Тал",
+      "ruTranscription": "тал",
+      "kkTranscription": "Tal",
+      "category": "nature",
+      "id": 1145
+    },
+    {
+      "ru": "Клён",
+      "kk": "Үйеңкі",
+      "ruTranscription": "үйеңкі",
+      "kkTranscription": "Üieñkı",
+      "category": "nature",
+      "id": 1146
+    },
+    {
+      "ru": "Цветок",
+      "kk": "Гүл",
+      "ruTranscription": "гүл",
+      "kkTranscription": "Gül",
+      "category": "nature",
+      "id": 1147
+    },
+    {
+      "ru": "Роза",
+      "kk": "Раушан",
+      "ruTranscription": "раушан",
+      "kkTranscription": "Rauşan",
+      "category": "nature",
+      "id": 1148
+    },
+    {
+      "ru": "Тюльпан",
+      "kk": "Қызғалдақ",
+      "ruTranscription": "қызғалдақ",
+      "kkTranscription": "Qyzğaldaq",
+      "category": "nature",
+      "id": 1149
+    },
+    {
+      "ru": "Ромашка",
+      "kk": "Түймедақ",
+      "ruTranscription": "түймедақ",
+      "kkTranscription": "Tüimedaq",
+      "category": "nature",
+      "id": 1150
+    },
+    {
+      "ru": "Трава",
+      "kk": "Шөп",
+      "ruTranscription": "шөп",
+      "kkTranscription": "Şöp",
+      "category": "nature",
+      "id": 1151
+    },
+    {
+      "ru": "Куст",
+      "kk": "Бұта",
+      "ruTranscription": "бұта",
+      "kkTranscription": "Būta",
+      "category": "nature",
+      "id": 1152
+    },
+    {
+      "ru": "Гриб",
+      "kk": "Саңырауқұлақ",
+      "ruTranscription": "саңырауқұлақ",
+      "kkTranscription": "Sañyrauqūlaq",
+      "category": "nature",
+      "id": 1153
+    },
+    {
+      "ru": "Ягода",
+      "kk": "Жидек",
+      "ruTranscription": "жидек",
+      "kkTranscription": "Jidek",
+      "category": "nature",
+      "id": 1154
+    },
+    {
+      "ru": "Малина",
+      "kk": "Таңқурай",
+      "ruTranscription": "таңқурай",
+      "kkTranscription": "Tañqurai",
+      "category": "nature",
+      "id": 1155
+    },
+    {
+      "ru": "Клубника",
+      "kk": "Құлпынай",
+      "ruTranscription": "құлпынай",
+      "kkTranscription": "Qūlpynai",
+      "category": "nature",
+      "id": 1156
+    },
+    {
+      "ru": "Смородина",
+      "kk": "Қарақат",
+      "ruTranscription": "қарақат",
+      "kkTranscription": "Qaraqat",
+      "category": "nature",
+      "id": 1157
+    },
+    {
+      "ru": "Арбуз",
+      "kk": "Қарбыз",
+      "ruTranscription": "қарбыз",
+      "kkTranscription": "Qarbyz",
+      "category": "food",
+      "id": 1158
+    },
+    {
+      "ru": "Дыня",
+      "kk": "Қауын",
+      "ruTranscription": "қауын",
+      "kkTranscription": "Qauyn",
+      "category": "food",
+      "id": 1159
+    },
+    {
+      "ru": "Степь",
+      "kk": "Дала",
+      "ruTranscription": "дала",
+      "kkTranscription": "Dala",
+      "category": "nature",
+      "id": 1160
+    },
+    {
+      "ru": "Пустыня",
+      "kk": "Шөл",
+      "ruTranscription": "шөл",
+      "kkTranscription": "Şöl",
+      "category": "nature",
+      "id": 1161
+    },
+    {
+      "ru": "Холм",
+      "kk": "Төбе",
+      "ruTranscription": "төбе",
+      "kkTranscription": "Töbe",
+      "category": "nature",
+      "id": 1162
+    },
+    {
+      "ru": "Ущелье",
+      "kk": "Шатын",
+      "ruTranscription": "шатын",
+      "kkTranscription": "Şatyn",
+      "category": "nature",
+      "id": 1163
+    },
+    {
+      "ru": "Водопад",
+      "kk": "Сарқырама",
+      "ruTranscription": "сарқырама",
+      "kkTranscription": "Sarqyrama",
+      "category": "nature",
+      "id": 1164
+    },
+    {
+      "ru": "Родник",
+      "kk": "Бұлақ",
+      "ruTranscription": "бұлақ",
+      "kkTranscription": "Būlaq",
+      "category": "nature",
+      "id": 1165
+    },
+    {
+      "ru": "Поле",
+      "kk": "Егістік",
+      "ruTranscription": "егістік",
+      "kkTranscription": "Egıstık",
+      "category": "nature",
+      "id": 1166
+    },
+    {
+      "ru": "Луг",
+      "kk": "Шалғын",
+      "ruTranscription": "шалғын",
+      "kkTranscription": "Şalğyn",
+      "category": "nature",
+      "id": 1167
+    },
+    {
+      "ru": "Болото",
+      "kk": "Батпақ",
+      "ruTranscription": "батпақ",
+      "kkTranscription": "Batpaq",
+      "category": "nature",
+      "id": 1168
+    },
+    {
+      "ru": "Песок",
+      "kk": "Құм",
+      "ruTranscription": "құм",
+      "kkTranscription": "Qūm",
+      "category": "nature",
+      "id": 1169
+    },
+    {
+      "ru": "Камень",
+      "kk": "Тас",
+      "ruTranscription": "тас",
+      "kkTranscription": "Tas",
+      "category": "nature",
+      "id": 1170
+    },
+    {
+      "ru": "Скала",
+      "kk": "Жартас",
+      "ruTranscription": "жартас",
+      "kkTranscription": "Jartas",
+      "category": "nature",
+      "id": 1171
+    },
+    {
+      "ru": "Пещера",
+      "kk": "Үңгір",
+      "ruTranscription": "үңгір",
+      "kkTranscription": "Üñgır",
+      "category": "nature",
+      "id": 1172
+    },
+    {
+      "ru": "Лёд",
+      "kk": "Мұз",
+      "ruTranscription": "мұз",
+      "kkTranscription": "Mūz",
+      "category": "nature",
+      "id": 1173
+    },
+    {
+      "ru": "Сосулька",
+      "kk": "Сүңгі",
+      "ruTranscription": "сүңгі",
+      "kkTranscription": "Süñgı",
+      "category": "nature",
+      "id": 1174
+    },
+    {
+      "ru": "Лужа",
+      "kk": "Шалшық",
+      "ruTranscription": "шалшық",
+      "kkTranscription": "Şalşyq",
+      "category": "nature",
+      "id": 1175
+    },
+    {
+      "ru": "Грязь",
+      "kk": "Балшық",
+      "ruTranscription": "балшық",
+      "kkTranscription": "Balşyq",
+      "category": "nature",
+      "id": 1176
+    },
+    {
+      "ru": "Пыль",
+      "kk": "Шаң",
+      "ruTranscription": "шаң",
+      "kkTranscription": "Şañ",
+      "category": "nature",
+      "id": 1177
     }
   ],
   "categories": {
