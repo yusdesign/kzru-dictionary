@@ -8,8 +8,6 @@ kkru-dictionary/
 ├── script.js           # Логика поиска и переключения
 ├── data/
 │   └── dictionary.json # База данных словаря
-├── admin/
-│   └── update.js       # Скрипт для обновления через git
 └── README.md           # Документация
 ```
 
