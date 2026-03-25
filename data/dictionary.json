@@ -1,5 +1,5 @@
 {
-  "version": "1.0.83",
+  "version": "1.0.84",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -21655,6 +21655,406 @@
       "kkTranscription": "Şaryn",
       "category": "nature",
       "id": 2699
+    },
+    {
+      "ru": "Дикое животное",
+      "kk": "Жабайы жануар",
+      "ruTranscription": "жабайы жануар",
+      "kkTranscription": "Jabaiy januar",
+      "category": "animals",
+      "id": 2700
+    },
+    {
+      "ru": "Хищник",
+      "kk": "Жыртқыш",
+      "ruTranscription": "жыртқыш",
+      "kkTranscription": "Jyrtqyş",
+      "category": "animals",
+      "id": 2701
+    },
+    {
+      "ru": "Травоядное",
+      "kk": "Шөпқоректі",
+      "ruTranscription": "шөпқоректі",
+      "kkTranscription": "Şöpqorektı",
+      "category": "animals",
+      "id": 2702
+    },
+    {
+      "ru": "Млекопитающее",
+      "kk": "Сүтқоректі",
+      "ruTranscription": "сүтқоректі",
+      "kkTranscription": "Sütqorektı",
+      "category": "animals",
+      "id": 2703
+    },
+    {
+      "ru": "Пресмыкающееся",
+      "kk": "Бауырымен жорғалаушы",
+      "ruTranscription": "бауырымен жорғалаушы",
+      "kkTranscription": "Bauyrymen jorğalauşy",
+      "category": "animals",
+      "id": 2704
+    },
+    {
+      "ru": "Земноводное",
+      "kk": "Қосмекенді",
+      "ruTranscription": "қосмекенді",
+      "kkTranscription": "Qosmekendı",
+      "category": "animals",
+      "id": 2705
+    },
+    {
+      "ru": "Насекомое",
+      "kk": "Жәндік",
+      "ruTranscription": "жәндік",
+      "kkTranscription": "Jändık",
+      "category": "animals",
+      "id": 2706
+    },
+    {
+      "ru": "Паук",
+      "kk": "Өрмекші",
+      "ruTranscription": "өрмекші",
+      "kkTranscription": "Örmekşı",
+      "category": "animals",
+      "id": 2707
+    },
+    {
+      "ru": "Муравей",
+      "kk": "Құмырсқа",
+      "ruTranscription": "құмырсқа",
+      "kkTranscription": "Qūmyrsqa",
+      "category": "animals",
+      "id": 2708
+    },
+    {
+      "ru": "Оса",
+      "kk": "Ара",
+      "ruTranscription": "ара",
+      "kkTranscription": "Ara",
+      "category": "animals",
+      "id": 2709
+    },
+    {
+      "ru": "Шмель",
+      "kk": "Бал ара",
+      "ruTranscription": "бал ара",
+      "kkTranscription": "Bal ara",
+      "category": "animals",
+      "id": 2710
+    },
+    {
+      "ru": "Стрекоза",
+      "kk": "Инелік",
+      "ruTranscription": "инелік",
+      "kkTranscription": "Inelık",
+      "category": "animals",
+      "id": 2711
+    },
+    {
+      "ru": "Бабочка",
+      "kk": "Көбелек",
+      "ruTranscription": "көбелек",
+      "kkTranscription": "Köbelek",
+      "category": "animals",
+      "id": 2712
+    },
+    {
+      "ru": "Жук",
+      "kk": "Қоңыз",
+      "ruTranscription": "қоңыз",
+      "kkTranscription": "Qoñyz",
+      "category": "animals",
+      "id": 2713
+    },
+    {
+      "ru": "Кузнечик",
+      "kk": "Шегіртке",
+      "ruTranscription": "шегіртке",
+      "kkTranscription": "Şegırtke",
+      "category": "animals",
+      "id": 2714
+    },
+    {
+      "ru": "Сверчок",
+      "kk": "Крикет",
+      "ruTranscription": "крикет",
+      "kkTranscription": "Kriket",
+      "category": "animals",
+      "id": 2715
+    },
+    {
+      "ru": "Муха",
+      "kk": "Шыбын",
+      "ruTranscription": "шыбын",
+      "kkTranscription": "Şybyn",
+      "category": "animals",
+      "id": 2716
+    },
+    {
+      "ru": "Комар",
+      "kk": "Маса",
+      "ruTranscription": "маса",
+      "kkTranscription": "Masa",
+      "category": "animals",
+      "id": 2717
+    },
+    {
+      "ru": "Клещ",
+      "kk": "Кене",
+      "ruTranscription": "кене",
+      "kkTranscription": "Kene",
+      "category": "animals",
+      "id": 2718
+    },
+    {
+      "ru": "Червь",
+      "kk": "Құрт",
+      "ruTranscription": "құрт",
+      "kkTranscription": "Qūrt",
+      "category": "animals",
+      "id": 2719
+    },
+    {
+      "ru": "Улитка",
+      "kk": "Ұлу",
+      "ruTranscription": "ұлу",
+      "kkTranscription": "Ūlu",
+      "category": "animals",
+      "id": 2720
+    },
+    {
+      "ru": "Акула",
+      "kk": "Акула",
+      "ruTranscription": "акула",
+      "kkTranscription": "Akula",
+      "category": "animals",
+      "id": 2721
+    },
+    {
+      "ru": "Кит",
+      "kk": "Кит",
+      "ruTranscription": "кит",
+      "kkTranscription": "Kit",
+      "category": "animals",
+      "id": 2722
+    },
+    {
+      "ru": "Дельфин",
+      "kk": "Дельфин",
+      "ruTranscription": "дельфин",
+      "kkTranscription": "Delfin",
+      "category": "animals",
+      "id": 2723
+    },
+    {
+      "ru": "Краб",
+      "kk": "Шаян",
+      "ruTranscription": "шаян",
+      "kkTranscription": "Shaian",
+      "category": "animals",
+      "id": 2724
+    },
+    {
+      "ru": "Креветка",
+      "kk": "Асшаян",
+      "ruTranscription": "асшаян",
+      "kkTranscription": "As shaian",
+      "category": "animals",
+      "id": 2725
+    },
+    {
+      "ru": "Осьминог",
+      "kk": "Сегізаяқ",
+      "ruTranscription": "сегізаяқ",
+      "kkTranscription": "Segızaiaq",
+      "category": "animals",
+      "id": 2726
+    },
+    {
+      "ru": "Медуза",
+      "kk": "Медуза",
+      "ruTranscription": "медуза",
+      "kkTranscription": "Meduza",
+      "category": "animals",
+      "id": 2727
+    },
+    {
+      "ru": "Морская звезда",
+      "kk": "Теңіз жұлдызы",
+      "ruTranscription": "теңіз жұлдызы",
+      "kkTranscription": "Teñız jūldyzy",
+      "category": "animals",
+      "id": 2728
+    },
+    {
+      "ru": "Лось",
+      "kk": "Бұлан",
+      "ruTranscription": "бұлан",
+      "kkTranscription": "Būlan",
+      "category": "animals",
+      "id": 2729
+    },
+    {
+      "ru": "Олень",
+      "kk": "Бұғы",
+      "ruTranscription": "бұғы",
+      "kkTranscription": "Būğy",
+      "category": "animals",
+      "id": 2730
+    },
+    {
+      "ru": "Кабан",
+      "kk": "Қабан",
+      "ruTranscription": "қабан",
+      "kkTranscription": "Qaban",
+      "category": "animals",
+      "id": 2731
+    },
+    {
+      "ru": "Барсук",
+      "kk": "Борсық",
+      "ruTranscription": "борсық",
+      "kkTranscription": "Borsyq",
+      "category": "animals",
+      "id": 2732
+    },
+    {
+      "ru": "Ёж",
+      "kk": "Кірпі",
+      "ruTranscription": "кірпі",
+      "kkTranscription": "Kırpı",
+      "category": "animals",
+      "id": 2733
+    },
+    {
+      "ru": "Белка",
+      "kk": "Тиін",
+      "ruTranscription": "тиін",
+      "kkTranscription": "Tiın",
+      "category": "animals",
+      "id": 2734
+    },
+    {
+      "ru": "Рысь",
+      "kk": "Сілеусін",
+      "ruTranscription": "сілеусін",
+      "kkTranscription": "Sileusın",
+      "category": "animals",
+      "id": 2735
+    },
+    {
+      "ru": "Леопард",
+      "kk": "Барыс",
+      "ruTranscription": "барыс",
+      "kkTranscription": "Barys",
+      "category": "animals",
+      "id": 2736
+    },
+    {
+      "ru": "Жираф",
+      "kk": "Керік",
+      "ruTranscription": "керік",
+      "kkTranscription": "Kerık",
+      "category": "animals",
+      "id": 2737
+    },
+    {
+      "ru": "Зебра",
+      "kk": "Зебра",
+      "ruTranscription": "зебра",
+      "kkTranscription": "Zebra",
+      "category": "animals",
+      "id": 2738
+    },
+    {
+      "ru": "Носорог",
+      "kk": "Мүйізтұмсық",
+      "ruTranscription": "мүйізтұмсық",
+      "kkTranscription": "Müiıztūmsyq",
+      "category": "animals",
+      "id": 2739
+    },
+    {
+      "ru": "Бегемот",
+      "kk": "Сусиыр",
+      "ruTranscription": "сусиыр",
+      "kkTranscription": "Susiyr",
+      "category": "animals",
+      "id": 2740
+    },
+    {
+      "ru": "Крокодил",
+      "kk": "Қолтырауын",
+      "ruTranscription": "қолтырауын",
+      "kkTranscription": "Qoltyrauyn",
+      "category": "animals",
+      "id": 2741
+    },
+    {
+      "ru": "Кенгуру",
+      "kk": "Кенгуру",
+      "ruTranscription": "кенгуру",
+      "kkTranscription": "Kenguru",
+      "category": "animals",
+      "id": 2742
+    },
+    {
+      "ru": "Панда",
+      "kk": "Панда",
+      "ruTranscription": "панда",
+      "kkTranscription": "Panda",
+      "category": "animals",
+      "id": 2743
+    },
+    {
+      "ru": "Коала",
+      "kk": "Коала",
+      "ruTranscription": "коала",
+      "kkTranscription": "Koala",
+      "category": "animals",
+      "id": 2744
+    },
+    {
+      "ru": "Пингвин",
+      "kk": "Пингвин",
+      "ruTranscription": "пингвин",
+      "kkTranscription": "Pingvin",
+      "category": "animals",
+      "id": 2745
+    },
+    {
+      "ru": "Страус",
+      "kk": "Түйеқұс",
+      "ruTranscription": "түйеқұс",
+      "kkTranscription": "Tüieqūs",
+      "category": "animals",
+      "id": 2746
+    },
+    {
+      "ru": "Фламинго",
+      "kk": "Фламинго",
+      "ruTranscription": "фламинго",
+      "kkTranscription": "Flamingo",
+      "category": "animals",
+      "id": 2747
+    },
+    {
+      "ru": "Сокол",
+      "kk": "Сұңқар",
+      "ruTranscription": "сұңқар",
+      "kkTranscription": "Sūñqar",
+      "category": "animals",
+      "id": 2748
+    },
+    {
+      "ru": "Сова",
+      "kk": "Үкі",
+      "ruTranscription": "үкі",
+      "kkTranscription": "Ükı",
+      "category": "animals",
+      "id": 2749
     }
   ],
   "categories": {
