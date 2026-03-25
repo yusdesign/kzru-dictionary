@@ -1,5 +1,5 @@
 {
-  "version": "1.0.51",
+  "version": "1.0.52",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -10059,6 +10059,262 @@
       "kkTranscription": "Haos",
       "category": "basic",
       "id": 1250
+    },
+    {
+      "ru": "Коттедж",
+      "kk": "Коттедж",
+      "ruTranscription": "коттедж",
+      "kkTranscription": "Kottedj",
+      "category": "house",
+      "id": 1251
+    },
+    {
+      "ru": "Дача",
+      "kk": "Сай",
+      "ruTranscription": "сай",
+      "kkTranscription": "Sai",
+      "category": "house",
+      "id": 1252
+    },
+    {
+      "ru": "Прихожая",
+      "kk": "Дәліз",
+      "ruTranscription": "дәліз",
+      "kkTranscription": "Dälız",
+      "category": "house",
+      "id": 1253
+    },
+    {
+      "ru": "Мебель",
+      "kk": "Жиһаз",
+      "ruTranscription": "жиһаз",
+      "kkTranscription": "Jihaz",
+      "category": "house",
+      "id": 1254
+    },
+    {
+      "ru": "Кресло",
+      "kk": "Кресло",
+      "ruTranscription": "кресло",
+      "kkTranscription": "Kreslo",
+      "category": "house",
+      "id": 1255
+    },
+    {
+      "ru": "Комод",
+      "kk": "Комод",
+      "ruTranscription": "комод",
+      "kkTranscription": "Komod",
+      "category": "house",
+      "id": 1256
+    },
+    {
+      "ru": "Тумбочка",
+      "kk": "Тумба",
+      "ruTranscription": "тумба",
+      "kkTranscription": "Tumba",
+      "category": "house",
+      "id": 1257
+    },
+    {
+      "ru": "Полка",
+      "kk": "Сөре",
+      "ruTranscription": "сөре",
+      "kkTranscription": "Söre",
+      "category": "house",
+      "id": 1258
+    },
+    {
+      "ru": "Ковёр",
+      "kk": "Кілем",
+      "ruTranscription": "кілем",
+      "kkTranscription": "Kılem",
+      "category": "house",
+      "id": 1259
+    },
+    {
+      "ru": "Штора",
+      "kk": "Перде",
+      "ruTranscription": "перде",
+      "kkTranscription": "Perde",
+      "category": "house",
+      "id": 1260
+    },
+    {
+      "ru": "Люстра",
+      "kk": "Люстра",
+      "ruTranscription": "люстра",
+      "kkTranscription": "Liustra",
+      "category": "house",
+      "id": 1261
+    },
+    {
+      "ru": "Посуда",
+      "kk": "Ыдыс",
+      "ruTranscription": "ыдыс",
+      "kkTranscription": "Ydys",
+      "category": "house",
+      "id": 1262
+    },
+    {
+      "ru": "Тарелка",
+      "kk": "Табақ",
+      "ruTranscription": "табақ",
+      "kkTranscription": "Tabaq",
+      "category": "house",
+      "id": 1263
+    },
+    {
+      "ru": "Чашка",
+      "kk": "Кесе",
+      "ruTranscription": "кесе",
+      "kkTranscription": "Kese",
+      "category": "house",
+      "id": 1264
+    },
+    {
+      "ru": "Стакан",
+      "kk": "Стакан",
+      "ruTranscription": "стакан",
+      "kkTranscription": "Stakan",
+      "category": "house",
+      "id": 1265
+    },
+    {
+      "ru": "Вилка",
+      "kk": "Шанышқы",
+      "ruTranscription": "шанышқы",
+      "kkTranscription": "Şanyşqy",
+      "category": "house",
+      "id": 1266
+    },
+    {
+      "ru": "Ложка",
+      "kk": "Қасық",
+      "ruTranscription": "қасық",
+      "kkTranscription": "Qasyq",
+      "category": "house",
+      "id": 1267
+    },
+    {
+      "ru": "Нож",
+      "kk": "Пышақ",
+      "ruTranscription": "пышақ",
+      "kkTranscription": "Pyşaq",
+      "category": "house",
+      "id": 1268
+    },
+    {
+      "ru": "Кастрюля",
+      "kk": "Кастрюль",
+      "ruTranscription": "кастрюль",
+      "kkTranscription": "Kastrül",
+      "category": "house",
+      "id": 1269
+    },
+    {
+      "ru": "Сковорода",
+      "kk": "Таба",
+      "ruTranscription": "таба",
+      "kkTranscription": "Taba",
+      "category": "house",
+      "id": 1270
+    },
+    {
+      "ru": "Чайник",
+      "kk": "Шәйнек",
+      "ruTranscription": "шәйнек",
+      "kkTranscription": "Şäinek",
+      "category": "house",
+      "id": 1271
+    },
+    {
+      "ru": "Утюг",
+      "kk": "Үтік",
+      "ruTranscription": "үтік",
+      "kkTranscription": "Ütık",
+      "category": "house",
+      "id": 1272
+    },
+    {
+      "ru": "Фен",
+      "kk": "Фен",
+      "ruTranscription": "фен",
+      "kkTranscription": "Fen",
+      "category": "house",
+      "id": 1273
+    },
+    {
+      "ru": "Зубная щётка",
+      "kk": "Тіс щеткасы",
+      "ruTranscription": "тіс щеткасы",
+      "kkTranscription": "Tis şetkasy",
+      "category": "house",
+      "id": 1274
+    },
+    {
+      "ru": "Мыло",
+      "kk": "Сабын",
+      "ruTranscription": "сабын",
+      "kkTranscription": "Sabyn",
+      "category": "house",
+      "id": 1275
+    },
+    {
+      "ru": "Шампунь",
+      "kk": "Шампунь",
+      "ruTranscription": "шампунь",
+      "kkTranscription": "Şampun",
+      "category": "house",
+      "id": 1276
+    },
+    {
+      "ru": "Полотенце",
+      "kk": "Сүлгі",
+      "ruTranscription": "сүлгі",
+      "kkTranscription": "Sülgı",
+      "category": "house",
+      "id": 1277
+    },
+    {
+      "ru": "Постель",
+      "kk": "Төсек",
+      "ruTranscription": "төсек",
+      "kkTranscription": "Tösek",
+      "category": "house",
+      "id": 1278
+    },
+    {
+      "ru": "Подушка",
+      "kk": "Жастық",
+      "ruTranscription": "жастық",
+      "kkTranscription": "Jastyq",
+      "category": "house",
+      "id": 1279
+    },
+    {
+      "ru": "Одеяло",
+      "kk": "Көрпе",
+      "ruTranscription": "көрпе",
+      "kkTranscription": "Körpe",
+      "category": "house",
+      "id": 1280
+    },
+    {
+      "ru": "Простыня",
+      "kk": "Жайма",
+      "ruTranscription": "жайма",
+      "kkTranscription": "Jaima",
+      "category": "house",
+      "id": 1281
+    },
+    {
+      "ru": "Наволочка",
+      "kk": "Жастық қабы",
+      "ruTranscription": "жастық қабы",
+      "kkTranscription": "Jastyq qaby",
+      "category": "house",
+      "id": 1282
     }
   ],
   "categories": {
