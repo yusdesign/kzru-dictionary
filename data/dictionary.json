@@ -1,5 +1,5 @@
 {
-  "version": "1.0.74",
+  "version": "1.0.75",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -19007,6 +19007,454 @@
       "kkTranscription": "Ystau",
       "category": "food",
       "id": 2368
+    },
+    {
+      "ru": "Окружающая среда",
+      "kk": "Қоршаған орта",
+      "ruTranscription": "қоршаған орта",
+      "kkTranscription": "Qorşağan orta",
+      "category": "nature",
+      "id": 2369
+    },
+    {
+      "ru": "Загрязнение",
+      "kk": "Ластану",
+      "ruTranscription": "ластану",
+      "kkTranscription": "Lastanu",
+      "category": "nature",
+      "id": 2370
+    },
+    {
+      "ru": "Отходы",
+      "kk": "Қалдықтар",
+      "ruTranscription": "қалдықтар",
+      "kkTranscription": "Qaldyqtar",
+      "category": "nature",
+      "id": 2371
+    },
+    {
+      "ru": "Мусор",
+      "kk": "Қоқыс",
+      "ruTranscription": "қоқыс",
+      "kkTranscription": "Qoqys",
+      "category": "nature",
+      "id": 2372
+    },
+    {
+      "ru": "Переработка",
+      "kk": "Қайта өңдеу",
+      "ruTranscription": "қайта өңдеу",
+      "kkTranscription": "Qaita öñdeu",
+      "category": "nature",
+      "id": 2373
+    },
+    {
+      "ru": "Утилизация",
+      "kk": "Кәдеге жарату",
+      "ruTranscription": "кәдеге жарату",
+      "kkTranscription": "Kädege jaratu",
+      "category": "nature",
+      "id": 2374
+    },
+    {
+      "ru": "Пластик",
+      "kk": "Пластмасса",
+      "ruTranscription": "пластмасса",
+      "kkTranscription": "Plastmassa",
+      "category": "nature",
+      "id": 2375
+    },
+    {
+      "ru": "Полиэтилен",
+      "kk": "Полиэтилен",
+      "ruTranscription": "полиэтилен",
+      "kkTranscription": "Polietilen",
+      "category": "nature",
+      "id": 2376
+    },
+    {
+      "ru": "Стекло",
+      "kk": "Шыны",
+      "ruTranscription": "шыны",
+      "kkTranscription": "Şyny",
+      "category": "nature",
+      "id": 2377
+    },
+    {
+      "ru": "Бумага",
+      "kk": "Қағаз",
+      "ruTranscription": "қағаз",
+      "kkTranscription": "Qağaz",
+      "category": "nature",
+      "id": 2378
+    },
+    {
+      "ru": "Металл",
+      "kk": "Металл",
+      "ruTranscription": "металл",
+      "kkTranscription": "Metall",
+      "category": "nature",
+      "id": 2379
+    },
+    {
+      "ru": "Вторичная переработка",
+      "kk": "Қайта өңдеу",
+      "ruTranscription": "қайта өңдеу",
+      "kkTranscription": "Qaita öñdeu",
+      "category": "nature",
+      "id": 2380
+    },
+    {
+      "ru": "Сортировка",
+      "kk": "Сұрыптау",
+      "ruTranscription": "сұрыптау",
+      "kkTranscription": "Sūryptau",
+      "category": "nature",
+      "id": 2381
+    },
+    {
+      "ru": "Экологичный",
+      "kk": "Экологиялық таза",
+      "ruTranscription": "экологиялық таза",
+      "kkTranscription": "Ekologiialyq taza",
+      "category": "adjectives",
+      "id": 2382
+    },
+    {
+      "ru": "Биоразлагаемый",
+      "kk": "Биологиялық ыдырайтын",
+      "ruTranscription": "биологиялық ыдырайтын",
+      "kkTranscription": "Biologiialyq ydyrai tyn",
+      "category": "adjectives",
+      "id": 2383
+    },
+    {
+      "ru": "Возобновляемый",
+      "kk": "Қалпына келтірілетін",
+      "ruTranscription": "қалпына келтірілетін",
+      "kkTranscription": "Qal pyna keltırıletin",
+      "category": "adjectives",
+      "id": 2384
+    },
+    {
+      "ru": "Альтернативная энергия",
+      "kk": "Баламалы энергия",
+      "ruTranscription": "баламалы энергия",
+      "kkTranscription": "Balamaly energiia",
+      "category": "nature",
+      "id": 2385
+    },
+    {
+      "ru": "Солнечная энергия",
+      "kk": "Күн энергиясы",
+      "ruTranscription": "күн энергиясы",
+      "kkTranscription": "Kün energiiasy",
+      "category": "nature",
+      "id": 2386
+    },
+    {
+      "ru": "Ветряная энергия",
+      "kk": "Жел энергиясы",
+      "ruTranscription": "жел энергиясы",
+      "kkTranscription": "Jel energiiasy",
+      "category": "nature",
+      "id": 2387
+    },
+    {
+      "ru": "Гидроэнергия",
+      "kk": "Су энергиясы",
+      "ruTranscription": "су энергиясы",
+      "kkTranscription": "Su energiiasy",
+      "category": "nature",
+      "id": 2388
+    },
+    {
+      "ru": "Биотопливо",
+      "kk": "Биоотын",
+      "ruTranscription": "биоотын",
+      "kkTranscription": "Biootyn",
+      "category": "nature",
+      "id": 2389
+    },
+    {
+      "ru": "Парниковый эффект",
+      "kk": "Парниктік эффект",
+      "ruTranscription": "парниктік эффект",
+      "kkTranscription": "Parniktık effekt",
+      "category": "nature",
+      "id": 2390
+    },
+    {
+      "ru": "Глобальное потепление",
+      "kk": "Жаһандық жылыну",
+      "ruTranscription": "жаһандық жылыну",
+      "kkTranscription": "Jahandyq jylynu",
+      "category": "nature",
+      "id": 2391
+    },
+    {
+      "ru": "Изменение климата",
+      "kk": "Климаттың өзгеруі",
+      "ruTranscription": "климаттың өзгеруі",
+      "kkTranscription": "Klimattyñ özgeruı",
+      "category": "nature",
+      "id": 2392
+    },
+    {
+      "ru": "Выбросы",
+      "kk": "Шығарындылар",
+      "ruTranscription": "шығарындылар",
+      "kkTranscription": "Şyğaryndylar",
+      "category": "nature",
+      "id": 2393
+    },
+    {
+      "ru": "Углекислый газ",
+      "kk": "Көмірқышқыл газ",
+      "ruTranscription": "көмірқышқыл газ",
+      "kkTranscription": "Kömırqyşqyl gaz",
+      "category": "nature",
+      "id": 2394
+    },
+    {
+      "ru": "Озоновый слой",
+      "kk": "Озон қабаты",
+      "ruTranscription": "озон қабаты",
+      "kkTranscription": "Ozon qabaty",
+      "category": "nature",
+      "id": 2395
+    },
+    {
+      "ru": "Кислотные дожди",
+      "kk": "Қышқыл жаңбырлар",
+      "ruTranscription": "қышқыл жаңбырлар",
+      "kkTranscription": "Qyşqyl jañbyrlar",
+      "category": "nature",
+      "id": 2396
+    },
+    {
+      "ru": "Смог",
+      "kk": "Түтін",
+      "ruTranscription": "түтін",
+      "kkTranscription": "Tütın",
+      "category": "nature",
+      "id": 2397
+    },
+    {
+      "ru": "Вырубка лесов",
+      "kk": "Орманды кесу",
+      "ruTranscription": "орманды кесу",
+      "kkTranscription": "Or mandy kesu",
+      "category": "nature",
+      "id": 2398
+    },
+    {
+      "ru": "Опустынивание",
+      "kk": "Шөлейттену",
+      "ruTranscription": "шөлейттену",
+      "kkTranscription": "Şöleittenu",
+      "category": "nature",
+      "id": 2399
+    },
+    {
+      "ru": "Эрозия почвы",
+      "kk": "Топырақ эрозиясы",
+      "ruTranscription": "топырақ эрозиясы",
+      "kkTranscription": "Top yraq eroziiasy",
+      "category": "nature",
+      "id": 2400
+    },
+    {
+      "ru": "Засуха",
+      "kk": "Құрғақшылық",
+      "ruTranscription": "құрғақшылық",
+      "kkTranscription": "Qūrğaqşylyq",
+      "category": "nature",
+      "id": 2401
+    },
+    {
+      "ru": "Наводнение",
+      "kk": "Суды басу",
+      "ruTranscription": "суды басу",
+      "kkTranscription": "Sudy basu",
+      "category": "nature",
+      "id": 2402
+    },
+    {
+      "ru": "Лесной пожар",
+      "kk": "Орман өрті",
+      "ruTranscription": "орман өрті",
+      "kkTranscription": "Orman örtı",
+      "category": "nature",
+      "id": 2403
+    },
+    {
+      "ru": "Вымирание",
+      "kk": "Жойылу",
+      "ruTranscription": "жойылу",
+      "kkTranscription": "Joıylu",
+      "category": "nature",
+      "id": 2404
+    },
+    {
+      "ru": "Исчезающие виды",
+      "kk": "Жойылып бара жатқан түрлер",
+      "ruTranscription": "жойылып бара жатқан түрлер",
+      "kkTranscription": "Joıylyp bara jatqan türler",
+      "category": "nature",
+      "id": 2405
+    },
+    {
+      "ru": "Красная книга",
+      "kk": "Қызыл кітап",
+      "ruTranscription": "қызыл кітап",
+      "kkTranscription": "Qyzyl kıtap",
+      "category": "nature",
+      "id": 2406
+    },
+    {
+      "ru": "Заповедник",
+      "kk": "Қорық",
+      "ruTranscription": "қорық",
+      "kkTranscription": "Qoryq",
+      "category": "nature",
+      "id": 2407
+    },
+    {
+      "ru": "Национальный парк",
+      "kk": "Ұлттық парк",
+      "ruTranscription": "ұлттық парк",
+      "kkTranscription": "Ūlttyq park",
+      "category": "nature",
+      "id": 2408
+    },
+    {
+      "ru": "Охрана природы",
+      "kk": "Табиғатты қорғау",
+      "ruTranscription": "табиғатты қорғау",
+      "kkTranscription": "Tabığatty qorğau",
+      "category": "nature",
+      "id": 2409
+    },
+    {
+      "ru": "Экоактивист",
+      "kk": "Экоактивист",
+      "ruTranscription": "экоактивист",
+      "kkTranscription": "Ekoaktivist",
+      "category": "basic",
+      "id": 2410
+    },
+    {
+      "ru": "Волонтёр",
+      "kk": "Ерікті",
+      "ruTranscription": "ерікті",
+      "kkTranscription": "Eriktı",
+      "category": "basic",
+      "id": 2411
+    },
+    {
+      "ru": "Субботник",
+      "kk": "Сенбілік",
+      "ruTranscription": "сенбілік",
+      "kkTranscription": "Senbılık",
+      "category": "basic",
+      "id": 2412
+    },
+    {
+      "ru": "Раздельный сбор",
+      "kk": "Бөлек жинау",
+      "ruTranscription": "бөлек жинау",
+      "kkTranscription": "Bölek jinau",
+      "category": "nature",
+      "id": 2413
+    },
+    {
+      "ru": "Экологический след",
+      "kk": "Экологиялық із",
+      "ruTranscription": "экологиялық із",
+      "kkTranscription": "Ekologiialyq ız",
+      "category": "nature",
+      "id": 2414
+    },
+    {
+      "ru": "Углеродный след",
+      "kk": "Көміртекті із",
+      "ruTranscription": "көміртекті із",
+      "kkTranscription": "Kömırtektı ız",
+      "category": "nature",
+      "id": 2415
+    },
+    {
+      "ru": "Нулевые отходы",
+      "kk": "Нөлдік қалдықтар",
+      "ruTranscription": "нөлдік қалдықтар",
+      "kkTranscription": "Nöldık qaldyqtar",
+      "category": "nature",
+      "id": 2416
+    },
+    {
+      "ru": "Многоразовый",
+      "kk": "Қайта пайдаланылатын",
+      "ruTranscription": "қайта пайдаланылатын",
+      "kkTranscription": "Qaita paidalanylatyn",
+      "category": "adjectives",
+      "id": 2417
+    },
+    {
+      "ru": "Эко-сумка",
+      "kk": "Эко-сөмке",
+      "ruTranscription": "эко-сөмке",
+      "kkTranscription": "Eko-sömke",
+      "category": "nature",
+      "id": 2418
+    },
+    {
+      "ru": "Энергосбережение",
+      "kk": "Энергия үнемдеу",
+      "ruTranscription": "энергия үнемдеу",
+      "kkTranscription": "Energiia ünemdeu",
+      "category": "nature",
+      "id": 2419
+    },
+    {
+      "ru": "Водосбережение",
+      "kk": "Су үнемдеу",
+      "ruTranscription": "су үнемдеу",
+      "kkTranscription": "Su ünemdeu",
+      "category": "nature",
+      "id": 2420
+    },
+    {
+      "ru": "Зелёные технологии",
+      "kk": "Жасыл технологиялар",
+      "ruTranscription": "жасыл технологиялар",
+      "kkTranscription": "Jasyl tekhnologiialar",
+      "category": "technology",
+      "id": 2421
+    },
+    {
+      "ru": "Устойчивое развитие",
+      "kk": "Тұрақты даму",
+      "ruTranscription": "тұрақты даму",
+      "kkTranscription": "Tūraqty damu",
+      "category": "basic",
+      "id": 2422
+    },
+    {
+      "ru": "Климатический кризис",
+      "kk": "Климаттық дағдарыс",
+      "ruTranscription": "климаттық дағдарыс",
+      "kkTranscription": "Klimattyq dağdarys",
+      "category": "nature",
+      "id": 2423
+    },
+    {
+      "ru": "Зелёный",
+      "kk": "Жасыл",
+      "ruTranscription": "жасыл",
+      "kkTranscription": "Jasyl",
+      "category": "colors",
+      "id": 2424
     }
   ],
   "categories": {
