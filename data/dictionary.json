@@ -1,5 +1,5 @@
 {
-  "version": "1.0.78",
+  "version": "1.0.79",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -20159,6 +20159,334 @@
       "kkTranscription": "Ğaryş turizmı",
       "category": "travel",
       "id": 2512
+    },
+    {
+      "ru": "Мода",
+      "kk": "Сән",
+      "ruTranscription": "сән",
+      "kkTranscription": "Sän",
+      "category": "clothing",
+      "id": 2513
+    },
+    {
+      "ru": "Стиль",
+      "kk": "Стиль",
+      "ruTranscription": "стиль",
+      "kkTranscription": "Stil",
+      "category": "clothing",
+      "id": 2514
+    },
+    {
+      "ru": "Модельер",
+      "kk": "Сән үлгісін жасаушы",
+      "ruTranscription": "сән үлгісін жасаушы",
+      "kkTranscription": "Sän ülgısın jasauşy",
+      "category": "work",
+      "id": 2515
+    },
+    {
+      "ru": "Коллекция",
+      "kk": "Жинақ",
+      "ruTranscription": "жинақ",
+      "kkTranscription": "Jinaq",
+      "category": "clothing",
+      "id": 2516
+    },
+    {
+      "ru": "Показ мод",
+      "kk": "Сән көрсетілімі",
+      "ruTranscription": "сән көрсетілімі",
+      "kkTranscription": "Sän körsetılımı",
+      "category": "clothing",
+      "id": 2517
+    },
+    {
+      "ru": "Подиум",
+      "kk": "Подиум",
+      "ruTranscription": "подиум",
+      "kkTranscription": "Podium",
+      "category": "clothing",
+      "id": 2518
+    },
+    {
+      "ru": "Аксессуар",
+      "kk": "Аксессуар",
+      "ruTranscription": "аксессуар",
+      "kkTranscription": "Aksessuar",
+      "category": "clothing",
+      "id": 2519
+    },
+    {
+      "ru": "Украшение",
+      "kk": "Әшекей",
+      "ruTranscription": "әшекей",
+      "kkTranscription": "Äşekei",
+      "category": "clothing",
+      "id": 2520
+    },
+    {
+      "ru": "Бижутерия",
+      "kk": "Бижутерия",
+      "ruTranscription": "бижутерия",
+      "kkTranscription": "Bizhuteriia",
+      "category": "clothing",
+      "id": 2521
+    },
+    {
+      "ru": "Колье",
+      "kk": "Алқа",
+      "ruTranscription": "алқа",
+      "kkTranscription": "Alqa",
+      "category": "clothing",
+      "id": 2522
+    },
+    {
+      "ru": "Браслет",
+      "kk": "Білезік",
+      "ruTranscription": "білезік",
+      "kkTranscription": "Bılezık",
+      "category": "clothing",
+      "id": 2523
+    },
+    {
+      "ru": "Серьги",
+      "kk": "Сырға",
+      "ruTranscription": "сырға",
+      "kkTranscription": "Syrğa",
+      "category": "clothing",
+      "id": 2524
+    },
+    {
+      "ru": "Кольцо",
+      "kk": "Сақина",
+      "ruTranscription": "сақина",
+      "kkTranscription": "Saqina",
+      "category": "clothing",
+      "id": 2525
+    },
+    {
+      "ru": "Ожерелье",
+      "kk": "Моншақ",
+      "ruTranscription": "моншақ",
+      "kkTranscription": "Monşaq",
+      "category": "clothing",
+      "id": 2526
+    },
+    {
+      "ru": "Шляпа",
+      "kk": "Қалпақ",
+      "ruTranscription": "қалпақ",
+      "kkTranscription": "Qalpaq",
+      "category": "clothing",
+      "id": 2527
+    },
+    {
+      "ru": "Кепка",
+      "kk": "Кепка",
+      "ruTranscription": "кепка",
+      "kkTranscription": "Kepka",
+      "category": "clothing",
+      "id": 2528
+    },
+    {
+      "ru": "Панама",
+      "kk": "Панама",
+      "ruTranscription": "панама",
+      "kkTranscription": "Panama",
+      "category": "clothing",
+      "id": 2529
+    },
+    {
+      "ru": "Палантин",
+      "kk": "Палантин",
+      "ruTranscription": "палантин",
+      "kkTranscription": "Palantin",
+      "category": "clothing",
+      "id": 2530
+    },
+    {
+      "ru": "Варежки",
+      "kk": "Қолғап",
+      "ruTranscription": "қолғап",
+      "kkTranscription": "Qolğap",
+      "category": "clothing",
+      "id": 2531
+    },
+    {
+      "ru": "Колготки",
+      "kk": "Колготки",
+      "ruTranscription": "колготки",
+      "kkTranscription": "Kolgоtki",
+      "category": "clothing",
+      "id": 2532
+    },
+    {
+      "ru": "Леггинсы",
+      "kk": "Леггинс",
+      "ruTranscription": "леггинс",
+      "kkTranscription": "Leggins",
+      "category": "clothing",
+      "id": 2533
+    },
+    {
+      "ru": "Сарафан",
+      "kk": "Сарафан",
+      "ruTranscription": "сарафан",
+      "kkTranscription": "Sarafan",
+      "category": "clothing",
+      "id": 2534
+    },
+    {
+      "ru": "Майка",
+      "kk": "Майка",
+      "ruTranscription": "майка",
+      "kkTranscription": "Maika",
+      "category": "clothing",
+      "id": 2535
+    },
+    {
+      "ru": "Топ",
+      "kk": "Топ",
+      "ruTranscription": "топ",
+      "kkTranscription": "Top",
+      "category": "clothing",
+      "id": 2536
+    },
+    {
+      "ru": "Джемпер",
+      "kk": "Джемпер",
+      "ruTranscription": "джемпер",
+      "kkTranscription": "Dzhemper",
+      "category": "clothing",
+      "id": 2537
+    },
+    {
+      "ru": "Кардиган",
+      "kk": "Кардиган",
+      "ruTranscription": "кардиган",
+      "kkTranscription": "Kardigan",
+      "category": "clothing",
+      "id": 2538
+    },
+    {
+      "ru": "Жакет",
+      "kk": "Жакет",
+      "ruTranscription": "жакет",
+      "kkTranscription": "Zhaket",
+      "category": "clothing",
+      "id": 2539
+    },
+    {
+      "ru": "Блейзер",
+      "kk": "Блейзер",
+      "ruTranscription": "блейзер",
+      "kkTranscription": "Bleizer",
+      "category": "clothing",
+      "id": 2540
+    },
+    {
+      "ru": "Пуховик",
+      "kk": "Пуховик",
+      "ruTranscription": "пуховик",
+      "kkTranscription": "Puhovik",
+      "category": "clothing",
+      "id": 2541
+    },
+    {
+      "ru": "Плащ",
+      "kk": "Плащ",
+      "ruTranscription": "плащ",
+      "kkTranscription": "Plashch",
+      "category": "clothing",
+      "id": 2542
+    },
+    {
+      "ru": "Тренч",
+      "kk": "Тренч",
+      "ruTranscription": "тренч",
+      "kkTranscription": "Trench",
+      "category": "clothing",
+      "id": 2543
+    },
+    {
+      "ru": "Косуха",
+      "kk": "Косуха",
+      "ruTranscription": "косуха",
+      "kkTranscription": "Kosuha",
+      "category": "clothing",
+      "id": 2544
+    },
+    {
+      "ru": "Бомбер",
+      "kk": "Бомбер",
+      "ruTranscription": "бомбер",
+      "kkTranscription": "Bomber",
+      "category": "clothing",
+      "id": 2545
+    },
+    {
+      "ru": "Спортивный костюм",
+      "kk": "Спорттық костюм",
+      "ruTranscription": "спорттық костюм",
+      "kkTranscription": "Sporttyq kostyum",
+      "category": "clothing",
+      "id": 2546
+    },
+    {
+      "ru": "Толстовка",
+      "kk": "Толстовка",
+      "ruTranscription": "толстовка",
+      "kkTranscription": "Tolstovka",
+      "category": "clothing",
+      "id": 2547
+    },
+    {
+      "ru": "Худи",
+      "kk": "Худи",
+      "ruTranscription": "худи",
+      "kkTranscription": "Khudi",
+      "category": "clothing",
+      "id": 2548
+    },
+    {
+      "ru": "Кеды",
+      "kk": "Кеды",
+      "ruTranscription": "кеды",
+      "kkTranscription": "Kedy",
+      "category": "clothing",
+      "id": 2549
+    },
+    {
+      "ru": "Босоножки",
+      "kk": "Босоножка",
+      "ruTranscription": "босоножка",
+      "kkTranscription": "Bosonozhka",
+      "category": "clothing",
+      "id": 2550
+    },
+    {
+      "ru": "Сапоги",
+      "kk": "Етік",
+      "ruTranscription": "етік",
+      "kkTranscription": "Etık",
+      "category": "clothing",
+      "id": 2551
+    },
+    {
+      "ru": "Ботинки",
+      "kk": "Бәтіңке",
+      "ruTranscription": "бәтіңке",
+      "kkTranscription": "Bätıñke",
+      "category": "clothing",
+      "id": 2552
+    },
+    {
+      "ru": "Угги",
+      "kk": "Угги",
+      "ruTranscription": "угги",
+      "kkTranscription": "Uggi",
+      "category": "clothing",
+      "id": 2553
     }
   ],
   "categories": {
