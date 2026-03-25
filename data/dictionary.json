@@ -1,5 +1,5 @@
 {
-  "version": "1.0.76",
+  "version": "1.0.77",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -19455,6 +19455,294 @@
       "kkTranscription": "Jasyl",
       "category": "colors",
       "id": 2424
+    },
+    {
+      "ru": "Психика",
+      "kk": "Психика",
+      "ruTranscription": "психика",
+      "kkTranscription": "Psikhika",
+      "category": "education",
+      "id": 2425
+    },
+    {
+      "ru": "Подсознание",
+      "kk": "Санасты",
+      "ruTranscription": "санасты",
+      "kkTranscription": "Sanasty",
+      "category": "basic",
+      "id": 2426
+    },
+    {
+      "ru": "Мышление",
+      "kk": "Ойлау",
+      "ruTranscription": "ойлау",
+      "kkTranscription": "Oilau",
+      "category": "verbs",
+      "id": 2427
+    },
+    {
+      "ru": "Восприятие",
+      "kk": "Қабылдау",
+      "ruTranscription": "қабылдау",
+      "kkTranscription": "Qabyldau",
+      "category": "basic",
+      "id": 2428
+    },
+    {
+      "ru": "Настроение",
+      "kk": "Көңіл-күй",
+      "ruTranscription": "көңіл-күй",
+      "kkTranscription": "Köñıl-küi",
+      "category": "emotions",
+      "id": 2429
+    },
+    {
+      "ru": "Стресс",
+      "kk": "Стресс",
+      "ruTranscription": "стресс",
+      "kkTranscription": "Stress",
+      "category": "basic",
+      "id": 2430
+    },
+    {
+      "ru": "Тревога",
+      "kk": "Қобалжу",
+      "ruTranscription": "қобалжу",
+      "kkTranscription": "Qobalju",
+      "category": "emotions",
+      "id": 2431
+    },
+    {
+      "ru": "Депрессия",
+      "kk": "Депрессия",
+      "ruTranscription": "депрессия",
+      "kkTranscription": "Depressiia",
+      "category": "medicine",
+      "id": 2432
+    },
+    {
+      "ru": "Апатия",
+      "kk": "Апатия",
+      "ruTranscription": "апатия",
+      "kkTranscription": "Apatiia",
+      "category": "emotions",
+      "id": 2433
+    },
+    {
+      "ru": "Выгорание",
+      "kk": "Күйзелу",
+      "ruTranscription": "күйзелу",
+      "kkTranscription": "Küizelu",
+      "category": "basic",
+      "id": 2434
+    },
+    {
+      "ru": "Мотивация",
+      "kk": "Мотивация",
+      "ruTranscription": "мотивация",
+      "kkTranscription": "Motivatsiia",
+      "category": "basic",
+      "id": 2435
+    },
+    {
+      "ru": "Самооценка",
+      "kk": "Өзін-өзі бағалау",
+      "ruTranscription": "өзін-өзі бағалау",
+      "kkTranscription": "Özın-özı bağalau",
+      "category": "basic",
+      "id": 2436
+    },
+    {
+      "ru": "Гармония",
+      "kk": "Үйлесім",
+      "ruTranscription": "үйлесім",
+      "kkTranscription": "Üilesım",
+      "category": "basic",
+      "id": 2437
+    },
+    {
+      "ru": "Баланс",
+      "kk": "Тепе-теңдік",
+      "ruTranscription": "тепе-теңдік",
+      "kkTranscription": "Tepe-teñdık",
+      "category": "basic",
+      "id": 2438
+    },
+    {
+      "ru": "Медитация",
+      "kk": "Медитация",
+      "ruTranscription": "медитация",
+      "kkTranscription": "Meditatsiia",
+      "category": "basic",
+      "id": 2439
+    },
+    {
+      "ru": "Осознанность",
+      "kk": "Саналылық",
+      "ruTranscription": "саналылық",
+      "kkTranscription": "Sanаlylyq",
+      "category": "basic",
+      "id": 2440
+    },
+    {
+      "ru": "Рефлексия",
+      "kk": "Рефлексия",
+      "ruTranscription": "рефлексия",
+      "kkTranscription": "Refleksiia",
+      "category": "basic",
+      "id": 2441
+    },
+    {
+      "ru": "Интроспекция",
+      "kk": "Интроспекция",
+      "ruTranscription": "интроспекция",
+      "kkTranscription": "Introspetsiia",
+      "category": "basic",
+      "id": 2442
+    },
+    {
+      "ru": "Саморазвитие",
+      "kk": "Өзін-өзі дамыту",
+      "ruTranscription": "өзін-өзі дамыту",
+      "kkTranscription": "Özın-özı damytu",
+      "category": "basic",
+      "id": 2443
+    },
+    {
+      "ru": "Самопознание",
+      "kk": "Өзін-өзі тану",
+      "ruTranscription": "өзін-өзі тану",
+      "kkTranscription": "Özın-özı tanu",
+      "category": "basic",
+      "id": 2444
+    },
+    {
+      "ru": "Личностный рост",
+      "kk": "Тұлғалық өсу",
+      "ruTranscription": "тұлғалық өсу",
+      "kkTranscription": "Tūlğalyq ösu",
+      "category": "basic",
+      "id": 2445
+    },
+    {
+      "ru": "Привычка",
+      "kk": "Әдет",
+      "ruTranscription": "әдет",
+      "kkTranscription": "Ädet",
+      "category": "basic",
+      "id": 2446
+    },
+    {
+      "ru": "Дисциплина",
+      "kk": "Тәртіп",
+      "ruTranscription": "тәртіп",
+      "kkTranscription": "Tärtıp",
+      "category": "basic",
+      "id": 2447
+    },
+    {
+      "ru": "Сила воли",
+      "kk": "Ерік күші",
+      "ruTranscription": "ерік күші",
+      "kkTranscription": "Erık küşı",
+      "category": "basic",
+      "id": 2448
+    },
+    {
+      "ru": "Креативность",
+      "kk": "Шығармашылық",
+      "ruTranscription": "шығармашылық",
+      "kkTranscription": "Şyğarmaşylyq",
+      "category": "culture",
+      "id": 2449
+    },
+    {
+      "ru": "Умение",
+      "kk": "Икемділік",
+      "ruTranscription": "икемділік",
+      "kkTranscription": "Ikemdılık",
+      "category": "basic",
+      "id": 2450
+    },
+    {
+      "ru": "Обучение",
+      "kk": "Оқыту",
+      "ruTranscription": "оқыту",
+      "kkTranscription": "Oqytu",
+      "category": "education",
+      "id": 2451
+    },
+    {
+      "ru": "Эффективность",
+      "kk": "Тиімділік",
+      "ruTranscription": "тиімділік",
+      "kkTranscription": "Tiımdılık",
+      "category": "basic",
+      "id": 2452
+    },
+    {
+      "ru": "Продуктивность",
+      "kk": "Өнімділік",
+      "ruTranscription": "өнімділік",
+      "kkTranscription": "Önımdılık",
+      "category": "basic",
+      "id": 2453
+    },
+    {
+      "ru": "Прокрастинация",
+      "kk": "Прокрастинация",
+      "ruTranscription": "прокрастинация",
+      "kkTranscription": "Prokrastinatsiia",
+      "category": "basic",
+      "id": 2454
+    },
+    {
+      "ru": "Лень",
+      "kk": "Жалқаулық",
+      "ruTranscription": "жалқаулық",
+      "kkTranscription": "Jalqaulyq",
+      "category": "adjectives",
+      "id": 2455
+    },
+    {
+      "ru": "Перфекционизм",
+      "kk": "Перфекционизм",
+      "ruTranscription": "перфекционизм",
+      "kkTranscription": "Perfektsionizm",
+      "category": "basic",
+      "id": 2456
+    },
+    {
+      "ru": "Токсичность",
+      "kk": "Уыттылық",
+      "ruTranscription": "уыттылық",
+      "kkTranscription": "Uyttylyq",
+      "category": "basic",
+      "id": 2457
+    },
+    {
+      "ru": "Манипуляция",
+      "kk": "Манипуляция",
+      "ruTranscription": "манипуляция",
+      "kkTranscription": "Manipuliatsiia",
+      "category": "basic",
+      "id": 2458
+    },
+    {
+      "ru": "Границы",
+      "kk": "Шекаралар",
+      "ruTranscription": "шекаралар",
+      "kkTranscription": "Şekaralar",
+      "category": "basic",
+      "id": 2459
+    },
+    {
+      "ru": "Эмпатия",
+      "kk": "Эмпатия",
+      "ruTranscription": "эмпатия",
+      "kkTranscription": "Empatiia",
+      "category": "emotions",
+      "id": 2460
     }
   ],
   "categories": {
