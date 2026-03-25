@@ -1,5 +1,5 @@
 {
-  "version": "1.0.68",
+  "version": "1.0.69",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -16542,6 +16542,438 @@
       "kkTranscription": "Agnostitsizm",
       "category": "culture",
       "id": 2060
+    },
+    {
+      "ru": "Армия",
+      "kk": "Әскер",
+      "ruTranscription": "әскер",
+      "kkTranscription": "Äsker",
+      "category": "basic",
+      "id": 2061
+    },
+    {
+      "ru": "Военный",
+      "kk": "Әскери",
+      "ruTranscription": "әскери",
+      "kkTranscription": "Äskerı",
+      "category": "basic",
+      "id": 2062
+    },
+    {
+      "ru": "Солдат",
+      "kk": "Жауынгер",
+      "ruTranscription": "жауынгер",
+      "kkTranscription": "Jauynger",
+      "category": "basic",
+      "id": 2063
+    },
+    {
+      "ru": "Офицер",
+      "kk": "Офицер",
+      "ruTranscription": "офицер",
+      "kkTranscription": "Ofitser",
+      "category": "basic",
+      "id": 2064
+    },
+    {
+      "ru": "Генерал",
+      "kk": "Генерал",
+      "ruTranscription": "генерал",
+      "kkTranscription": "General",
+      "category": "basic",
+      "id": 2065
+    },
+    {
+      "ru": "Мир",
+      "kk": "Бейбітшілік",
+      "ruTranscription": "бейбітшілік",
+      "kkTranscription": "Beibıtşılık",
+      "category": "basic",
+      "id": 2066
+    },
+    {
+      "ru": "Битва",
+      "kk": "Шайқас",
+      "ruTranscription": "шайқас",
+      "kkTranscription": "Şaiqas",
+      "category": "basic",
+      "id": 2067
+    },
+    {
+      "ru": "Сражение",
+      "kk": "Ұрыс",
+      "ruTranscription": "ұрыс",
+      "kkTranscription": "Ūrys",
+      "category": "basic",
+      "id": 2068
+    },
+    {
+      "ru": "Поражение",
+      "kk": "Жеңіліс",
+      "ruTranscription": "жеңіліс",
+      "kkTranscription": "Jeñılıs",
+      "category": "basic",
+      "id": 2069
+    },
+    {
+      "ru": "Оружие",
+      "kk": "Қару",
+      "ruTranscription": "қару",
+      "kkTranscription": "Qaru",
+      "category": "basic",
+      "id": 2070
+    },
+    {
+      "ru": "Винтовка",
+      "kk": "Мылтық",
+      "ruTranscription": "мылтық",
+      "kkTranscription": "Myltyq",
+      "category": "basic",
+      "id": 2071
+    },
+    {
+      "ru": "Пистолет",
+      "kk": "Пистолет",
+      "ruTranscription": "пистолет",
+      "kkTranscription": "Pistolet",
+      "category": "basic",
+      "id": 2072
+    },
+    {
+      "ru": "Автомат",
+      "kk": "Автомат",
+      "ruTranscription": "автомат",
+      "kkTranscription": "Avtomat",
+      "category": "basic",
+      "id": 2073
+    },
+    {
+      "ru": "Пулемёт",
+      "kk": "Пулемёт",
+      "ruTranscription": "пулемёт",
+      "kkTranscription": "Pulemiot",
+      "category": "basic",
+      "id": 2074
+    },
+    {
+      "ru": "Гранатомёт",
+      "kk": "Гранатомёт",
+      "ruTranscription": "гранатомёт",
+      "kkTranscription": "Granatamiot",
+      "category": "basic",
+      "id": 2075
+    },
+    {
+      "ru": "Танк",
+      "kk": "Танк",
+      "ruTranscription": "танк",
+      "kkTranscription": "Tank",
+      "category": "basic",
+      "id": 2076
+    },
+    {
+      "ru": "Бронетранспортёр",
+      "kk": "Бронетранспортёр",
+      "ruTranscription": "бронетранспортёр",
+      "kkTranscription": "Bronetransportior",
+      "category": "basic",
+      "id": 2077
+    },
+    {
+      "ru": "Истребитель",
+      "kk": "Жойғыш",
+      "ruTranscription": "жойғыш",
+      "kkTranscription": "Joiğyş",
+      "category": "basic",
+      "id": 2078
+    },
+    {
+      "ru": "Бомбардировщик",
+      "kk": "Бомбалаушы",
+      "ruTranscription": "бомбалаушы",
+      "kkTranscription": "Bombalauşy",
+      "category": "basic",
+      "id": 2079
+    },
+    {
+      "ru": "Подводная лодка",
+      "kk": "Сүңгуір қайық",
+      "ruTranscription": "сүңгуір қайық",
+      "kkTranscription": "Süñgır qaiyq",
+      "category": "basic",
+      "id": 2080
+    },
+    {
+      "ru": "Авианосец",
+      "kk": "Авиатасығыш",
+      "ruTranscription": "авиатасығыш",
+      "kkTranscription": "Aviatasyğyş",
+      "category": "basic",
+      "id": 2081
+    },
+    {
+      "ru": "Боеприпасы",
+      "kk": "Оқ-дәрі",
+      "ruTranscription": "оқ-дәрі",
+      "kkTranscription": "Oq-därı",
+      "category": "basic",
+      "id": 2082
+    },
+    {
+      "ru": "Патрон",
+      "kk": "Патрон",
+      "ruTranscription": "патрон",
+      "kkTranscription": "Patron",
+      "category": "basic",
+      "id": 2083
+    },
+    {
+      "ru": "Снаряд",
+      "kk": "Снаряд",
+      "ruTranscription": "снаряд",
+      "kkTranscription": "Snariad",
+      "category": "basic",
+      "id": 2084
+    },
+    {
+      "ru": "Ракета",
+      "kk": "Зымыран",
+      "ruTranscription": "зымыран",
+      "kkTranscription": "Zymyran",
+      "category": "basic",
+      "id": 2085
+    },
+    {
+      "ru": "Бомба",
+      "kk": "Бомба",
+      "ruTranscription": "бомба",
+      "kkTranscription": "Bomba",
+      "category": "basic",
+      "id": 2086
+    },
+    {
+      "ru": "Граната",
+      "kk": "Гранада",
+      "ruTranscription": "гранада",
+      "kkTranscription": "Granada",
+      "category": "basic",
+      "id": 2087
+    },
+    {
+      "ru": "Миномёт",
+      "kk": "Миномёт",
+      "ruTranscription": "миномёт",
+      "kkTranscription": "Minamiot",
+      "category": "basic",
+      "id": 2088
+    },
+    {
+      "ru": "Артиллерия",
+      "kk": "Артиллерия",
+      "ruTranscription": "артиллерия",
+      "kkTranscription": "Artilleriia",
+      "category": "basic",
+      "id": 2089
+    },
+    {
+      "ru": "Фронт",
+      "kk": "Майдан",
+      "ruTranscription": "майдан",
+      "kkTranscription": "Maidan",
+      "category": "basic",
+      "id": 2090
+    },
+    {
+      "ru": "Тыл",
+      "kk": "Тыл",
+      "ruTranscription": "тыл",
+      "kkTranscription": "Tyl",
+      "category": "basic",
+      "id": 2091
+    },
+    {
+      "ru": "Штаб",
+      "kk": "Штаб",
+      "ruTranscription": "штаб",
+      "kkTranscription": "Shtab",
+      "category": "basic",
+      "id": 2092
+    },
+    {
+      "ru": "Разведка",
+      "kk": "Барлау",
+      "ruTranscription": "барлау",
+      "kkTranscription": "Barlau",
+      "category": "basic",
+      "id": 2093
+    },
+    {
+      "ru": "Шпион",
+      "kk": "Тыңшы",
+      "ruTranscription": "тыңшы",
+      "kkTranscription": "Tyñşy",
+      "category": "basic",
+      "id": 2094
+    },
+    {
+      "ru": "Десант",
+      "kk": "Десант",
+      "ruTranscription": "десант",
+      "kkTranscription": "Desant",
+      "category": "basic",
+      "id": 2095
+    },
+    {
+      "ru": "Парашютист",
+      "kk": "Парашютист",
+      "ruTranscription": "парашютист",
+      "kkTranscription": "Parashutist",
+      "category": "basic",
+      "id": 2096
+    },
+    {
+      "ru": "Спецназ",
+      "kk": "Арнайы жасақ",
+      "ruTranscription": "арнайы жасақ",
+      "kkTranscription": "Arnaiy jasaq",
+      "category": "basic",
+      "id": 2097
+    },
+    {
+      "ru": "Форма",
+      "kk": "Нысан",
+      "ruTranscription": "нысан",
+      "kkTranscription": "Nysan",
+      "category": "basic",
+      "id": 2098
+    },
+    {
+      "ru": "Камуфляж",
+      "kk": "Камуфляж",
+      "ruTranscription": "камуфляж",
+      "kkTranscription": "Kamufliazh",
+      "category": "basic",
+      "id": 2099
+    },
+    {
+      "ru": "Броня",
+      "kk": "Сауыт",
+      "ruTranscription": "сауыт",
+      "kkTranscription": "Sauyt",
+      "category": "basic",
+      "id": 2100
+    },
+    {
+      "ru": "Каска",
+      "kk": "Дулыға",
+      "ruTranscription": "дулыға",
+      "kkTranscription": "Dulyğa",
+      "category": "basic",
+      "id": 2101
+    },
+    {
+      "ru": "Бронежилет",
+      "kk": "Сауыт",
+      "ruTranscription": "сауыт",
+      "kkTranscription": "Sauyt",
+      "category": "basic",
+      "id": 2102
+    },
+    {
+      "ru": "Учения",
+      "kk": "Жаттығулар",
+      "ruTranscription": "жаттығулар",
+      "kkTranscription": "Jattyğular",
+      "category": "basic",
+      "id": 2103
+    },
+    {
+      "ru": "Призыв",
+      "kk": "Шақыру",
+      "ruTranscription": "шақыру",
+      "kkTranscription": "Şaqyru",
+      "category": "basic",
+      "id": 2104
+    },
+    {
+      "ru": "Служба",
+      "kk": "Қызмет",
+      "ruTranscription": "қызмет",
+      "kkTranscription": "Qyzmet",
+      "category": "basic",
+      "id": 2105
+    },
+    {
+      "ru": "Демобилизация",
+      "kk": "Демобилизация",
+      "ruTranscription": "демобилизация",
+      "kkTranscription": "Demobilizatsiia",
+      "category": "basic",
+      "id": 2106
+    },
+    {
+      "ru": "Ветеран",
+      "kk": "Ардагер",
+      "ruTranscription": "ардагер",
+      "kkTranscription": "Ardager",
+      "category": "basic",
+      "id": 2107
+    },
+    {
+      "ru": "Награда",
+      "kk": "Награда",
+      "ruTranscription": "награда",
+      "kkTranscription": "Nagrada",
+      "category": "basic",
+      "id": 2108
+    },
+    {
+      "ru": "Медаль",
+      "kk": "Медаль",
+      "ruTranscription": "медаль",
+      "kkTranscription": "Medal",
+      "category": "basic",
+      "id": 2109
+    },
+    {
+      "ru": "Орден",
+      "kk": "Орден",
+      "ruTranscription": "орден",
+      "kkTranscription": "Orden",
+      "category": "basic",
+      "id": 2110
+    },
+    {
+      "ru": "Плен",
+      "kk": "Тұтқын",
+      "ruTranscription": "тұтқын",
+      "kkTranscription": "Tūtqyn",
+      "category": "basic",
+      "id": 2111
+    },
+    {
+      "ru": "Ранение",
+      "kk": "Жара",
+      "ruTranscription": "жара",
+      "kkTranscription": "Jara",
+      "category": "basic",
+      "id": 2112
+    },
+    {
+      "ru": "Госпиталь",
+      "kk": "Госпиталь",
+      "ruTranscription": "госпиталь",
+      "kkTranscription": "Gospital",
+      "category": "medicine",
+      "id": 2113
+    },
+    {
+      "ru": "Похороны",
+      "kk": "Жерлеу",
+      "ruTranscription": "жерлеу",
+      "kkTranscription": "Jerleu",
+      "category": "basic",
+      "id": 2114
     }
   ],
   "categories": {
