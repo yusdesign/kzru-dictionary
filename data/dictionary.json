@@ -1,5 +1,5 @@
 {
-  "version": "1.0.54",
+  "version": "1.0.55",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -10963,6 +10963,206 @@
       "kkTranscription": "Jıñışke",
       "category": "adjectives",
       "id": 1363
+    },
+    {
+      "ru": "Сырой",
+      "kk": "Шикі",
+      "ruTranscription": "шикі",
+      "kkTranscription": "Şikı",
+      "category": "adjectives",
+      "id": 1364
+    },
+    {
+      "ru": "Варёный",
+      "kk": "Пісірілген",
+      "ruTranscription": "пісірілген",
+      "kkTranscription": "Pısırılgen",
+      "category": "adjectives",
+      "id": 1365
+    },
+    {
+      "ru": "Жареный",
+      "kk": "Қуырылған",
+      "ruTranscription": "қуырылған",
+      "kkTranscription": "Quyrylğan",
+      "category": "adjectives",
+      "id": 1366
+    },
+    {
+      "ru": "Свежий",
+      "kk": "Жаңа",
+      "ruTranscription": "жаңа",
+      "kkTranscription": "Jaña",
+      "category": "adjectives",
+      "id": 1367
+    },
+    {
+      "ru": "Черствый",
+      "kk": "Кепкен",
+      "ruTranscription": "кепкен",
+      "kkTranscription": "Kepken",
+      "category": "adjectives",
+      "id": 1368
+    },
+    {
+      "ru": "Горячий",
+      "kk": "Ыстық",
+      "ruTranscription": "ыстық",
+      "kkTranscription": "Ystyq",
+      "category": "adjectives",
+      "id": 1369
+    },
+    {
+      "ru": "Мокрый",
+      "kk": "Сулы",
+      "ruTranscription": "сулы",
+      "kkTranscription": "Suly",
+      "category": "adjectives",
+      "id": 1370
+    },
+    {
+      "ru": "Сухой",
+      "kk": "Құрғақ",
+      "ruTranscription": "құрғақ",
+      "kkTranscription": "Qūrğaq",
+      "category": "adjectives",
+      "id": 1371
+    },
+    {
+      "ru": "Пустой",
+      "kk": "Бос",
+      "ruTranscription": "бос",
+      "kkTranscription": "Bos",
+      "category": "adjectives",
+      "id": 1372
+    },
+    {
+      "ru": "Полный",
+      "kk": "Толы",
+      "ruTranscription": "толы",
+      "kkTranscription": "Toly",
+      "category": "adjectives",
+      "id": 1373
+    },
+    {
+      "ru": "Густой",
+      "kk": "Қою",
+      "ruTranscription": "қою",
+      "kkTranscription": "Qoiu",
+      "category": "adjectives",
+      "id": 1374
+    },
+    {
+      "ru": "Жидкий",
+      "kk": "Сұйық",
+      "ruTranscription": "сұйық",
+      "kkTranscription": "Sūiyq",
+      "category": "adjectives",
+      "id": 1375
+    },
+    {
+      "ru": "Редкий",
+      "kk": "Сирек",
+      "ruTranscription": "сирек",
+      "kkTranscription": "Sirek",
+      "category": "adjectives",
+      "id": 1376
+    },
+    {
+      "ru": "Частый",
+      "kk": "Жиі",
+      "ruTranscription": "жиі",
+      "kkTranscription": "Jii",
+      "category": "adjectives",
+      "id": 1377
+    },
+    {
+      "ru": "Ранний",
+      "kk": "Ерте",
+      "ruTranscription": "ерте",
+      "kkTranscription": "Erte",
+      "category": "adjectives",
+      "id": 1378
+    },
+    {
+      "ru": "Поздний",
+      "kk": "Кеш",
+      "ruTranscription": "кеш",
+      "kkTranscription": "Keş",
+      "category": "adjectives",
+      "id": 1379
+    },
+    {
+      "ru": "Далёкий",
+      "kk": "Алыс",
+      "ruTranscription": "алыс",
+      "kkTranscription": "Alys",
+      "category": "adjectives",
+      "id": 1380
+    },
+    {
+      "ru": "Близкий",
+      "kk": "Жақын",
+      "ruTranscription": "жақын",
+      "kkTranscription": "Jaqyn",
+      "category": "adjectives",
+      "id": 1381
+    },
+    {
+      "ru": "Важный",
+      "kk": "Маңызды",
+      "ruTranscription": "маңызды",
+      "kkTranscription": "Mañyzdy",
+      "category": "adjectives",
+      "id": 1382
+    },
+    {
+      "ru": "Неважный",
+      "kk": "Маңызсыз",
+      "ruTranscription": "маңызсыз",
+      "kkTranscription": "Mañyzsyz",
+      "category": "adjectives",
+      "id": 1383
+    },
+    {
+      "ru": "Главный",
+      "kk": "Басты",
+      "ruTranscription": "басты",
+      "kkTranscription": "Basty",
+      "category": "adjectives",
+      "id": 1384
+    },
+    {
+      "ru": "Второстепенный",
+      "kk": "Екінші дәрежелі",
+      "ruTranscription": "екінші дәрежелі",
+      "kkTranscription": "Ekınşı därejelı",
+      "category": "adjectives",
+      "id": 1385
+    },
+    {
+      "ru": "Единственный",
+      "kk": "Жалғыз",
+      "ruTranscription": "жалғыз",
+      "kkTranscription": "Jalğyz",
+      "category": "adjectives",
+      "id": 1386
+    },
+    {
+      "ru": "Множественный",
+      "kk": "Көптеген",
+      "ruTranscription": "көптеген",
+      "kkTranscription": "Köptegen",
+      "category": "adjectives",
+      "id": 1387
+    },
+    {
+      "ru": "Разный",
+      "kk": "Әртүрлі",
+      "ruTranscription": "әртүрлі",
+      "kkTranscription": "Ärtürlı",
+      "category": "adjectives",
+      "id": 1388
     }
   ],
   "categories": {
