@@ -1,5 +1,5 @@
 {
-  "version": "1.0.38",
+  "version": "1.0.39",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -1625,7 +1625,7 @@
       "kk": "Денсаулық",
       "ruTranscription": "денсаулық",
       "kkTranscription": "Densaulyq",
-      "category": "health",
+      "category": "medicine",
       "id": 203
     },
     {
@@ -1633,7 +1633,7 @@
       "kk": "Дене",
       "ruTranscription": "дене",
       "kkTranscription": "Dene",
-      "category": "health",
+      "category": "medicine",
       "id": 204
     },
     {
@@ -1641,7 +1641,7 @@
       "kk": "Бас",
       "ruTranscription": "бас",
       "kkTranscription": "Bas",
-      "category": "health",
+      "category": "medicine",
       "id": 205
     },
     {
@@ -1649,7 +1649,7 @@
       "kk": "Қол",
       "ruTranscription": "қол",
       "kkTranscription": "Qol",
-      "category": "health",
+      "category": "medicine",
       "id": 206
     },
     {
@@ -1657,7 +1657,7 @@
       "kk": "Аяқ",
       "ruTranscription": "аяқ",
       "kkTranscription": "Ayaq",
-      "category": "health",
+      "category": "medicine",
       "id": 207
     },
     {
@@ -1665,7 +1665,7 @@
       "kk": "Көз",
       "ruTranscription": "көз",
       "kkTranscription": "Köz",
-      "category": "health",
+      "category": "medicine",
       "id": 208
     },
     {
@@ -1673,7 +1673,7 @@
       "kk": "Құлақ",
       "ruTranscription": "құлақ",
       "kkTranscription": "Qūlaq",
-      "category": "health",
+      "category": "medicine",
       "id": 209
     },
     {
@@ -1681,7 +1681,7 @@
       "kk": "Мұрын",
       "ruTranscription": "мұрын",
       "kkTranscription": "Mūryn",
-      "category": "health",
+      "category": "medicine",
       "id": 210
     },
     {
@@ -1689,7 +1689,7 @@
       "kk": "Ауыз",
       "ruTranscription": "ауыз",
       "kkTranscription": "Auyz",
-      "category": "health",
+      "category": "medicine",
       "id": 211
     },
     {
@@ -1697,7 +1697,7 @@
       "kk": "Жүрек",
       "ruTranscription": "жүрек",
       "kkTranscription": "Jürek",
-      "category": "health",
+      "category": "medicine",
       "id": 212
     },
     {
@@ -1705,7 +1705,7 @@
       "kk": "Ауру",
       "ruTranscription": "ауру",
       "kkTranscription": "Auru",
-      "category": "health",
+      "category": "medicine",
       "id": 213
     },
     {
@@ -1713,7 +1713,7 @@
       "kk": "Басым ауырады",
       "ruTranscription": "басым ауырады",
       "kkTranscription": "Basym auyrady",
-      "category": "health",
+      "category": "medicine",
       "id": 214
     },
     {
@@ -1721,7 +1721,7 @@
       "kk": "Қызу",
       "ruTranscription": "қызу",
       "kkTranscription": "Qyzu",
-      "category": "health",
+      "category": "medicine",
       "id": 215
     },
     {
@@ -1729,7 +1729,7 @@
       "kk": "Жөтел",
       "ruTranscription": "жөтел",
       "kkTranscription": "Jötel",
-      "category": "health",
+      "category": "medicine",
       "id": 216
     },
     {
@@ -1737,7 +1737,7 @@
       "kk": "Мұрынның ағуы",
       "ruTranscription": "мұрынның ағуы",
       "kkTranscription": "Mūrynnyñ ağuy",
-      "category": "health",
+      "category": "medicine",
       "id": 217
     },
     {
@@ -1745,7 +1745,7 @@
       "kk": "Дәрі",
       "ruTranscription": "дәрі",
       "kkTranscription": "Därı",
-      "category": "health",
+      "category": "medicine",
       "id": 218
     },
     {
@@ -1753,7 +1753,7 @@
       "kk": "Тіс дәрігері",
       "ruTranscription": "тіс дәрігері",
       "kkTranscription": "Tis därıgerı",
-      "category": "health",
+      "category": "medicine",
       "id": 219
     },
     {
@@ -1761,7 +1761,7 @@
       "kk": "Тіс",
       "ruTranscription": "тіс",
       "kkTranscription": "Tis",
-      "category": "health",
+      "category": "medicine",
       "id": 220
     },
     {
@@ -1769,7 +1769,7 @@
       "kk": "Жазылу",
       "ruTranscription": "жазылу",
       "kkTranscription": "Jazylu",
-      "category": "health",
+      "category": "medicine",
       "id": 221
     },
     {
@@ -1777,7 +1777,7 @@
       "kk": "Ауыру",
       "ruTranscription": "ауыру",
       "kkTranscription": "Auyru",
-      "category": "health",
+      "category": "medicine",
       "id": 222
     },
     {
@@ -1785,7 +1785,7 @@
       "kk": "Инъекция",
       "ruTranscription": "инъекция",
       "kkTranscription": "In'ektsiia",
-      "category": "health",
+      "category": "medicine",
       "id": 223
     },
     {
@@ -1793,7 +1793,7 @@
       "kk": "Жедел жәрдем",
       "ruTranscription": "жедел жәрдем",
       "kkTranscription": "Jedel järdem",
-      "category": "health",
+      "category": "medicine",
       "id": 224
     },
     {
@@ -6184,7 +6184,7 @@
       "kk": "Қан анализі",
       "ruTranscription": "қан анализі",
       "kkTranscription": "Qan analizı",
-      "category": "body",
+      "category": "medicine",
       "id": 766
     },
     {
@@ -6192,7 +6192,7 @@
       "kk": "Қан қысымы",
       "ruTranscription": "қан қысымы",
       "kkTranscription": "Qan qysymy",
-      "category": "body",
+      "category": "medicine",
       "id": 767
     },
     {
@@ -6200,7 +6200,7 @@
       "kk": "Таблетка",
       "ruTranscription": "таблетка",
       "kkTranscription": "Tabletka",
-      "category": "body",
+      "category": "medicine",
       "id": 768
     },
     {
@@ -6208,7 +6208,7 @@
       "kk": "Сироп",
       "ruTranscription": "сироп",
       "kkTranscription": "Sirob",
-      "category": "body",
+      "category": "medicine",
       "id": 769
     },
     {
@@ -6216,7 +6216,7 @@
       "kk": "Жақпа май",
       "ruTranscription": "жақпа май",
       "kkTranscription": "Jaqpa mai",
-      "category": "body",
+      "category": "medicine",
       "id": 770
     },
     {
@@ -6224,7 +6224,7 @@
       "kk": "Тамызғыш",
       "ruTranscription": "тамызғыш",
       "kkTranscription": "Tamyzğyş",
-      "category": "body",
+      "category": "medicine",
       "id": 771
     },
     {
@@ -6232,7 +6232,7 @@
       "kk": "Рентген",
       "ruTranscription": "рентген",
       "kkTranscription": "Rentgen",
-      "category": "body",
+      "category": "medicine",
       "id": 772
     },
     {
@@ -6240,7 +6240,7 @@
       "kk": "УДЗ",
       "ruTranscription": "удз",
       "kkTranscription": "UDZ",
-      "category": "body",
+      "category": "medicine",
       "note": "Ультразвуковая диагностика",
       "id": 773
     },
@@ -6249,7 +6249,7 @@
       "kk": "Операция",
       "ruTranscription": "операция",
       "kkTranscription": "Operatsiia",
-      "category": "body",
+      "category": "medicine",
       "id": 774
     },
     {
@@ -6257,7 +6257,7 @@
       "kk": "Рецепт",
       "ruTranscription": "рецепт",
       "kkTranscription": "Retsept",
-      "category": "body",
+      "category": "medicine",
       "id": 775
     },
     {
@@ -6265,7 +6265,7 @@
       "kk": "Сақтандыру",
       "ruTranscription": "сақтандыру",
       "kkTranscription": "Saqtandyru",
-      "category": "body",
+      "category": "medicine",
       "id": 776
     },
     {
@@ -6273,7 +6273,7 @@
       "kk": "Емхана",
       "ruTranscription": "емхана",
       "kkTranscription": "Emkhana",
-      "category": "body",
+      "category": "medicine",
       "id": 777
     },
     {
@@ -6281,7 +6281,7 @@
       "kk": "Аллергия",
       "ruTranscription": "аллергия",
       "kkTranscription": "Allergiia",
-      "category": "body",
+      "category": "medicine",
       "id": 778
     },
     {
@@ -6289,7 +6289,7 @@
       "kk": "Вирус",
       "ruTranscription": "вирус",
       "kkTranscription": "Virus",
-      "category": "body",
+      "category": "medicine",
       "id": 779
     },
     {
@@ -6297,7 +6297,7 @@
       "kk": "Бактерия",
       "ruTranscription": "бактерия",
       "kkTranscription": "Bakteriia",
-      "category": "body",
+      "category": "medicine",
       "id": 780
     },
     {
@@ -6305,7 +6305,7 @@
       "kk": "Иммунитет",
       "ruTranscription": "иммунитет",
       "kkTranscription": "Immunitet",
-      "category": "body",
+      "category": "medicine",
       "id": 781
     },
     {
@@ -6313,7 +6313,7 @@
       "kk": "Вакцина",
       "ruTranscription": "вакцина",
       "kkTranscription": "Vaktsina",
-      "category": "body",
+      "category": "medicine",
       "id": 782
     },
     {
@@ -6321,7 +6321,7 @@
       "kk": "Екпе",
       "ruTranscription": "екпе",
       "kkTranscription": "Ekpe",
-      "category": "body",
+      "category": "medicine",
       "id": 783
     },
     {
@@ -6329,7 +6329,7 @@
       "kk": "Жарақат",
       "ruTranscription": "жарақат",
       "kkTranscription": "Jaraqat",
-      "category": "body",
+      "category": "medicine",
       "id": 784
     },
     {
@@ -6337,7 +6337,7 @@
       "kk": "Сынық",
       "ruTranscription": "сынық",
       "kkTranscription": "Synyq",
-      "category": "body",
+      "category": "medicine",
       "id": 785
     },
     {
@@ -6345,7 +6345,7 @@
       "kk": "Шығу",
       "ruTranscription": "шығу",
       "kkTranscription": "Şyğu",
-      "category": "body",
+      "category": "medicine",
       "id": 786
     },
     {
@@ -6353,7 +6353,7 @@
       "kk": "Солқы",
       "ruTranscription": "солқы",
       "kkTranscription": "Solqy",
-      "category": "body",
+      "category": "medicine",
       "id": 787
     },
     {
@@ -6361,7 +6361,7 @@
       "kk": "Күйік",
       "ruTranscription": "күйік",
       "kkTranscription": "Küiık",
-      "category": "body",
+      "category": "medicine",
       "id": 788
     },
     {
@@ -6369,7 +6369,7 @@
       "kk": "Реанимация",
       "ruTranscription": "реанимация",
       "kkTranscription": "Reanimatsiia",
-      "category": "body",
+      "category": "medicine",
       "id": 789
     },
     {
@@ -6377,7 +6377,7 @@
       "kk": "Хирургия",
       "ruTranscription": "хирургия",
       "kkTranscription": "Hirurgiia",
-      "category": "body",
+      "category": "medicine",
       "id": 790
     },
     {
@@ -6385,7 +6385,7 @@
       "kk": "Терапия",
       "ruTranscription": "терапия",
       "kkTranscription": "Terapiia",
-      "category": "body",
+      "category": "medicine",
       "id": 791
     },
     {
@@ -6393,7 +6393,7 @@
       "kk": "Педиатрия",
       "ruTranscription": "педиатрия",
       "kkTranscription": "Pediatriia",
-      "category": "body",
+      "category": "medicine",
       "id": 792
     },
     {
@@ -6401,7 +6401,7 @@
       "kk": "Кардиология",
       "ruTranscription": "кардиология",
       "kkTranscription": "Kardiologiia",
-      "category": "body",
+      "category": "medicine",
       "id": 793
     },
     {
