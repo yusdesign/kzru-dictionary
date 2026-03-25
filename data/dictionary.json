@@ -1,5 +1,5 @@
 {
-  "version": "1.0.35",
+  "version": "1.0.36",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -4217,7 +4217,7 @@
       "kk": "Бет",
       "ruTranscription": "бет",
       "kkTranscription": "Bet",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 527
     },
     {
@@ -4225,7 +4225,7 @@
       "kk": "Шаш",
       "ruTranscription": "шаш",
       "kkTranscription": "Şaş",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 528
     },
     {
@@ -4233,7 +4233,7 @@
       "kk": "Маңдай",
       "ruTranscription": "маңдай",
       "kkTranscription": "Mañdai",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 529
     },
     {
@@ -4241,7 +4241,7 @@
       "kk": "Қас",
       "ruTranscription": "қас",
       "kkTranscription": "Qas",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 530
     },
     {
@@ -4249,7 +4249,7 @@
       "kk": "Кірпік",
       "ruTranscription": "кірпік",
       "kkTranscription": "Kırpık",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 531
     },
     {
@@ -4257,7 +4257,7 @@
       "kk": "Бет",
       "ruTranscription": "бет",
       "kkTranscription": "Bet",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 532
     },
     {
@@ -4265,7 +4265,7 @@
       "kk": "Иек",
       "ruTranscription": "иек",
       "kkTranscription": "Iek",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 533
     },
     {
@@ -4273,7 +4273,7 @@
       "kk": "Мойын",
       "ruTranscription": "мойын",
       "kkTranscription": "Moiyn",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 534
     },
     {
@@ -4281,7 +4281,7 @@
       "kk": "Иық",
       "ruTranscription": "иық",
       "kkTranscription": "Iyq",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 535
     },
     {
@@ -4289,7 +4289,7 @@
       "kk": "Шынтақ",
       "ruTranscription": "шынтақ",
       "kkTranscription": "Şyntaq",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 536
     },
     {
@@ -4297,7 +4297,7 @@
       "kk": "Білек",
       "ruTranscription": "білек",
       "kkTranscription": "Bılek",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 537
     },
     {
@@ -4305,7 +4305,7 @@
       "kk": "Алақан",
       "ruTranscription": "алақан",
       "kkTranscription": "Alaqan",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 538
     },
     {
@@ -4313,7 +4313,7 @@
       "kk": "Саусақ",
       "ruTranscription": "саусақ",
       "kkTranscription": "Sausaq",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 539
     },
     {
@@ -4321,7 +4321,7 @@
       "kk": "Тырнақ",
       "ruTranscription": "тырнақ",
       "kkTranscription": "Tyrnaq",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 540
     },
     {
@@ -4329,7 +4329,7 @@
       "kk": "Кеуде",
       "ruTranscription": "кеуде",
       "kkTranscription": "Keude",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 541
     },
     {
@@ -4337,7 +4337,7 @@
       "kk": "Арқа",
       "ruTranscription": "арқа",
       "kkTranscription": "Arqa",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 542
     },
     {
@@ -4345,7 +4345,7 @@
       "kk": "Іш",
       "ruTranscription": "іш",
       "kkTranscription": "Iş",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 543
     },
     {
@@ -4353,7 +4353,7 @@
       "kk": "Бел",
       "ruTranscription": "бел",
       "kkTranscription": "Bel",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 544
     },
     {
@@ -4361,7 +4361,7 @@
       "kk": "Сан",
       "ruTranscription": "сан",
       "kkTranscription": "San",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 545
     },
     {
@@ -4369,7 +4369,7 @@
       "kk": "Тізе",
       "ruTranscription": "тізе",
       "kkTranscription": "Tıze",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 546
     },
     {
@@ -4377,7 +4377,7 @@
       "kk": "Балтыр",
       "ruTranscription": "балтыр",
       "kkTranscription": "Baltyr",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 547
     },
     {
@@ -4385,7 +4385,7 @@
       "kk": "Табан",
       "ruTranscription": "табан",
       "kkTranscription": "Taban",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 548
     },
     {
@@ -4393,7 +4393,7 @@
       "kk": "Өкше",
       "ruTranscription": "өкше",
       "kkTranscription": "Ökşe",
-      "category": "Медицина",
+      "category": "medicine",
       "id": 549
     },
     {
@@ -7448,6 +7448,6 @@
     "literature": "Литература",
     "journalism": "Журналистика",
     "grammar": "Грамматика (предлоги и частицы)",
-    "Медицина": "Части тела"
+    "medicine": "Медицина"
   }
 }
