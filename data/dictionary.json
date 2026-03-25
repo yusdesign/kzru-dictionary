@@ -1,5 +1,5 @@
 {
-  "version": "1.0.81",
+  "version": "1.0.82",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -21239,6 +21239,158 @@
       "kkTranscription": "Ūzaq ömır süru",
       "category": "basic",
       "id": 2647
+    },
+    {
+      "ru": "Социальные сети",
+      "kk": "Әлеуметтік желілер",
+      "ruTranscription": "әлеуметтік желілер",
+      "kkTranscription": "Äleumettık jelıler",
+      "category": "technology",
+      "id": 2648
+    },
+    {
+      "ru": "Регистрация",
+      "kk": "Тіркелу",
+      "ruTranscription": "тіркелу",
+      "kkTranscription": "Tırkelu",
+      "category": "technology",
+      "id": 2649
+    },
+    {
+      "ru": "Авторизация",
+      "kk": "Кіру",
+      "ruTranscription": "кіру",
+      "kkTranscription": "Kıru",
+      "category": "technology",
+      "id": 2650
+    },
+    {
+      "ru": "Заявка в друзья",
+      "kk": "Досқа шақыру",
+      "ruTranscription": "досқа шақыру",
+      "kkTranscription": "Do s qa şaqyru",
+      "category": "technology",
+      "id": 2651
+    },
+    {
+      "ru": "Комментарий",
+      "kk": "Пікір",
+      "ruTranscription": "пікір",
+      "kkTranscription": "Pıkır",
+      "category": "technology",
+      "id": 2652
+    },
+    {
+      "ru": "WhatsApp",
+      "kk": "WhatsApp",
+      "ruTranscription": "ватсап",
+      "kkTranscription": "Vatsap",
+      "category": "technology",
+      "id": 2653
+    },
+    {
+      "ru": "Telegram",
+      "kk": "Telegram",
+      "ruTranscription": "телеграм",
+      "kkTranscription": "Telegram",
+      "category": "technology",
+      "id": 2654
+    },
+    {
+      "ru": "Instagram",
+      "kk": "Instagram",
+      "ruTranscription": "инстаграм",
+      "kkTranscription": "Instagram",
+      "category": "technology",
+      "id": 2655
+    },
+    {
+      "ru": "TikTok",
+      "kk": "TikTok",
+      "ruTranscription": "тикток",
+      "kkTranscription": "TikTok",
+      "category": "technology",
+      "id": 2656
+    },
+    {
+      "ru": "YouTube",
+      "kk": "YouTube",
+      "ruTranscription": "ютуб",
+      "kkTranscription": "Iutub",
+      "category": "technology",
+      "id": 2657
+    },
+    {
+      "ru": "Facebook",
+      "kk": "Facebook",
+      "ruTranscription": "фейсбук",
+      "kkTranscription": "Feisbuk",
+      "category": "technology",
+      "id": 2658
+    },
+    {
+      "ru": "Twitter",
+      "kk": "Twitter",
+      "ruTranscription": "твиттер",
+      "kkTranscription": "Tvitter",
+      "category": "technology",
+      "id": 2659
+    },
+    {
+      "ru": "Сторис",
+      "kk": "Сторис",
+      "ruTranscription": "сторис",
+      "kkTranscription": "Storis",
+      "category": "technology",
+      "id": 2660
+    },
+    {
+      "ru": "Лайв",
+      "kk": "Тікелей эфир",
+      "ruTranscription": "тікелей эфир",
+      "kkTranscription": "Tikelei efir",
+      "category": "technology",
+      "id": 2661
+    },
+    {
+      "ru": "Хейтер",
+      "kk": "Жек көруші",
+      "ruTranscription": "жек көруші",
+      "kkTranscription": "Jek köruşı",
+      "category": "technology",
+      "id": 2662
+    },
+    {
+      "ru": "Кибербуллинг",
+      "kk": "Кибербуллинг",
+      "ruTranscription": "кибербуллинг",
+      "kkTranscription": "Kiberbulling",
+      "category": "technology",
+      "id": 2663
+    },
+    {
+      "ru": "Приватность",
+      "kk": "Жекелік",
+      "ruTranscription": "жекелік",
+      "kkTranscription": "Jekelık",
+      "category": "technology",
+      "id": 2664
+    },
+    {
+      "ru": "Конфиденциальность",
+      "kk": "Құпиялылық",
+      "ruTranscription": "құпиялылық",
+      "kkTranscription": "Qūpialylyq",
+      "category": "technology",
+      "id": 2665
+    },
+    {
+      "ru": "Таргетинг",
+      "kk": "Мақсатты бағыттау",
+      "ruTranscription": "мақсатты бағыттау",
+      "kkTranscription": "Maqsatty bağyttau",
+      "category": "technology",
+      "id": 2666
     }
   ],
   "categories": {
