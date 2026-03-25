@@ -1,5 +1,5 @@
 {
-  "version": "1.0.61",
+  "version": "1.0.62",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -13403,6 +13403,646 @@
       "kkTranscription": "Birdei",
       "category": "basic",
       "id": 1668
+    },
+    {
+      "ru": "Инструмент",
+      "kk": "Құрал",
+      "ruTranscription": "құрал",
+      "kkTranscription": "Qūral",
+      "category": "technology",
+      "id": 1669
+    },
+    {
+      "ru": "Молоток",
+      "kk": "Балға",
+      "ruTranscription": "балға",
+      "kkTranscription": "Balğa",
+      "category": "technology",
+      "id": 1670
+    },
+    {
+      "ru": "Отвертка",
+      "kk": "Бұрағыш",
+      "ruTranscription": "бұрағыш",
+      "kkTranscription": "Būrağyş",
+      "category": "technology",
+      "id": 1671
+    },
+    {
+      "ru": "Плоскогубцы",
+      "kk": "Қысқаш",
+      "ruTranscription": "қысқаш",
+      "kkTranscription": "Qysqaş",
+      "category": "technology",
+      "id": 1672
+    },
+    {
+      "ru": "Ключ гаечный",
+      "kk": "Кілт",
+      "ruTranscription": "кілт",
+      "kkTranscription": "Kılt",
+      "category": "technology",
+      "id": 1673
+    },
+    {
+      "ru": "Дрель",
+      "kk": "Бұрғы",
+      "ruTranscription": "бұрғы",
+      "kkTranscription": "Būrğy",
+      "category": "technology",
+      "id": 1674
+    },
+    {
+      "ru": "Пила",
+      "kk": "Ара",
+      "ruTranscription": "ара",
+      "kkTranscription": "Ara",
+      "category": "technology",
+      "id": 1675
+    },
+    {
+      "ru": "Ножовка",
+      "kk": "Ара",
+      "ruTranscription": "ара",
+      "kkTranscription": "Ara",
+      "category": "technology",
+      "id": 1676
+    },
+    {
+      "ru": "Ножницы",
+      "kk": "Қайшы",
+      "ruTranscription": "қайшы",
+      "kkTranscription": "Qaişy",
+      "category": "technology",
+      "id": 1677
+    },
+    {
+      "ru": "Топор",
+      "kk": "Балта",
+      "ruTranscription": "балта",
+      "kkTranscription": "Balta",
+      "category": "technology",
+      "id": 1678
+    },
+    {
+      "ru": "Лопата",
+      "kk": "Күрек",
+      "ruTranscription": "күрек",
+      "kkTranscription": "Kürek",
+      "category": "technology",
+      "id": 1679
+    },
+    {
+      "ru": "Грабли",
+      "kk": "Тырма",
+      "ruTranscription": "тырма",
+      "kkTranscription": "Tyrma",
+      "category": "technology",
+      "id": 1680
+    },
+    {
+      "ru": "Коса",
+      "kk": "Шалғы",
+      "ruTranscription": "шалғы",
+      "kkTranscription": "Şalğy",
+      "category": "technology",
+      "id": 1681
+    },
+    {
+      "ru": "Метла",
+      "kk": "Сырпы",
+      "ruTranscription": "сырпы",
+      "kkTranscription": "Syrpy",
+      "category": "technology",
+      "id": 1682
+    },
+    {
+      "ru": "Щетка",
+      "kk": "Щетка",
+      "ruTranscription": "щетка",
+      "kkTranscription": "Şetka",
+      "category": "technology",
+      "id": 1683
+    },
+    {
+      "ru": "Ведро",
+      "kk": "Шелек",
+      "ruTranscription": "шелек",
+      "kkTranscription": "Şelek",
+      "category": "house",
+      "id": 1684
+    },
+    {
+      "ru": "Лестница",
+      "kk": "Баспалдақ",
+      "ruTranscription": "баспалдақ",
+      "kkTranscription": "Baspaldaq",
+      "category": "house",
+      "id": 1685
+    },
+    {
+      "ru": "Стремянка",
+      "kk": "Басқыш",
+      "ruTranscription": "басқыш",
+      "kkTranscription": "Basqyş",
+      "category": "technology",
+      "id": 1686
+    },
+    {
+      "ru": "Веревка",
+      "kk": "Жіп",
+      "ruTranscription": "жіп",
+      "kkTranscription": "Jıp",
+      "category": "house",
+      "id": 1687
+    },
+    {
+      "ru": "Клей",
+      "kk": "Желім",
+      "ruTranscription": "желім",
+      "kkTranscription": "Jelım",
+      "category": "technology",
+      "id": 1688
+    },
+    {
+      "ru": "Скотч",
+      "kk": "Скотч",
+      "ruTranscription": "скотч",
+      "kkTranscription": "Skotç",
+      "category": "technology",
+      "id": 1689
+    },
+    {
+      "ru": "Изолента",
+      "kk": "Изолента",
+      "ruTranscription": "изолента",
+      "kkTranscription": "Izolenta",
+      "category": "technology",
+      "id": 1690
+    },
+    {
+      "ru": "Проволока",
+      "kk": "Сым",
+      "ruTranscription": "сым",
+      "kkTranscription": "Sym",
+      "category": "technology",
+      "id": 1691
+    },
+    {
+      "ru": "Гвоздь",
+      "kk": "Шеге",
+      "ruTranscription": "шеге",
+      "kkTranscription": "Şege",
+      "category": "technology",
+      "id": 1692
+    },
+    {
+      "ru": "Шуруп",
+      "kk": "Бұранда",
+      "ruTranscription": "бұранда",
+      "kkTranscription": "Būranda",
+      "category": "technology",
+      "id": 1693
+    },
+    {
+      "ru": "Болт",
+      "kk": "Болт",
+      "ruTranscription": "болт",
+      "kkTranscription": "Bolt",
+      "category": "technology",
+      "id": 1694
+    },
+    {
+      "ru": "Гайка",
+      "kk": "Гайка",
+      "ruTranscription": "гайка",
+      "kkTranscription": "Gaika",
+      "category": "technology",
+      "id": 1695
+    },
+    {
+      "ru": "Шайба",
+      "kk": "Шайба",
+      "ruTranscription": "шайба",
+      "kkTranscription": "Şaiba",
+      "category": "technology",
+      "id": 1696
+    },
+    {
+      "ru": "Электроприбор",
+      "kk": "Электр құралы",
+      "ruTranscription": "электр құралы",
+      "kkTranscription": "Elektr qūraly",
+      "category": "technology",
+      "id": 1697
+    },
+    {
+      "ru": "Блендер",
+      "kk": "Блендер",
+      "ruTranscription": "блендер",
+      "kkTranscription": "B lender",
+      "category": "house",
+      "id": 1698
+    },
+    {
+      "ru": "Миксер",
+      "kk": "Миксер",
+      "ruTranscription": "миксер",
+      "kkTranscription": "Mikser",
+      "category": "house",
+      "id": 1699
+    },
+    {
+      "ru": "Кофемашина",
+      "kk": "Кофе машинасы",
+      "ruTranscription": "кофе машинасы",
+      "kkTranscription": "Kofe mashinasy",
+      "category": "house",
+      "id": 1700
+    },
+    {
+      "ru": "Электрочайник",
+      "kk": "Электр шәйнек",
+      "ruTranscription": "электр шәйнек",
+      "kkTranscription": "Elektr şäinek",
+      "category": "house",
+      "id": 1701
+    },
+    {
+      "ru": "Тостер",
+      "kk": "Тостер",
+      "ruTranscription": "тостер",
+      "kkTranscription": "Toster",
+      "category": "house",
+      "id": 1702
+    },
+    {
+      "ru": "Мясорубка",
+      "kk": "Еттартқыш",
+      "ruTranscription": "еттартқыш",
+      "kkTranscription": "Ettartqyş",
+      "category": "house",
+      "id": 1703
+    },
+    {
+      "ru": "Весы",
+      "kk": "Таразы",
+      "ruTranscription": "таразы",
+      "kkTranscription": "Tarazy",
+      "category": "house",
+      "id": 1704
+    },
+    {
+      "ru": "Часы",
+      "kk": "Сағат",
+      "ruTranscription": "сағат",
+      "kkTranscription": "Sağat",
+      "category": "time",
+      "id": 1705
+    },
+    {
+      "ru": "Будильник",
+      "kk": "Оятқыш",
+      "ruTranscription": "оятқыш",
+      "kkTranscription": "Oiatqyş",
+      "category": "house",
+      "id": 1706
+    },
+    {
+      "ru": "Калькулятор",
+      "kk": "Калькулятор",
+      "ruTranscription": "калькулятор",
+      "kkTranscription": "Kal'kulyator",
+      "category": "technology",
+      "id": 1707
+    },
+    {
+      "ru": "Фонарик",
+      "kk": "Шам",
+      "ruTranscription": "шам",
+      "kkTranscription": "Şam",
+      "category": "house",
+      "id": 1708
+    },
+    {
+      "ru": "Батарейка",
+      "kk": "Батарея",
+      "ruTranscription": "батарея",
+      "kkTranscription": "Batareia",
+      "category": "technology",
+      "id": 1709
+    },
+    {
+      "ru": "Зарядное устройство",
+      "kk": "Зарядтағыш",
+      "ruTranscription": "зарядтағыш",
+      "kkTranscription": "Zaryadtağyş",
+      "category": "technology",
+      "id": 1710
+    },
+    {
+      "ru": "USB-кабель",
+      "kk": "USB кабель",
+      "ruTranscription": "ю-эс-би кабель",
+      "kkTranscription": "Ju-Es-Bi kabel",
+      "category": "technology",
+      "id": 1711
+    },
+    {
+      "ru": "Наушники",
+      "kk": "Құлаққап",
+      "ruTranscription": "құлаққап",
+      "kkTranscription": "Qūlaqqap",
+      "category": "technology",
+      "id": 1712
+    },
+    {
+      "ru": "Колонка",
+      "kk": "Дыбыс зорайтқыш",
+      "ruTranscription": "дыбыс зорайтқыш",
+      "kkTranscription": "Dybys zorai tqyş",
+      "category": "technology",
+      "id": 1713
+    },
+    {
+      "ru": "Микрофон",
+      "kk": "Микрофон",
+      "ruTranscription": "микрофон",
+      "kkTranscription": "Mikrofon",
+      "category": "technology",
+      "id": 1714
+    },
+    {
+      "ru": "Проектор",
+      "kk": "Проектор",
+      "ruTranscription": "проектор",
+      "kkTranscription": "Proektor",
+      "category": "technology",
+      "id": 1715
+    },
+    {
+      "ru": "Принтер",
+      "kk": "Принтер",
+      "ruTranscription": "принтер",
+      "kkTranscription": "Printer",
+      "category": "technology",
+      "id": 1716
+    },
+    {
+      "ru": "Сканер",
+      "kk": "Сканер",
+      "ruTranscription": "сканер",
+      "kkTranscription": "Skaner",
+      "category": "technology",
+      "id": 1717
+    },
+    {
+      "ru": "Ксерокс",
+      "kk": "Ксерокс",
+      "ruTranscription": "ксерокс",
+      "kkTranscription": "Kseroks",
+      "category": "technology",
+      "id": 1718
+    },
+    {
+      "ru": "Флешка",
+      "kk": "Флешка",
+      "ruTranscription": "флешка",
+      "kkTranscription": "Fleşka",
+      "category": "technology",
+      "id": 1719
+    },
+    {
+      "ru": "Жесткий диск",
+      "kk": "Қатқыл диск",
+      "ruTranscription": "қатқыл диск",
+      "kkTranscription": "Qatqyl disk",
+      "category": "technology",
+      "id": 1720
+    },
+    {
+      "ru": "Монитор",
+      "kk": "Монитор",
+      "ruTranscription": "монитор",
+      "kkTranscription": "Monitor",
+      "category": "technology",
+      "id": 1721
+    },
+    {
+      "ru": "Роутер",
+      "kk": "Роутер",
+      "ruTranscription": "роутер",
+      "kkTranscription": "Router",
+      "category": "technology",
+      "id": 1722
+    },
+    {
+      "ru": "Модем",
+      "kk": "Модем",
+      "ruTranscription": "модем",
+      "kkTranscription": "Modem",
+      "category": "technology",
+      "id": 1723
+    },
+    {
+      "ru": "Сервер",
+      "kk": "Сервер",
+      "ruTranscription": "сервер",
+      "kkTranscription": "Server",
+      "category": "technology",
+      "id": 1724
+    },
+    {
+      "ru": "Блок питания",
+      "kk": "Қуат көзі",
+      "ruTranscription": "қуат көзі",
+      "kkTranscription": "Quat közı",
+      "category": "technology",
+      "id": 1725
+    },
+    {
+      "ru": "Провод",
+      "kk": "Сым",
+      "ruTranscription": "сым",
+      "kkTranscription": "Sym",
+      "category": "technology",
+      "id": 1726
+    },
+    {
+      "ru": "Розетка",
+      "kk": "Айыр",
+      "ruTranscription": "айыр",
+      "kkTranscription": "Aiyr",
+      "category": "house",
+      "id": 1727
+    },
+    {
+      "ru": "Выключатель",
+      "kk": "Ажыратқыш",
+      "ruTranscription": "ажыратқыш",
+      "kkTranscription": "Ajyratqyş",
+      "category": "house",
+      "id": 1728
+    },
+    {
+      "ru": "Лампочка",
+      "kk": "Лампочка",
+      "ruTranscription": "лампочка",
+      "kkTranscription": "Lampoçka",
+      "category": "house",
+      "id": 1729
+    },
+    {
+      "ru": "Торшер",
+      "kk": "Торшер",
+      "ruTranscription": "торшер",
+      "kkTranscription": "Torşer",
+      "category": "house",
+      "id": 1730
+    },
+    {
+      "ru": "Бра",
+      "kk": "Бра",
+      "ruTranscription": "бра",
+      "kkTranscription": "Bra",
+      "category": "house",
+      "id": 1731
+    },
+    {
+      "ru": "Светильник",
+      "kk": "Шам",
+      "ruTranscription": "шам",
+      "kkTranscription": "Şam",
+      "category": "house",
+      "id": 1732
+    },
+    {
+      "ru": "Гирлянда",
+      "kk": "Гирлянда",
+      "ruTranscription": "гирлянда",
+      "kkTranscription": "Girljanda",
+      "category": "house",
+      "id": 1733
+    },
+    {
+      "ru": "Термометр",
+      "kk": "Термометр",
+      "ruTranscription": "термометр",
+      "kkTranscription": "Termometr",
+      "category": "technology",
+      "id": 1734
+    },
+    {
+      "ru": "Барометр",
+      "kk": "Барометр",
+      "ruTranscription": "барометр",
+      "kkTranscription": "Barometr",
+      "category": "technology",
+      "id": 1735
+    },
+    {
+      "ru": "Компас",
+      "kk": "Компас",
+      "ruTranscription": "компас",
+      "kkTranscription": "Kompas",
+      "category": "technology",
+      "id": 1736
+    },
+    {
+      "ru": "Бинокль",
+      "kk": "Бинокль",
+      "ruTranscription": "бинокль",
+      "kkTranscription": "Binokl",
+      "category": "technology",
+      "id": 1737
+    },
+    {
+      "ru": "Микроскоп",
+      "kk": "Микроскоп",
+      "ruTranscription": "микроскоп",
+      "kkTranscription": "Mikroskop",
+      "category": "technology",
+      "id": 1738
+    },
+    {
+      "ru": "Телескоп",
+      "kk": "Телескоп",
+      "ruTranscription": "телескоп",
+      "kkTranscription": "Teleskop",
+      "category": "technology",
+      "id": 1739
+    },
+    {
+      "ru": "Лупа",
+      "kk": "Үлкейткіш шыны",
+      "ruTranscription": "үлкейткіш шыны",
+      "kkTranscription": "Ülkeitkış şyny",
+      "category": "technology",
+      "id": 1740
+    },
+    {
+      "ru": "Шприц",
+      "kk": "Шприц",
+      "ruTranscription": "шприц",
+      "kkTranscription": "Şprits",
+      "category": "medicine",
+      "id": 1741
+    },
+    {
+      "ru": "Термос",
+      "kk": "Термос",
+      "ruTranscription": "термос",
+      "kkTranscription": "Termos",
+      "category": "house",
+      "id": 1742
+    },
+    {
+      "ru": "Чемодан",
+      "kk": "Шабадан",
+      "ruTranscription": "шабадан",
+      "kkTranscription": "Şabadan",
+      "category": "travel",
+      "id": 1743
+    },
+    {
+      "ru": "Рюкзак",
+      "kk": "Рюкзак",
+      "ruTranscription": "рюкзак",
+      "kkTranscription": "Rükzak",
+      "category": "travel",
+      "id": 1744
+    },
+    {
+      "ru": "Кошелек",
+      "kk": "Әмиян",
+      "ruTranscription": "әмиян",
+      "kkTranscription": "Ämiian",
+      "category": "basic",
+      "id": 1745
+    },
+    {
+      "ru": "Ключи",
+      "kk": "Кілт",
+      "ruTranscription": "кілт",
+      "kkTranscription": "Kılt",
+      "category": "house",
+      "id": 1746
+    },
+    {
+      "ru": "Замок",
+      "kk": "Құлып",
+      "ruTranscription": "құлып",
+      "kkTranscription": "Qūlyp",
+      "category": "house",
+      "id": 1747
+    },
+    {
+      "ru": "Цепь",
+      "kk": "Шынжыр",
+      "ruTranscription": "шынжыр",
+      "kkTranscription": "Şynjyr",
+      "category": "technology",
+      "id": 1748
     }
   ],
   "categories": {
