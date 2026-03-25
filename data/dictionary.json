@@ -1,5 +1,5 @@
 {
-  "version": "1.0.77",
+  "version": "1.0.78",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -19743,6 +19743,422 @@
       "kkTranscription": "Empatiia",
       "category": "emotions",
       "id": 2460
+    },
+    {
+      "ru": "Космос",
+      "kk": "Ғарыш",
+      "ruTranscription": "ғарыш",
+      "kkTranscription": "Ğaryş",
+      "category": "nature",
+      "id": 2461
+    },
+    {
+      "ru": "Вселенная",
+      "kk": "Әлем",
+      "ruTranscription": "әлем",
+      "kkTranscription": "Älem",
+      "category": "nature",
+      "id": 2462
+    },
+    {
+      "ru": "Галактика",
+      "kk": "Галактика",
+      "ruTranscription": "галактика",
+      "kkTranscription": "Galaktika",
+      "category": "nature",
+      "id": 2463
+    },
+    {
+      "ru": "Млечный Путь",
+      "kk": "Құс жолы",
+      "ruTranscription": "құс жолы",
+      "kkTranscription": "Qūs joly",
+      "category": "nature",
+      "id": 2464
+    },
+    {
+      "ru": "Планета",
+      "kk": "Планета",
+      "ruTranscription": "планета",
+      "kkTranscription": "Planeta",
+      "category": "nature",
+      "id": 2465
+    },
+    {
+      "ru": "Меркурий",
+      "kk": "Болпан",
+      "ruTranscription": "болпан",
+      "kkTranscription": "Bolpan",
+      "category": "nature",
+      "id": 2466
+    },
+    {
+      "ru": "Венера",
+      "kk": "Шолпан",
+      "ruTranscription": "шолпан",
+      "kkTranscription": "Şolpan",
+      "category": "nature",
+      "id": 2467
+    },
+    {
+      "ru": "Марс",
+      "kk": "Қызылжұлдыз",
+      "ruTranscription": "қызылжұлдыз",
+      "kkTranscription": "Qyzyljūldyz",
+      "category": "nature",
+      "id": 2468
+    },
+    {
+      "ru": "Юпитер",
+      "kk": "Есекқырған",
+      "ruTranscription": "есекқырған",
+      "kkTranscription": "Esekqyrğan",
+      "category": "nature",
+      "id": 2469
+    },
+    {
+      "ru": "Сатурн",
+      "kk": "Сатурн",
+      "ruTranscription": "сатурн",
+      "kkTranscription": "Saturn",
+      "category": "nature",
+      "id": 2470
+    },
+    {
+      "ru": "Уран",
+      "kk": "Уран",
+      "ruTranscription": "уран",
+      "kkTranscription": "Uran",
+      "category": "nature",
+      "id": 2471
+    },
+    {
+      "ru": "Нептун",
+      "kk": "Нептун",
+      "ruTranscription": "нептун",
+      "kkTranscription": "Neptun",
+      "category": "nature",
+      "id": 2472
+    },
+    {
+      "ru": "Спутник",
+      "kk": "Жерсерік",
+      "ruTranscription": "жерсерік",
+      "kkTranscription": "Jerserık",
+      "category": "nature",
+      "id": 2473
+    },
+    {
+      "ru": "Астероид",
+      "kk": "Астероид",
+      "ruTranscription": "астероид",
+      "kkTranscription": "Asteroid",
+      "category": "nature",
+      "id": 2474
+    },
+    {
+      "ru": "Комета",
+      "kk": "Құйрықты жұлдыз",
+      "ruTranscription": "құйрықты жұлдыз",
+      "kkTranscription": "Qūiryqty jūldyz",
+      "category": "nature",
+      "id": 2475
+    },
+    {
+      "ru": "Метеорит",
+      "kk": "Метеорит",
+      "ruTranscription": "метеорит",
+      "kkTranscription": "Meteorit",
+      "category": "nature",
+      "id": 2476
+    },
+    {
+      "ru": "Черная дыра",
+      "kk": "Қара құрдым",
+      "ruTranscription": "қара құрдым",
+      "kkTranscription": "Qara qūrdym",
+      "category": "nature",
+      "id": 2477
+    },
+    {
+      "ru": "Туманность",
+      "kk": "Тұмандық",
+      "ruTranscription": "тұмандық",
+      "kkTranscription": "Tūmandyq",
+      "category": "nature",
+      "id": 2478
+    },
+    {
+      "ru": "Созвездие",
+      "kk": "Шоқжұлдыз",
+      "ruTranscription": "шоқжұлдыз",
+      "kkTranscription": "Şoqjūldyz",
+      "category": "nature",
+      "id": 2479
+    },
+    {
+      "ru": "Орбита",
+      "kk": "Орбита",
+      "ruTranscription": "орбита",
+      "kkTranscription": "Orbita",
+      "category": "nature",
+      "id": 2480
+    },
+    {
+      "ru": "Астроном",
+      "kk": "Астроном",
+      "ruTranscription": "астроном",
+      "kkTranscription": "Astronom",
+      "category": "education",
+      "id": 2481
+    },
+    {
+      "ru": "Астронавт",
+      "kk": "Астронавт",
+      "ruTranscription": "астронавт",
+      "kkTranscription": "Astronavt",
+      "category": "work",
+      "id": 2482
+    },
+    {
+      "ru": "Космодром",
+      "kk": "Ғарыш айлағы",
+      "ruTranscription": "ғарыш айлағы",
+      "kkTranscription": "Ğaryş ailağy",
+      "category": "nature",
+      "id": 2483
+    },
+    {
+      "ru": "Космический корабль",
+      "kk": "Ғарыш кемесі",
+      "ruTranscription": "ғарыш кемесі",
+      "kkTranscription": "Ğaryş kemesı",
+      "category": "technology",
+      "id": 2484
+    },
+    {
+      "ru": "Спутник",
+      "kk": "Спутник",
+      "ruTranscription": "спутник",
+      "kkTranscription": "Sputnik",
+      "category": "technology",
+      "id": 2485
+    },
+    {
+      "ru": "Обсерватория",
+      "kk": "Серік",
+      "ruTranscription": "серік",
+      "kkTranscription": "Serık",
+      "category": "education",
+      "id": 2486
+    },
+    {
+      "ru": "Космическая станция",
+      "kk": "Ғарыш станциясы",
+      "ruTranscription": "ғарыш станциясы",
+      "kkTranscription": "Ğaryş stantsiiasy",
+      "category": "technology",
+      "id": 2487
+    },
+    {
+      "ru": "Международная космическая станция",
+      "kk": "Халықаралық ғарыш станциясы",
+      "ruTranscription": "халықаралық ғарыш станциясы",
+      "kkTranscription": "Khalyqaralyq ğaryş stantsiiasy",
+      "category": "technology",
+      "id": 2488
+    },
+    {
+      "ru": "Гравитация",
+      "kk": "Тартылыс күші",
+      "ruTranscription": "тартылыс күші",
+      "kkTranscription": "Tart ylys küşı",
+      "category": "education",
+      "id": 2489
+    },
+    {
+      "ru": "Невесомость",
+      "kk": "Салмақсыздық",
+      "ruTranscription": "салмақсыздық",
+      "kkTranscription": "Salmaqsyzdyq",
+      "category": "nature",
+      "id": 2490
+    },
+    {
+      "ru": "Космическая пыль",
+      "kk": "Ғарыш шаңы",
+      "ruTranscription": "ғарыш шаңы",
+      "kkTranscription": "Ğaryş şañy",
+      "category": "nature",
+      "id": 2491
+    },
+    {
+      "ru": "Сверхновая",
+      "kk": "Гипержаңа",
+      "ruTranscription": "гипержаңа",
+      "kkTranscription": "Giperjaña",
+      "category": "nature",
+      "id": 2492
+    },
+    {
+      "ru": "Пульсар",
+      "kk": "Пульсар",
+      "ruTranscription": "пульсар",
+      "kkTranscription": "Pulsar",
+      "category": "nature",
+      "id": 2493
+    },
+    {
+      "ru": "Квазар",
+      "kk": "Квазар",
+      "ruTranscription": "квазар",
+      "kkTranscription": "Kvazar",
+      "category": "nature",
+      "id": 2494
+    },
+    {
+      "ru": "Экзопланета",
+      "kk": "Экзопланета",
+      "ruTranscription": "экзопланета",
+      "kkTranscription": "Ekzoplaneta",
+      "category": "nature",
+      "id": 2495
+    },
+    {
+      "ru": "Жизнь во Вселенной",
+      "kk": "Әлемдегі тіршілік",
+      "ruTranscription": "әлемдегі тіршілік",
+      "kkTranscription": "Älemdegı tırşılık",
+      "category": "basic",
+      "id": 2496
+    },
+    {
+      "ru": "Инопланетянин",
+      "kk": "Бөгдепланеталық",
+      "ruTranscription": "бөгдепланеталық",
+      "kkTranscription": "Bögdeplanetаlyq",
+      "category": "basic",
+      "id": 2497
+    },
+    {
+      "ru": "НЛО",
+      "kk": "ЖҰН",
+      "ruTranscription": "жұн",
+      "kkTranscription": "JUN",
+      "category": "basic",
+      "id": 2498
+    },
+    {
+      "ru": "Космический мусор",
+      "kk": "Ғарыш қоқысы",
+      "ruTranscription": "ғарыш қоқысы",
+      "kkTranscription": "Ğaryş qoqysy",
+      "category": "nature",
+      "id": 2499
+    },
+    {
+      "ru": "Солнечная система",
+      "kk": "Күн жүйесі",
+      "ruTranscription": "күн жүйесі",
+      "kkTranscription": "Kün jüiesı",
+      "category": "nature",
+      "id": 2500
+    },
+    {
+      "ru": "Большой взрыв",
+      "kk": "Үлкен жарылыс",
+      "ruTranscription": "үлкен жарылыс",
+      "kkTranscription": "Ülken jarylys",
+      "category": "nature",
+      "id": 2501
+    },
+    {
+      "ru": "Темная материя",
+      "kk": "Қараңғы материя",
+      "ruTranscription": "қараңғы материя",
+      "kkTranscription": "Qarañğy materiia",
+      "category": "nature",
+      "id": 2502
+    },
+    {
+      "ru": "Темная энергия",
+      "kk": "Қараңғы энергия",
+      "ruTranscription": "қараңғы энергия",
+      "kkTranscription": "Qarañğy energiia",
+      "category": "nature",
+      "id": 2503
+    },
+    {
+      "ru": "Космический телескоп Хаббл",
+      "kk": "Хаббл ғарыш телескопы",
+      "ruTranscription": "хаббл ғарыш телескопы",
+      "kkTranscription": "Khаbbl ğaryş teleskopy",
+      "category": "technology",
+      "id": 2504
+    },
+    {
+      "ru": "Созвездие Большой Медведицы",
+      "kk": "Жетіқарақшы шоқжұлдызы",
+      "ruTranscription": "жетіқарақшы шоқжұлдызы",
+      "kkTranscription": "Jetıqaraqşy şoqjūldyzy",
+      "category": "nature",
+      "id": 2505
+    },
+    {
+      "ru": "Полярная звезда",
+      "kk": "Темірқазық",
+      "ruTranscription": "темірқазық",
+      "kkTranscription": "Temırqazyq",
+      "category": "nature",
+      "id": 2506
+    },
+    {
+      "ru": "Метеорный поток",
+      "kk": "Метеор ағыны",
+      "ruTranscription": "метеор ағыны",
+      "kkTranscription": "Meteor ağyny",
+      "category": "nature",
+      "id": 2507
+    },
+    {
+      "ru": "Затмение",
+      "kk": "Тұтылу",
+      "ruTranscription": "тұтылу",
+      "kkTranscription": "Tūtylu",
+      "category": "nature",
+      "id": 2508
+    },
+    {
+      "ru": "Солнечное затмение",
+      "kk": "Күн тұтылу",
+      "ruTranscription": "күн тұтылу",
+      "kkTranscription": "Kün tūtylu",
+      "category": "nature",
+      "id": 2509
+    },
+    {
+      "ru": "Лунное затмение",
+      "kk": "Ай тұтылу",
+      "ruTranscription": "ай тұтылу",
+      "kkTranscription": "Ai tūtylu",
+      "category": "nature",
+      "id": 2510
+    },
+    {
+      "ru": "Суперлуние",
+      "kk": "Супер ай",
+      "ruTranscription": "супер ай",
+      "kkTranscription": "Super ai",
+      "category": "nature",
+      "id": 2511
+    },
+    {
+      "ru": "Космический туризм",
+      "kk": "Ғарыш туризмі",
+      "ruTranscription": "ғарыш туризмі",
+      "kkTranscription": "Ğaryş turizmı",
+      "category": "travel",
+      "id": 2512
     }
   ],
   "categories": {
