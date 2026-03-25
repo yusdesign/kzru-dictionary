@@ -1,5 +1,5 @@
 {
-  "version": "1.0.59",
+  "version": "1.0.60",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -12051,6 +12051,646 @@
       "kkTranscription": "Qalai aitsañ!",
       "category": "phrases",
       "id": 1499
+    },
+    {
+      "ru": "Вещь",
+      "kk": "Зат",
+      "ruTranscription": "зат",
+      "kkTranscription": "Zat",
+      "category": "basic",
+      "id": 1500
+    },
+    {
+      "ru": "Предмет",
+      "kk": "Нәрсе",
+      "ruTranscription": "нәрсе",
+      "kkTranscription": "Närse",
+      "category": "basic",
+      "id": 1501
+    },
+    {
+      "ru": "Штука",
+      "kk": "Дүние",
+      "ruTranscription": "дүние",
+      "kkTranscription": "Dünie",
+      "category": "basic",
+      "id": 1502
+    },
+    {
+      "ru": "Случай",
+      "kk": "Жағдай",
+      "ruTranscription": "жағдай",
+      "kkTranscription": "Jağdai",
+      "category": "basic",
+      "id": 1503
+    },
+    {
+      "ru": "Событие",
+      "kk": "Оқиға",
+      "ruTranscription": "оқиға",
+      "kkTranscription": "Oqiğa",
+      "category": "basic",
+      "id": 1504
+    },
+    {
+      "ru": "Факт",
+      "kk": "Дерек",
+      "ruTranscription": "дерек",
+      "kkTranscription": "Derek",
+      "category": "basic",
+      "id": 1505
+    },
+    {
+      "ru": "Пример",
+      "kk": "Мысал",
+      "ruTranscription": "мысал",
+      "kkTranscription": "Mysal",
+      "category": "basic",
+      "id": 1506
+    },
+    {
+      "ru": "Причина",
+      "kk": "Себеп",
+      "ruTranscription": "себеп",
+      "kkTranscription": "Sebep",
+      "category": "basic",
+      "id": 1507
+    },
+    {
+      "ru": "Следствие",
+      "kk": "Салдар",
+      "ruTranscription": "салдар",
+      "kkTranscription": "Saldar",
+      "category": "basic",
+      "id": 1508
+    },
+    {
+      "ru": "Результат",
+      "kk": "Нәтиже",
+      "ruTranscription": "нәтиже",
+      "kkTranscription": "Nätije",
+      "category": "basic",
+      "id": 1509
+    },
+    {
+      "ru": "Разница",
+      "kk": "Айырма",
+      "ruTranscription": "айырма",
+      "kkTranscription": "Aiyrma",
+      "category": "basic",
+      "id": 1510
+    },
+    {
+      "ru": "Сходство",
+      "kk": "Ұқсастық",
+      "ruTranscription": "ұқсастық",
+      "kkTranscription": "Ūqsastyq",
+      "category": "basic",
+      "id": 1511
+    },
+    {
+      "ru": "Количество",
+      "kk": "Саны",
+      "ruTranscription": "саны",
+      "kkTranscription": "Sany",
+      "category": "basic",
+      "id": 1512
+    },
+    {
+      "ru": "Качество",
+      "kk": "Сапа",
+      "ruTranscription": "сапа",
+      "kkTranscription": "Sapa",
+      "category": "basic",
+      "id": 1513
+    },
+    {
+      "ru": "Размер",
+      "kk": "Өлшем",
+      "ruTranscription": "өлшем",
+      "kkTranscription": "Ölşem",
+      "category": "basic",
+      "id": 1514
+    },
+    {
+      "ru": "Форма",
+      "kk": "Пішін",
+      "ruTranscription": "пішін",
+      "kkTranscription": "Pışın",
+      "category": "basic",
+      "id": 1515
+    },
+    {
+      "ru": "Цвет",
+      "kk": "Түс",
+      "ruTranscription": "түс",
+      "kkTranscription": "Tüs",
+      "category": "colors",
+      "id": 1516
+    },
+    {
+      "ru": "Вкус",
+      "kk": "Дәм",
+      "ruTranscription": "дәм",
+      "kkTranscription": "Däm",
+      "category": "basic",
+      "id": 1517
+    },
+    {
+      "ru": "Запах",
+      "kk": "Иіс",
+      "ruTranscription": "иіс",
+      "kkTranscription": "Iıs",
+      "category": "basic",
+      "id": 1518
+    },
+    {
+      "ru": "Свет",
+      "kk": "Жарық",
+      "ruTranscription": "жарық",
+      "kkTranscription": "Jaryq",
+      "category": "basic",
+      "id": 1519
+    },
+    {
+      "ru": "Тень",
+      "kk": "Көлеңке",
+      "ruTranscription": "көлеңке",
+      "kkTranscription": "Köleñke",
+      "category": "basic",
+      "id": 1520
+    },
+    {
+      "ru": "Скорость",
+      "kk": "Жылдамдық",
+      "ruTranscription": "жылдамдық",
+      "kkTranscription": "Jyldamdyq",
+      "category": "basic",
+      "id": 1521
+    },
+    {
+      "ru": "Энергия",
+      "kk": "Энергия",
+      "ruTranscription": "энергия",
+      "kkTranscription": "Energiia",
+      "category": "basic",
+      "id": 1522
+    },
+    {
+      "ru": "Движение",
+      "kk": "Қозғалыс",
+      "ruTranscription": "қозғалыс",
+      "kkTranscription": "Qozğalys",
+      "category": "basic",
+      "id": 1523
+    },
+    {
+      "ru": "Отдых",
+      "kk": "Демалыс",
+      "ruTranscription": "демалыс",
+      "kkTranscription": "Demalys",
+      "category": "basic",
+      "id": 1524
+    },
+    {
+      "ru": "Учёба",
+      "kk": "Оқу",
+      "ruTranscription": "оқу",
+      "kkTranscription": "Oqu",
+      "category": "education",
+      "id": 1525
+    },
+    {
+      "ru": "Игра",
+      "kk": "Ойын",
+      "ruTranscription": "ойын",
+      "kkTranscription": "Oiyn",
+      "category": "basic",
+      "id": 1526
+    },
+    {
+      "ru": "Власть",
+      "kk": "Билік",
+      "ruTranscription": "билік",
+      "kkTranscription": "Bılık",
+      "category": "basic",
+      "id": 1527
+    },
+    {
+      "ru": "Право",
+      "kk": "Құқық",
+      "ruTranscription": "құқық",
+      "kkTranscription": "Qūqyq",
+      "category": "basic",
+      "id": 1528
+    },
+    {
+      "ru": "Долг",
+      "kk": "Борыш",
+      "ruTranscription": "борыш",
+      "kkTranscription": "Boryş",
+      "category": "basic",
+      "id": 1529
+    },
+    {
+      "ru": "Обязанность",
+      "kk": "Міндет",
+      "ruTranscription": "міндет",
+      "kkTranscription": "Mındet",
+      "category": "basic",
+      "id": 1530
+    },
+    {
+      "ru": "Возможность",
+      "kk": "Мүмкіндік",
+      "ruTranscription": "мүмкіндік",
+      "kkTranscription": "Mümkındık",
+      "category": "basic",
+      "id": 1531
+    },
+    {
+      "ru": "Навык",
+      "kk": "Дағды",
+      "ruTranscription": "дағды",
+      "kkTranscription": "Dağdy",
+      "category": "basic",
+      "id": 1532
+    },
+    {
+      "ru": "Секрет",
+      "kk": "Құпия",
+      "ruTranscription": "құпия",
+      "kkTranscription": "Qūpiia",
+      "category": "basic",
+      "id": 1533
+    },
+    {
+      "ru": "Загадка",
+      "kk": "Жұмбақ",
+      "ruTranscription": "жұмбақ",
+      "kkTranscription": "Jūmbaq",
+      "category": "basic",
+      "id": 1534
+    },
+    {
+      "ru": "Ответ",
+      "kk": "Жауап",
+      "ruTranscription": "жауап",
+      "kkTranscription": "Jauap",
+      "category": "basic",
+      "id": 1535
+    },
+    {
+      "ru": "Вопрос",
+      "kk": "Сұрақ",
+      "ruTranscription": "сұрақ",
+      "kkTranscription": "Sūraq",
+      "category": "basic",
+      "id": 1536
+    },
+    {
+      "ru": "Проблема",
+      "kk": "Мәселе",
+      "ruTranscription": "мәселе",
+      "kkTranscription": "Mäsele",
+      "category": "basic",
+      "id": 1537
+    },
+    {
+      "ru": "Решение",
+      "kk": "Шешім",
+      "ruTranscription": "шешім",
+      "kkTranscription": "Şeşım",
+      "category": "basic",
+      "id": 1538
+    },
+    {
+      "ru": "Способ",
+      "kk": "Тәсіл",
+      "ruTranscription": "тәсіл",
+      "kkTranscription": "Täsıl",
+      "category": "basic",
+      "id": 1539
+    },
+    {
+      "ru": "Метод",
+      "kk": "Әдіс",
+      "ruTranscription": "әдіс",
+      "kkTranscription": "Ädıs",
+      "category": "basic",
+      "id": 1540
+    },
+    {
+      "ru": "Задача",
+      "kk": "Міндет",
+      "ruTranscription": "міндет",
+      "kkTranscription": "Mındet",
+      "category": "basic",
+      "id": 1541
+    },
+    {
+      "ru": "Мнение",
+      "kk": "Пікір",
+      "ruTranscription": "пікір",
+      "kkTranscription": "Pıkır",
+      "category": "basic",
+      "id": 1542
+    },
+    {
+      "ru": "Совет",
+      "kk": "Кеңес",
+      "ruTranscription": "кеңес",
+      "kkTranscription": "Keñes",
+      "category": "basic",
+      "id": 1543
+    },
+    {
+      "ru": "Предложение",
+      "kk": "Ұсыныс",
+      "ruTranscription": "ұсыныс",
+      "kkTranscription": "Ūsynys",
+      "category": "basic",
+      "id": 1544
+    },
+    {
+      "ru": "Выбор",
+      "kk": "Таңдау",
+      "ruTranscription": "таңдау",
+      "kkTranscription": "Tañdau",
+      "category": "basic",
+      "id": 1545
+    },
+    {
+      "ru": "Согласие",
+      "kk": "Келісім",
+      "ruTranscription": "келісім",
+      "kkTranscription": "Kelısım",
+      "category": "basic",
+      "id": 1546
+    },
+    {
+      "ru": "Отказ",
+      "kk": "Бас тарту",
+      "ruTranscription": "бас тарту",
+      "kkTranscription": "Bas tartu",
+      "category": "basic",
+      "id": 1547
+    },
+    {
+      "ru": "Разрешение",
+      "kk": "Рұқсат",
+      "ruTranscription": "рұқсат",
+      "kkTranscription": "Rūqsat",
+      "category": "basic",
+      "id": 1548
+    },
+    {
+      "ru": "Запрет",
+      "kk": "Тыйым",
+      "ruTranscription": "тыйым",
+      "kkTranscription": "Tyıym",
+      "category": "basic",
+      "id": 1549
+    },
+    {
+      "ru": "Помощь",
+      "kk": "Көмек",
+      "ruTranscription": "көмек",
+      "kkTranscription": "Kömek",
+      "category": "basic",
+      "id": 1550
+    },
+    {
+      "ru": "Поддержка",
+      "kk": "Қолдау",
+      "ruTranscription": "қолдау",
+      "kkTranscription": "Qoldau",
+      "category": "basic",
+      "id": 1551
+    },
+    {
+      "ru": "Внимание",
+      "kk": "Назар",
+      "ruTranscription": "назар",
+      "kkTranscription": "Nazar",
+      "category": "basic",
+      "id": 1552
+    },
+    {
+      "ru": "Забота",
+      "kk": "Қамқорлық",
+      "ruTranscription": "қамқорлық",
+      "kkTranscription": "Qamqorlyq",
+      "category": "basic",
+      "id": 1553
+    },
+    {
+      "ru": "Уважение",
+      "kk": "Құрмет",
+      "ruTranscription": "құрмет",
+      "kkTranscription": "Qūrmet",
+      "category": "basic",
+      "id": 1554
+    },
+    {
+      "ru": "Доверие",
+      "kk": "Сенім",
+      "ruTranscription": "сенім",
+      "kkTranscription": "Senım",
+      "category": "basic",
+      "id": 1555
+    },
+    {
+      "ru": "Сомнение",
+      "kk": "Күмән",
+      "ruTranscription": "күмән",
+      "kkTranscription": "Kümän",
+      "category": "basic",
+      "id": 1556
+    },
+    {
+      "ru": "Желание",
+      "kk": "Тілек",
+      "ruTranscription": "тілек",
+      "kkTranscription": "Tılek",
+      "category": "basic",
+      "id": 1557
+    },
+    {
+      "ru": "Потребность",
+      "kk": "Қажеттілік",
+      "ruTranscription": "қажеттілік",
+      "kkTranscription": "Qajettılık",
+      "category": "basic",
+      "id": 1558
+    },
+    {
+      "ru": "Удовольствие",
+      "kk": "Ләззат",
+      "ruTranscription": "ләззат",
+      "kkTranscription": "Läzzat",
+      "category": "basic",
+      "id": 1559
+    },
+    {
+      "ru": "Удача",
+      "kk": "Сәттілік",
+      "ruTranscription": "сәттілік",
+      "kkTranscription": "Sättılık",
+      "category": "phrases",
+      "id": 1560
+    },
+    {
+      "ru": "Неудача",
+      "kk": "Сәтсіздік",
+      "ruTranscription": "сәтсіздік",
+      "kkTranscription": "Sätsızdık",
+      "category": "basic",
+      "id": 1561
+    },
+    {
+      "ru": "Успех",
+      "kk": "Жетістік",
+      "ruTranscription": "жетістік",
+      "kkTranscription": "Jetıstık",
+      "category": "basic",
+      "id": 1562
+    },
+    {
+      "ru": "Польза",
+      "kk": "Пайда",
+      "ruTranscription": "пайда",
+      "kkTranscription": "Paida",
+      "category": "basic",
+      "id": 1563
+    },
+    {
+      "ru": "Вред",
+      "kk": "Зиян",
+      "ruTranscription": "зиян",
+      "kkTranscription": "Ziian",
+      "category": "basic",
+      "id": 1564
+    },
+    {
+      "ru": "Риск",
+      "kk": "Тәуекел",
+      "ruTranscription": "тәуекел",
+      "kkTranscription": "Täuekel",
+      "category": "basic",
+      "id": 1565
+    },
+    {
+      "ru": "Шанс",
+      "kk": "Мүмкіндік",
+      "ruTranscription": "мүмкіндік",
+      "kkTranscription": "Mümkındık",
+      "category": "basic",
+      "id": 1566
+    },
+    {
+      "ru": "Граница",
+      "kk": "Шекара",
+      "ruTranscription": "шекара",
+      "kkTranscription": "Şekara",
+      "category": "basic",
+      "id": 1567
+    },
+    {
+      "ru": "Предел",
+      "kk": "Шек",
+      "ruTranscription": "шек",
+      "kkTranscription": "Şek",
+      "category": "basic",
+      "id": 1568
+    },
+    {
+      "ru": "Начало",
+      "kk": "Бастау",
+      "ruTranscription": "бастау",
+      "kkTranscription": "Bastau",
+      "category": "basic",
+      "id": 1569
+    },
+    {
+      "ru": "Конец",
+      "kk": "Аяқ",
+      "ruTranscription": "аяқ",
+      "kkTranscription": "Aiaq",
+      "category": "basic",
+      "id": 1570
+    },
+    {
+      "ru": "Середина",
+      "kk": "Орта",
+      "ruTranscription": "орта",
+      "kkTranscription": "Orta",
+      "category": "basic",
+      "id": 1571
+    },
+    {
+      "ru": "Край",
+      "kk": "Шет",
+      "ruTranscription": "шет",
+      "kkTranscription": "Şet",
+      "category": "basic",
+      "id": 1572
+    },
+    {
+      "ru": "Центр",
+      "kk": "Орталық",
+      "ruTranscription": "орталық",
+      "kkTranscription": "Orтаlyq",
+      "category": "city",
+      "id": 1573
+    },
+    {
+      "ru": "Сторона",
+      "kk": "Жақ",
+      "ruTranscription": "жақ",
+      "kkTranscription": "Jaq",
+      "category": "basic",
+      "id": 1574
+    },
+    {
+      "ru": "Ряд",
+      "kk": "Қатар",
+      "ruTranscription": "қатар",
+      "kkTranscription": "Qatar",
+      "category": "basic",
+      "id": 1575
+    },
+    {
+      "ru": "Линия",
+      "kk": "Сызық",
+      "ruTranscription": "сызық",
+      "kkTranscription": "Syzyq",
+      "category": "basic",
+      "id": 1576
+    },
+    {
+      "ru": "Круг",
+      "kk": "Дөңгелек",
+      "ruTranscription": "дөңгелек",
+      "kkTranscription": "Döñgelek",
+      "category": "adjectives",
+      "id": 1577
+    },
+    {
+      "ru": "Квадрат",
+      "kk": "Шаршы",
+      "ruTranscription": "шаршы",
+      "kkTranscription": "Şarşy",
+      "category": "adjectives",
+      "id": 1578
+    },
+    {
+      "ru": "Треугольник",
+      "kk": "Үшбұрыш",
+      "ruTranscription": "үшбұрыш",
+      "kkTranscription": "Üşbūryş",
+      "category": "adjectives",
+      "id": 1579
     }
   ],
   "categories": {
