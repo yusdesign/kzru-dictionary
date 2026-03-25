@@ -1,6 +1,6 @@
 {
-  "version": "1.0.34",
-  "lastUpdated": "2026-03-24",
+  "version": "1.0.35",
+  "lastUpdated": "2026-03-25",
   "entries": [
     {
       "id": 1,
@@ -7403,6 +7403,22 @@
       "kkTranscription": "Tättı ūiyqy",
       "category": "phrases",
       "id": 918
+    },
+    {
+      "ru": "Мечта",
+      "kk": "Арман",
+      "ruTranscription": "арман",
+      "kkTranscription": "Arman",
+      "category": "emotions",
+      "id": 919
+    },
+    {
+      "ru": "Магия",
+      "kk": "Сиқыр",
+      "ruTranscription": "сиқыр",
+      "kkTranscription": "Siqyr",
+      "category": "culture",
+      "id": 920
     }
   ],
   "categories": {
