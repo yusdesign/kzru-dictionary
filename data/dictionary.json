@@ -1,5 +1,5 @@
 {
-  "version": "1.0.58",
+  "version": "1.0.59",
   "lastUpdated": "2026-03-25",
   "entries": [
     {
@@ -11891,6 +11891,166 @@
       "kkTranscription": "Şyğu uaqyty sağat neşe?",
       "category": "phrases",
       "id": 1479
+    },
+    {
+      "ru": "Замечательно!",
+      "kk": "Керемет!",
+      "ruTranscription": "керемет!",
+      "kkTranscription": "Keremet!",
+      "category": "phrases",
+      "id": 1480
+    },
+    {
+      "ru": "Отлично!",
+      "kk": "Өте жақсы!",
+      "ruTranscription": "өте жақсы!",
+      "kkTranscription": "Öte jaqsy!",
+      "category": "phrases",
+      "id": 1481
+    },
+    {
+      "ru": "Как здорово!",
+      "kk": "Қандай керемет!",
+      "ruTranscription": "қандай керемет!",
+      "kkTranscription": "Qandai keremet!",
+      "category": "phrases",
+      "id": 1482
+    },
+    {
+      "ru": "Потрясающе!",
+      "kk": "Тамаша!",
+      "ruTranscription": "тамаша!",
+      "kkTranscription": "Tamaşa!",
+      "category": "phrases",
+      "id": 1483
+    },
+    {
+      "ru": "Не может быть!",
+      "kk": "Болмаса керек!",
+      "ruTranscription": "болмаса керек!",
+      "kkTranscription": "Bolmasa kerek!",
+      "category": "phrases",
+      "id": 1484
+    },
+    {
+      "ru": "С ума сойти!",
+      "kk": "Ақылдан айырылар!",
+      "ruTranscription": "ақылдан айырылар!",
+      "kkTranscription": "Aqyldan aiyr ylar!",
+      "category": "phrases",
+      "id": 1485
+    },
+    {
+      "ru": "Какой ужас!",
+      "kk": "Қандай сұмдық!",
+      "ruTranscription": "қандай сұмдық!",
+      "kkTranscription": "Qandai sūmdyq!",
+      "category": "phrases",
+      "id": 1486
+    },
+    {
+      "ru": "Боже мой!",
+      "kk": "Тәңірім!",
+      "ruTranscription": "тәңірім!",
+      "kkTranscription": "Täñırım!",
+      "category": "phrases",
+      "id": 1487
+    },
+    {
+      "ru": "Осторожно!",
+      "kk": "Абайла!",
+      "ruTranscription": "абайла!",
+      "kkTranscription": "Abaila!",
+      "category": "phrases",
+      "id": 1488
+    },
+    {
+      "ru": "Тише!",
+      "kk": "Тыныш!",
+      "ruTranscription": "тыныш!",
+      "kkTranscription": "Tynyş!",
+      "category": "phrases",
+      "id": 1489
+    },
+    {
+      "ru": "Скорее!",
+      "kk": "Тезірек!",
+      "ruTranscription": "тезірек!",
+      "kkTranscription": "Tezırek!",
+      "category": "phrases",
+      "id": 1490
+    },
+    {
+      "ru": "Осторожно, горячо!",
+      "kk": "Абайла, ыстық!",
+      "ruTranscription": "абайла, ыстық!",
+      "kkTranscription": "Abaila, ystyq!",
+      "category": "phrases",
+      "id": 1491
+    },
+    {
+      "ru": "Слава богу!",
+      "kk": "Құдайға шүкір!",
+      "ruTranscription": "құдайға шүкір!",
+      "kkTranscription": "Qūdaiğa şükır!",
+      "category": "phrases",
+      "id": 1492
+    },
+    {
+      "ru": "Как жаль!",
+      "kk": "Қандай өкінішті!",
+      "ruTranscription": "қандай өкінішті!",
+      "kkTranscription": "Qandai ökınıştı!",
+      "category": "phrases",
+      "id": 1493
+    },
+    {
+      "ru": "Удивительно!",
+      "kk": "Таңқаларлық!",
+      "ruTranscription": "таңқаларлық!",
+      "kkTranscription": "Tañqalarlyq!",
+      "category": "phrases",
+      "id": 1494
+    },
+    {
+      "ru": "Именно!",
+      "kk": "Дәл солай!",
+      "ruTranscription": "дәл солай!",
+      "kkTranscription": "Däl solai!",
+      "category": "phrases",
+      "id": 1495
+    },
+    {
+      "ru": "Конечно!",
+      "kk": "Әрине!",
+      "ruTranscription": "әрине!",
+      "kkTranscription": "Ärine!",
+      "category": "phrases",
+      "id": 1496
+    },
+    {
+      "ru": "Обязательно!",
+      "kk": "Міндетті түрде!",
+      "ruTranscription": "міндетті түрде!",
+      "kkTranscription": "Mındettı türde!",
+      "category": "phrases",
+      "id": 1497
+    },
+    {
+      "ru": "Не стоит!",
+      "kk": "Тұрмайды!",
+      "ruTranscription": "тұрмайды!",
+      "kkTranscription": "Tūrmaidy!",
+      "category": "phrases",
+      "id": 1498
+    },
+    {
+      "ru": "Как скажешь!",
+      "kk": "Қалай айтсаң!",
+      "ruTranscription": "қалай айтсаң!",
+      "kkTranscription": "Qalai aitsañ!",
+      "category": "phrases",
+      "id": 1499
     }
   ],
   "categories": {
